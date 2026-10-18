@@ -1,0 +1,4 @@
+# The Anki source deck (1.7 GB) exceeds GitHub's 100 MB file limit — keep it local.
+# Media extracted from it (src/assets/audio, src/assets/img) IS published with the site.
+*.apkg
+node_modules/

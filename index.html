@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>HànZì Master — Học ít, nhớ nhiều</title>
+  <meta name="description" content="Học từ vựng tiếng Trung theo chuẩn HSK 3.0 với FSRS-4.5, 15 dạng bài Active Recall và gợi ý ghi nhớ theo bộ thủ.">
+  <meta name="theme-color" content="#0D0F14">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="src/assets/icons/icon.svg" type="image/svg+xml">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Noto+Serif+SC:wght@400;700&family=Outfit:wght@400;500&display=swap">
+
+  <link rel="stylesheet" href="src/css/tokens.css">
+  <link rel="stylesheet" href="src/css/main.css">
+  <link rel="stylesheet" href="src/css/components.css">
+  <link rel="stylesheet" href="src/css/animations.css">
+
+  <!-- Stroke order & writing quiz (Mode 4). App degrades gracefully when offline. -->
+  <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7.0/dist/hanzi-writer.min.js" defer></script>
+  <script type="module" src="src/js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#app">Bỏ qua điều hướng</a>
+
+  <header class="topbar" role="banner">
+    <a class="brand" href="#/" aria-label="HànZì Master — Trang chủ">
+      <span class="brand__mark" aria-hidden="true">汉</span>
+      <span class="brand__name">HànZì Master</span>
+    </a>
+    <nav class="nav nav--top" aria-label="Điều hướng chính">
+      <a class="nav__link" href="#/" data-route="/">Tổng quan</a>
+      <a class="nav__link" href="#/lessons" data-route="/lessons">Bài học</a>
+      <a class="nav__link" href="#/study" data-route="/study">Ôn tập</a>
+      <a class="nav__link" href="#/browse" data-route="/browse">Từ điển</a>
+      <a class="nav__link" href="#/stats" data-route="/stats">Thống kê</a>
+      <a class="nav__link" href="#/settings" data-route="/settings">Cài đặt</a>
+    </nav>
+    <div class="topbar__meta" id="topbar-meta" aria-live="polite"></div>
+  </header>
+
+  <main id="app" class="app" tabindex="-1" aria-live="polite">
+    <div class="boot" role="status">
+      <span class="boot__hanzi" aria-hidden="true">学</span>
+      <p class="boot__text">Đang tải dữ liệu…</p>
+      <noscript><p>HànZì Master cần JavaScript để hoạt động.</p></noscript>
+    </div>
+  </main>
+
+  <nav class="nav nav--bottom" aria-label="Điều hướng (di động)">
+    <a class="nav__link" href="#/" data-route="/"><span aria-hidden="true">⌂</span><span>Tổng quan</span></a>
+    <a class="nav__link" href="#/lessons" data-route="/lessons"><span aria-hidden="true">课</span><span>Bài học</span></a>
+    <a class="nav__link" href="#/study" data-route="/study"><span aria-hidden="true">学</span><span>Ôn tập</span></a>
+    <a class="nav__link" href="#/browse" data-route="/browse"><span aria-hidden="true">典</span><span>Từ điển</span></a>
+    <a class="nav__link" href="#/stats" data-route="/stats"><span aria-hidden="true">▤</span><span>Thống kê</span></a>
+    <a class="nav__link" href="#/settings" data-route="/settings"><span aria-hidden="true">⚙</span><span>Cài đặt</span></a>
+  </nav>
+
+  <div class="toast-region" id="toast-region" role="status" aria-live="polite"></div>
+  <div id="modal-root"></div>
+  <canvas class="confetti" id="confetti" aria-hidden="true"></canvas>
+</body>
+</html>

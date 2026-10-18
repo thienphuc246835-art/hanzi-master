@@ -1,0 +1,129 @@
+/* Design tokens — source of truth: CLAUDE.md §2.2 */
+:root {
+  color-scheme: dark;
+
+  /* Palette */
+  --color-bg-primary: #0D0F14;
+  --color-surface: #161920;
+  --color-surface-raised: #1D2129;
+  --color-border: #2A2F3A;
+  --color-accent-gold: #E8B86D;
+  --color-accent-blue: #6D9EEB;
+  --color-success: #4CAF7D;
+  --color-danger: #E05C5C;
+  --color-text-primary: #F0EDE8;
+  --color-text-secondary: #8A8F9E;
+  --color-text-on-accent: #0D0F14;
+
+  /* Rating colors (Again / Hard / Good / Easy) */
+  --color-rating-1: var(--color-danger);
+  --color-rating-2: var(--color-accent-gold);
+  --color-rating-3: var(--color-success);
+  --color-rating-4: var(--color-accent-blue);
+
+  /* Tone colors — consistent across the app (Mode 9) */
+  --color-tone-1: #E05C5C;
+  --color-tone-2: #E8B86D;
+  --color-tone-3: #4CAF7D;
+  --color-tone-4: #6D9EEB;
+  --color-tone-5: #8A8F9E;
+
+  /* Heatmap ramp (single hue, light → dark on dark surface = dim → bright) */
+  --heat-0: #1D2129;
+  --heat-1: #3A3424;
+  --heat-2: #6B5733;
+  --heat-3: #A9844C;
+  --heat-4: #E8B86D;
+
+  /* Typography */
+  --font-hanzi: 'Noto Serif SC', 'Songti SC', 'SimSun', serif;
+  --font-pinyin: 'Outfit', 'Inter', system-ui, sans-serif;
+  --font-ui: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --hanzi-scale: 1;
+  --size-hanzi-card: calc(clamp(72px, 18vw, 120px) * var(--hanzi-scale));
+  --size-hanzi-md: calc(clamp(36px, 8vw, 56px) * var(--hanzi-scale));
+  --size-hanzi-sm: calc(24px * var(--hanzi-scale));
+
+  /* Spacing & shape */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --spacing-card-padding: 2rem;
+  --radius-sm: 8px;
+  --radius-card: 16px;
+  --radius-pill: 999px;
+  --gutter: 16px;
+  --content-max: 1120px;
+  --topbar-h: 60px;
+  --bottombar-h: 64px;
+
+  /* Motion — spring-like curves, no linear easing */
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --transition-card-flip: 400ms var(--ease-spring);
+  --transition-fast: 150ms var(--ease-out);
+
+  --shadow-card: 0 1px 0 rgba(255, 255, 255, 0.03) inset, 0 12px 32px rgba(0, 0, 0, 0.35);
+  --focus-ring: 0 0 0 3px rgba(109, 158, 235, 0.55);
+}
+
+:root {
+  --color-topbar: rgba(13, 15, 20, 0.86);
+  --color-badge-bg: rgba(109, 158, 235, 0.14);
+  --color-badge-text: #8DB5F2;
+  --color-lesson-num: rgba(240, 237, 232, 0.06);
+}
+
+/* Light "giấy kem" theme (layout reference: mauweb.png) — dark stays the default */
+:root[data-theme="light"] {
+  color-scheme: light;
+  --color-bg-primary: #F7F3EC;
+  --color-surface: #FFFFFF;
+  --color-surface-raised: #F3EEE5;
+  --color-border: #E4DCCD;
+  --color-accent-gold: #9A6A1E;
+  --color-accent-blue: #2F5FC4;
+  --color-success: #2E8B5A;
+  --color-danger: #C23B3B;
+  --color-text-primary: #1E1B16;
+  --color-text-secondary: #6B6457;
+  --color-text-on-accent: #FFFFFF;
+  --color-tone-1: #C23B3B;
+  --color-tone-2: #9A6A1E;
+  --color-tone-3: #2E8B5A;
+  --color-tone-4: #2F5FC4;
+  --color-tone-5: #6B6457;
+  --heat-0: #EEE7DA;
+  --heat-1: #E8D5AC;
+  --heat-2: #D9B46C;
+  --heat-3: #B98835;
+  --heat-4: #8C5F17;
+  --color-topbar: rgba(247, 243, 236, 0.9);
+  --color-badge-bg: #E6EEFC;
+  --color-badge-text: #2F5FC4;
+  --color-lesson-num: rgba(30, 27, 22, 0.06);
+  --shadow-card: 0 1px 2px rgba(60, 45, 20, 0.06);
+  --focus-ring: 0 0 0 3px rgba(47, 95, 196, 0.35);
+}
+
+/* High contrast mode (CLAUDE.md §10.2) */
+:root[data-contrast="high"] {
+  --color-bg-primary: #000000;
+  --color-surface: #0A0A0A;
+  --color-surface-raised: #141414;
+  --color-border: #8A8F9E;
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #D0D3DA;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --transition-card-flip: 1ms linear;
+    --transition-fast: 1ms linear;
+  }
+}

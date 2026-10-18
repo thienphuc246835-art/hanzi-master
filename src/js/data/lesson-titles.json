@@ -1,0 +1,18 @@
+{
+  "_note": "Tên bài theo giáo trình. Thêm tên cho HSK 2–3 tại đây (khoá = id bài), rồi chạy lại npm run import-anki.",
+  "hsk1-b01": { "title_vi": "AI Tiểu Ngữ, xin chào!", "title_zh": "AI小语，你好！" },
+  "hsk1-b02": { "title_vi": "Tôi tên là Lý Văn", "title_zh": "我叫李文" },
+  "hsk1-b03": { "title_vi": "Tôi là người Trung Quốc", "title_zh": "我是中国人" },
+  "hsk1-b04": { "title_vi": "Tôi có hai đứa con", "title_zh": "我有两个孩子" },
+  "hsk1-b05": { "title_vi": "Hôm nay tôi nghỉ", "title_zh": "今天我休息" },
+  "hsk1-b06": { "title_vi": "Số điện thoại của bạn là bao nhiêu?", "title_zh": "你的手机号是多少？" },
+  "hsk1-b07": { "title_vi": "Tôi tan làm lúc 6 giờ rưỡi tối", "title_zh": "我晚上六点半下班" },
+  "hsk1-b08": { "title_vi": "Bố tôi cũng làm việc ở bệnh viện", "title_zh": "我爸爸也在医院工作" },
+  "hsk1-b09": { "title_vi": "Sáng mai tôi học ở trường", "title_zh": "我明天上午在学校学习" },
+  "hsk1-b10": { "title_vi": "Táo ở đây rẻ thật!", "title_zh": "这儿的苹果真便宜！" },
+  "hsk1-b11": { "title_vi": "Tôi đang học đại học", "title_zh": "我读大学呢" },
+  "hsk1-b12": { "title_vi": "Hôm qua tuyết rơi", "title_zh": "昨天下雪了" },
+  "hsk1-b13": { "title_vi": "Cho tôi một cốc trà", "title_zh": "请给我一杯茶" },
+  "hsk1-b14": { "title_vi": "Tôi đã xem một bộ phim", "title_zh": "我看了一个电影" },
+  "hsk1-b15": { "title_vi": "Hẹn gặp ở sân bay Đại Hưng!", "title_zh": "大兴机场见！" }
+}

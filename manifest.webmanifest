@@ -1,0 +1,16 @@
+{
+  "name": "HànZì Master — Học từ vựng tiếng Trung",
+  "short_name": "HànZì Master",
+  "description": "Học ít, nhớ nhiều — Chinh phục HSK từng bước.",
+  "lang": "vi",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0D0F14",
+  "theme_color": "#0D0F14",
+  "categories": ["education"],
+  "icons": [
+    { "src": "src/assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

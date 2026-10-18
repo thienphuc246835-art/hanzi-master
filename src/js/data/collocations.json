@@ -1,0 +1,19 @@
+[
+{"id":"c01","type":"collocation","kind":"verb_object","prompt":"___电话","answer":"打","options":["打","看","喝","说"],"full":"打电话","vi":"gọi điện thoại","word_ids":["zh1790170130400"]},
+{"id":"c02","type":"collocation","kind":"verb_object","prompt":"___茶","answer":"喝","options":["喝","吃","看","听"],"full":"喝茶","vi":"uống trà","word_ids":["zh1790170130984","zh1790170130912"]},
+{"id":"c03","type":"collocation","kind":"verb_object","prompt":"___电视","answer":"看","options":["看","听","说","买"],"full":"看电视","vi":"xem tivi","word_ids":["zh1790170130508"]},
+{"id":"c04","type":"collocation","kind":"verb_object","prompt":"___音乐","answer":"听","options":["听","看","喝","说"],"full":"听音乐","vi":"nghe nhạc","word_ids":["zh1790170131108"]},
+{"id":"c05","type":"collocation","kind":"verb_object","prompt":"___汉语","answer":"说","options":["说","喝","吃","买"],"full":"说汉语","vi":"nói tiếng Hán","word_ids":["zh1790170130860","zh1790170131520"]},
+{"id":"c06","type":"collocation","kind":"verb_object","prompt":"___饭","answer":"吃","options":["吃","喝","听","看"],"full":"吃饭","vi":"ăn cơm","word_ids":["zh1790170131356"]},
+{"id":"c07","type":"collocation","kind":"verb_object","prompt":"___东西","answer":"买","options":["买","喝","听","睡"],"full":"买东西","vi":"mua đồ","word_ids":["zh1790170130420"]},
+{"id":"c08","type":"collocation","kind":"measure_word","prompt":"一___书","answer":"本","options":["本","个","杯","口"],"full":"一本书","vi":"một quyển sách","word_ids":[]},
+{"id":"c09","type":"collocation","kind":"measure_word","prompt":"一___水","answer":"杯","options":["杯","本","个","张"],"full":"一杯水","vi":"một cốc nước","word_ids":["zh1790170130936"]},
+{"id":"c10","type":"collocation","kind":"measure_word","prompt":"四___人","answer":"口","options":["口","本","杯","张"],"full":"四口人","vi":"bốn người (thành viên gia đình)","word_ids":["zh1790170130152"]},
+{"id":"c11","type":"collocation","kind":"measure_word","prompt":"一___商店","answer":"家","options":["家","本","杯","口"],"full":"一家商店","vi":"một cửa hàng","word_ids":["zh1790170130780","zh1790170130220"]},
+{"id":"c12","type":"collocation","kind":"measure_word","prompt":"一___老师","answer":"位","options":["位","本","杯","张"],"full":"一位老师","vi":"một thầy giáo (cách nói lịch sự)","word_ids":["zh1790170130012"]},
+{"id":"o01","type":"odd_one_out","items":["妈妈","姐姐","妹妹","商店"],"answer":"商店","reason_vi":"Ba từ kia chỉ người trong gia đình; 商店 là nơi chốn.","word_ids":["zh1790170130244","zh1790170130132","zh1790170130236","zh1790170130780"]},
+{"id":"o02","type":"odd_one_out","items":["喝","吃","茶","看"],"answer":"茶","reason_vi":"茶 là danh từ; ba từ kia là động từ.","word_ids":["zh1790170130912","zh1790170130984","zh1790170130508"]},
+{"id":"o03","type":"odd_one_out","items":["今天","明天","时间","老师"],"answer":"老师","reason_vi":"Ba từ kia liên quan đến thời gian; 老师 chỉ người.","word_ids":["zh1790170130324","zh1790170130416","zh1790170131196","zh1790170130012"]},
+{"id":"o04","type":"odd_one_out","items":["学校","商店","家","朋友"],"answer":"朋友","reason_vi":"Ba từ kia là nơi chốn; 朋友 chỉ người.","word_ids":["zh1790170130624","zh1790170130780","zh1790170130220","zh1790170130688"]},
+{"id":"o05","type":"odd_one_out","items":["听","说","看","水"],"answer":"水","reason_vi":"水 là danh từ; ba từ kia là hoạt động nghe – nói – nhìn.","word_ids":["zh1790170131108","zh1790170130860","zh1790170130936"]}
+]

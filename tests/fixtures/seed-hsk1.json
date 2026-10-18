@@ -1,0 +1,828 @@
+[
+  {
+    "id": "hsk1_0001", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "学习", "traditional": "學習", "pinyin": "xuéxí", "pinyin_tones": [2, 2], "han_viet": "học tập",
+    "meanings": [
+      { "pos": "v", "en": "to study; to learn", "vi": "học, học tập" },
+      { "pos": "v", "en": "to learn from (sb)", "vi": "học hỏi (ai đó)" }
+    ],
+    "frequency_rank": 60,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "school", "zh": "我在学校学习中文。", "seg": "我 在 学校 学习 中文", "pinyin": "Wǒ zài xuéxiào xuéxí Zhōngwén.", "vi": "Tôi học tiếng Trung ở trường." },
+      { "tier": 2, "max_level": 2, "context": "daily", "zh": "他每天晚上都学习两个小时。", "seg": "他 每天 晚上 都 学习 两 个 小时", "pinyin": "Tā měitiān wǎnshang dōu xuéxí liǎng gè xiǎoshí.", "vi": "Tối nào anh ấy cũng học hai tiếng." },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "我们应该向他学习这种认真负责的态度。", "pinyin": "Wǒmen yīnggāi xiàng tā xuéxí zhè zhǒng rènzhēn fùzé de tàidù.", "vi": "Chúng ta nên học hỏi thái độ nghiêm túc, có trách nhiệm này của anh ấy." }
+    ],
+    "characters": [
+      { "char": "学", "traditional": "學", "pinyin": "xué", "han_viet": "HỌC", "stroke_count": 8,
+        "radical": { "char": "子", "kangxi_no": 39, "name_vi": "Tử", "meaning_vi": "con, đứa trẻ" },
+        "components": [
+          { "part": "⺍", "meaning_vi": "giản hoá từ đôi tay cầm thẻ tính" },
+          { "part": "冖", "name_vi": "Mịch", "meaning_vi": "mái che" },
+          { "part": "子", "name_vi": "Tử", "meaning_vi": "đứa trẻ" }
+        ],
+        "formation": "会意", "assembly": ["⺍", "冖", "子"],
+        "mnemonic": { "type": "etymology", "story_vi": "Đứa trẻ (子) ngồi dưới mái nhà (冖), phía trên là đôi tay thầy chỉ dạy (⺍) — đứa trẻ đang HỌC." } },
+      { "char": "习", "traditional": "習", "pinyin": "xí", "han_viet": "TẬP", "stroke_count": 3,
+        "radical": { "char": "乙", "kangxi_no": 5, "name_vi": "Ất", "meaning_vi": "bộ tra cứu của chữ giản thể" },
+        "components": [ { "part": "羽", "name_vi": "Vũ", "meaning_vi": "lông vũ, đôi cánh (trong chữ phồn thể 習)" } ],
+        "formation": "会意", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Chữ gốc 習 có đôi cánh 羽: chim non vỗ cánh hết lần này đến lần khác để tập bay → LUYỆN TẬP. Giản thể 习 chỉ giữ lại một cánh." } }
+    ],
+    "mnemonic_summary": { "hint_short": "子 trẻ dưới mái 冖 → HỌC; 羽 chim vỗ cánh mãi → TẬP", "word_link_vi": "HỌC (tiếp thu) + TẬP (luyện đi luyện lại) = học tập" }
+  },
+  {
+    "id": "hsk1_0002", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "学生", "traditional": "學生", "pinyin": "xuésheng", "pinyin_tones": [2, 5], "han_viet": "học sinh",
+    "meanings": [ { "pos": "n", "en": "student", "vi": "học sinh, sinh viên" } ],
+    "frequency_rank": 110,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我是学生。", "seg": "我 是 学生", "pinyin": "Wǒ shì xuésheng.", "vi": "Tôi là học sinh." },
+      { "tier": 2, "max_level": 2, "context": "school", "zh": "我们班有三十个学生。", "seg": "我们 班 有 三十 个 学生", "pinyin": "Wǒmen bān yǒu sānshí gè xuésheng.", "vi": "Lớp chúng tôi có ba mươi học sinh." },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "这个学生不但成绩好，而且经常帮助别人。", "pinyin": "Zhège xuésheng búdàn chéngjì hǎo, érqiě jīngcháng bāngzhù biérén.", "vi": "Học sinh này không những thành tích tốt mà còn thường giúp đỡ người khác." }
+    ],
+    "characters": [
+      { "char": "学", "traditional": "學", "pinyin": "xué", "han_viet": "HỌC", "stroke_count": 8,
+        "radical": { "char": "子", "kangxi_no": 39, "name_vi": "Tử", "meaning_vi": "con, đứa trẻ" },
+        "components": [
+          { "part": "⺍", "meaning_vi": "giản hoá từ đôi tay cầm thẻ tính" },
+          { "part": "冖", "name_vi": "Mịch", "meaning_vi": "mái che" },
+          { "part": "子", "name_vi": "Tử", "meaning_vi": "đứa trẻ" }
+        ],
+        "formation": "会意", "assembly": ["⺍", "冖", "子"],
+        "mnemonic": { "type": "etymology", "story_vi": "Đứa trẻ (子) ngồi dưới mái nhà (冖), phía trên là đôi tay thầy chỉ dạy (⺍) — đứa trẻ đang HỌC." } },
+      { "char": "生", "traditional": "生", "pinyin": "sheng", "han_viet": "SINH", "stroke_count": 5,
+        "radical": { "char": "生", "kangxi_no": 100, "name_vi": "Sinh", "meaning_vi": "sinh ra, sống" },
+        "components": [ { "part": "生", "meaning_vi": "mầm cây nhú lên khỏi mặt đất" } ],
+        "formation": "象形", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Hình mầm cây non nhú lên khỏi mặt đất → SINH ra, sống." } }
+    ],
+    "mnemonic_summary": { "hint_short": "子 trẻ dưới mái 冖 → HỌC; mầm nhú khỏi đất → SINH", "word_link_vi": "HỌC + SINH (người) = người đi học → học sinh" }
+  },
+  {
+    "id": "hsk1_0003", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "学校", "traditional": "學校", "pinyin": "xuéxiào", "pinyin_tones": [2, 4], "han_viet": "học hiệu",
+    "meanings": [ { "pos": "n", "en": "school", "vi": "trường học" } ],
+    "frequency_rank": 190,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "school", "zh": "我的学校很大。", "seg": "我 的 学校 很 大", "pinyin": "Wǒ de xuéxiào hěn dà.", "vi": "Trường của tôi rất lớn." },
+      { "tier": 2, "max_level": 2, "context": "daily", "zh": "我每天坐公共汽车去学校。", "seg": "我 每天 坐 公共汽车 去 学校", "pinyin": "Wǒ měitiān zuò gōnggòng qìchē qù xuéxiào.", "vi": "Hằng ngày tôi đi xe buýt đến trường." },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "这所学校为留学生提供了很多学习汉语的机会。", "pinyin": "Zhè suǒ xuéxiào wèi liúxuéshēng tígōng le hěn duō xuéxí Hànyǔ de jīhuì.", "vi": "Ngôi trường này mang lại cho du học sinh nhiều cơ hội học tiếng Hán." }
+    ],
+    "characters": [
+      { "char": "学", "traditional": "學", "pinyin": "xué", "han_viet": "HỌC", "stroke_count": 8,
+        "radical": { "char": "子", "kangxi_no": 39, "name_vi": "Tử", "meaning_vi": "con, đứa trẻ" },
+        "components": [
+          { "part": "⺍", "meaning_vi": "giản hoá từ đôi tay cầm thẻ tính" },
+          { "part": "冖", "name_vi": "Mịch", "meaning_vi": "mái che" },
+          { "part": "子", "name_vi": "Tử", "meaning_vi": "đứa trẻ" }
+        ],
+        "formation": "会意", "assembly": ["⺍", "冖", "子"],
+        "mnemonic": { "type": "etymology", "story_vi": "Đứa trẻ (子) ngồi dưới mái nhà (冖), phía trên là đôi tay thầy chỉ dạy (⺍) — đứa trẻ đang HỌC." } },
+      { "char": "校", "traditional": "校", "pinyin": "xiào", "han_viet": "HIỆU", "stroke_count": 10,
+        "radical": { "char": "木", "kangxi_no": 75, "name_vi": "Mộc", "meaning_vi": "cây, gỗ" },
+        "components": [
+          { "part": "木", "name_vi": "Mộc", "meaning_vi": "gỗ — phần chỉ nghĩa" },
+          { "part": "交", "name_vi": "Giao", "meaning_vi": "giao nhau — gợi âm jiāo → xiào" }
+        ],
+        "formation": "形声", "assembly": ["木", "交"],
+        "mnemonic": { "type": "creative", "story_vi": "Những thanh gỗ (木) đan chéo nhau (交) làm hàng rào quanh sân trường → TRƯỜNG (HIỆU). Thực tế 交 là phần gợi âm." } }
+    ],
+    "mnemonic_summary": { "hint_short": "子 trẻ dưới mái 冖 → HỌC; gỗ 木 đan chéo 交 → HIỆU", "word_link_vi": "HỌC + HIỆU (trường) = trường học" }
+  },
+  {
+    "id": "hsk1_0004", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "老师", "traditional": "老師", "pinyin": "lǎoshī", "pinyin_tones": [3, 1], "han_viet": "lão sư",
+    "meanings": [ { "pos": "n", "en": "teacher", "vi": "giáo viên, thầy giáo, cô giáo" } ],
+    "frequency_rank": 170,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "school", "zh": "她是我的汉语老师。", "seg": "她 是 我 的 汉语 老师", "pinyin": "Tā shì wǒ de Hànyǔ lǎoshī.", "vi": "Cô ấy là giáo viên tiếng Hán của tôi." },
+      { "tier": 2, "max_level": 2, "context": "daily", "zh": "老师，这个字怎么读？", "seg": "老师 这个 字 怎么 读", "pinyin": "Lǎoshī, zhège zì zěnme dú?", "vi": "Thưa thầy, chữ này đọc thế nào?" },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "一位好老师不仅教知识，还会影响学生的一生。", "pinyin": "Yí wèi hǎo lǎoshī bùjǐn jiāo zhīshi, hái huì yǐngxiǎng xuésheng de yìshēng.", "vi": "Một người thầy giỏi không chỉ dạy kiến thức mà còn ảnh hưởng đến cả cuộc đời học sinh." }
+    ],
+    "characters": [
+      { "char": "老", "traditional": "老", "pinyin": "lǎo", "han_viet": "LÃO", "stroke_count": 6,
+        "radical": { "char": "老", "kangxi_no": 125, "name_vi": "Lão", "meaning_vi": "già" },
+        "components": [
+          { "part": "耂", "meaning_vi": "mái tóc dài của người già" },
+          { "part": "匕", "name_vi": "Chủy", "meaning_vi": "người cúi lưng chống gậy" }
+        ],
+        "formation": "象形", "assembly": ["耂", "匕"],
+        "mnemonic": { "type": "etymology", "story_vi": "Hình ông lão tóc dài (耂) lưng còng chống gậy (匕) → GIÀ (LÃO)." } },
+      { "char": "师", "traditional": "師", "pinyin": "shī", "han_viet": "SƯ", "stroke_count": 6,
+        "radical": { "char": "巾", "kangxi_no": 50, "name_vi": "Cân", "meaning_vi": "khăn" },
+        "components": [
+          { "part": "丨丿", "meaning_vi": "giản hoá từ 𠂤 — gò đất nơi đóng quân" },
+          { "part": "帀", "meaning_vi": "vòng quanh" }
+        ],
+        "formation": "会意", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Chữ gốc 師 nghĩa là đội quân đóng quanh (帀) gò đất (𠂤); người chỉ huy quân → người dẫn dắt → THẦY (SƯ)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Ông lão tóc dài chống gậy → LÃO; người dẫn quân → SƯ", "word_link_vi": "LÃO (tiền tố tôn kính) + SƯ (thầy) = thầy giáo, cô giáo" }
+  },
+  {
+    "id": "hsk1_0005", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "妈妈", "traditional": "媽媽", "pinyin": "māma", "pinyin_tones": [1, 5], "han_viet": "ma ma",
+    "meanings": [ { "pos": "n", "en": "mom, mother", "vi": "mẹ, má" } ],
+    "frequency_rank": 180,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "family", "zh": "我妈妈是医生。", "seg": "我 妈妈 是 医生", "pinyin": "Wǒ māma shì yīshēng.", "vi": "Mẹ tôi là bác sĩ." },
+      { "tier": 2, "max_level": 2, "context": "daily", "zh": "妈妈每天早上给我做饭。", "seg": "妈妈 每天 早上 给 我 做饭", "pinyin": "Māma měitiān zǎoshang gěi wǒ zuò fàn.", "vi": "Sáng nào mẹ cũng nấu cơm cho tôi." },
+      { "tier": 3, "max_level": 3, "context": "culture", "zh": "每到节日，妈妈总是提前准备好全家人喜欢吃的菜。", "pinyin": "Měi dào jiérì, māma zǒngshì tíqián zhǔnbèi hǎo quánjiā rén xǐhuan chī de cài.", "vi": "Mỗi dịp lễ, mẹ luôn chuẩn bị trước những món cả nhà thích ăn." }
+    ],
+    "characters": [
+      { "char": "妈", "traditional": "媽", "pinyin": "mā", "han_viet": "MA", "stroke_count": 6,
+        "radical": { "char": "女", "kangxi_no": 38, "name_vi": "Nữ", "meaning_vi": "phụ nữ" },
+        "components": [
+          { "part": "女", "name_vi": "Nữ", "meaning_vi": "phụ nữ — phần chỉ nghĩa" },
+          { "part": "马", "name_vi": "Mã", "meaning_vi": "con ngựa — gợi âm mǎ" }
+        ],
+        "formation": "形声", "assembly": ["女", "马"],
+        "mnemonic": { "type": "etymology", "story_vi": "女 (phụ nữ) chỉ nghĩa + 马 (mǎ) gợi âm → người phụ nữ đọc gần giống «mǎ» → MẸ." } }
+    ],
+    "mnemonic_summary": { "hint_short": "女 phụ nữ + 马 gợi âm mǎ → mā: mẹ", "word_link_vi": "Lặp 妈 hai lần (chữ sau đọc thanh nhẹ) = mẹ" }
+  },
+  {
+    "id": "hsk1_0006", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "爸爸", "traditional": "爸爸", "pinyin": "bàba", "pinyin_tones": [4, 5], "han_viet": "ba ba",
+    "meanings": [ { "pos": "n", "en": "dad, father", "vi": "bố, ba" } ],
+    "frequency_rank": 210,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "family", "zh": "我爸爸很高。", "seg": "我 爸爸 很 高", "pinyin": "Wǒ bàba hěn gāo.", "vi": "Bố tôi rất cao." },
+      { "tier": 2, "max_level": 2, "context": "work", "zh": "爸爸在一家医院工作。", "seg": "爸爸 在 一 家 医院 工作", "pinyin": "Bàba zài yì jiā yīyuàn gōngzuò.", "vi": "Bố tôi làm việc ở một bệnh viện." },
+      { "tier": 3, "max_level": 3, "context": "daily", "zh": "虽然爸爸工作很忙，但是他每个周末都会陪我们去公园。", "pinyin": "Suīrán bàba gōngzuò hěn máng, dànshì tā měi gè zhōumò dōu huì péi wǒmen qù gōngyuán.", "vi": "Tuy bố làm việc rất bận nhưng cuối tuần nào bố cũng đưa chúng tôi đi công viên." }
+    ],
+    "characters": [
+      { "char": "爸", "traditional": "爸", "pinyin": "bà", "han_viet": "BA", "stroke_count": 8,
+        "radical": { "char": "父", "kangxi_no": 88, "name_vi": "Phụ", "meaning_vi": "cha" },
+        "components": [
+          { "part": "父", "name_vi": "Phụ", "meaning_vi": "cha — phần chỉ nghĩa" },
+          { "part": "巴", "name_vi": "Ba", "meaning_vi": "gợi âm bā" }
+        ],
+        "formation": "形声", "assembly": ["父", "巴"],
+        "mnemonic": { "type": "etymology", "story_vi": "父 (cha) ở trên chỉ nghĩa + 巴 (bā) ở dưới gợi âm → BỐ." } }
+    ],
+    "mnemonic_summary": { "hint_short": "父 cha + 巴 gợi âm bā → bà: bố", "word_link_vi": "Lặp 爸 hai lần (chữ sau đọc thanh nhẹ) = bố" }
+  },
+  {
+    "id": "hsk1_0007", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "姐姐", "traditional": "姐姐", "pinyin": "jiějie", "pinyin_tones": [3, 5], "han_viet": "thư thư",
+    "meanings": [ { "pos": "n", "en": "older sister", "vi": "chị gái" } ],
+    "frequency_rank": 450,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "family", "zh": "我有一个姐姐。", "seg": "我 有 一 个 姐姐", "pinyin": "Wǒ yǒu yí gè jiějie.", "vi": "Tôi có một chị gái." },
+      { "tier": 2, "max_level": 2, "context": "school", "zh": "姐姐比我大三岁，在北京上大学。", "seg": "姐姐 比 我 大 三 岁 在 北京 上 大学", "pinyin": "Jiějie bǐ wǒ dà sān suì, zài Běijīng shàng dàxué.", "vi": "Chị gái lớn hơn tôi ba tuổi, đang học đại học ở Bắc Kinh." },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "姐姐大学毕业以后，找到了一份很适合自己的工作。", "pinyin": "Jiějie dàxué bìyè yǐhòu, zhǎodào le yí fèn hěn shìhé zìjǐ de gōngzuò.", "vi": "Sau khi tốt nghiệp đại học, chị gái tìm được một công việc rất phù hợp với bản thân." }
+    ],
+    "characters": [
+      { "char": "姐", "traditional": "姐", "pinyin": "jiě", "han_viet": "THƯ", "stroke_count": 8,
+        "radical": { "char": "女", "kangxi_no": 38, "name_vi": "Nữ", "meaning_vi": "phụ nữ" },
+        "components": [
+          { "part": "女", "name_vi": "Nữ", "meaning_vi": "phụ nữ — phần chỉ nghĩa" },
+          { "part": "且", "name_vi": "Thả", "meaning_vi": "gợi âm qiě → jiě" }
+        ],
+        "formation": "形声", "assembly": ["女", "且"],
+        "mnemonic": { "type": "etymology", "story_vi": "女 (phụ nữ) chỉ nghĩa + 且 (qiě) gợi âm jiě → người con gái lớn trong nhà → CHỊ." } }
+    ],
+    "mnemonic_summary": { "hint_short": "女 + 且 gợi âm qiě→jiě: chị gái", "word_link_vi": "Lặp 姐 hai lần (chữ sau đọc thanh nhẹ) = chị gái" }
+  },
+  {
+    "id": "hsk1_0008", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "妹妹", "traditional": "妹妹", "pinyin": "mèimei", "pinyin_tones": [4, 5], "han_viet": "muội muội",
+    "meanings": [ { "pos": "n", "en": "younger sister", "vi": "em gái" } ],
+    "frequency_rank": 480,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "family", "zh": "这是我妹妹。", "seg": "这 是 我 妹妹", "pinyin": "Zhè shì wǒ mèimei.", "vi": "Đây là em gái tôi." },
+      { "tier": 2, "max_level": 2, "context": "daily", "zh": "妹妹喜欢唱歌，也喜欢跳舞。", "seg": "妹妹 喜欢 唱歌 也 喜欢 跳舞", "pinyin": "Mèimei xǐhuan chàng gē, yě xǐhuan tiào wǔ.", "vi": "Em gái thích hát, cũng thích nhảy." },
+      { "tier": 3, "max_level": 3, "context": "school", "zh": "妹妹从小就对画画特别感兴趣，现在已经是美术学院的学生了。", "pinyin": "Mèimei cóngxiǎo jiù duì huà huà tèbié gǎn xìngqù, xiànzài yǐjīng shì měishù xuéyuàn de xuésheng le.", "vi": "Em gái từ nhỏ đã rất thích vẽ, giờ đã là sinh viên học viện mỹ thuật." }
+    ],
+    "characters": [
+      { "char": "妹", "traditional": "妹", "pinyin": "mèi", "han_viet": "MUỘI", "stroke_count": 8,
+        "radical": { "char": "女", "kangxi_no": 38, "name_vi": "Nữ", "meaning_vi": "phụ nữ" },
+        "components": [
+          { "part": "女", "name_vi": "Nữ", "meaning_vi": "phụ nữ — phần chỉ nghĩa" },
+          { "part": "未", "name_vi": "Vị", "meaning_vi": "chưa — gợi âm wèi → mèi" }
+        ],
+        "formation": "形声", "assembly": ["女", "未"],
+        "mnemonic": { "type": "creative", "story_vi": "Cô gái (女) «chưa» (未) lớn → EM GÁI. Thực tế 未 là phần gợi âm wèi → mèi." } }
+    ],
+    "mnemonic_summary": { "hint_short": "女 cô gái + 未 «chưa» lớn → em gái", "word_link_vi": "Lặp 妹 hai lần (chữ sau đọc thanh nhẹ) = em gái" }
+  },
+  {
+    "id": "hsk1_0009", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "朋友", "traditional": "朋友", "pinyin": "péngyou", "pinyin_tones": [2, 5], "han_viet": "bằng hữu",
+    "meanings": [ { "pos": "n", "en": "friend", "vi": "bạn, bạn bè" } ],
+    "frequency_rank": 90,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "他是我的好朋友。", "seg": "他 是 我 的 好 朋友", "pinyin": "Tā shì wǒ de hǎo péngyou.", "vi": "Anh ấy là bạn thân của tôi." },
+      { "tier": 2, "max_level": 2, "context": "leisure", "zh": "周末我和朋友一起去看电影。", "seg": "周末 我 和 朋友 一起 去 看 电影", "pinyin": "Zhōumò wǒ hé péngyou yìqǐ qù kàn diànyǐng.", "vi": "Cuối tuần tôi cùng bạn đi xem phim." },
+      { "tier": 3, "max_level": 3, "context": "travel", "zh": "在国外留学的时候，我认识了很多来自不同国家的朋友。", "pinyin": "Zài guówài liúxué de shíhou, wǒ rènshi le hěn duō láizì bùtóng guójiā de péngyou.", "vi": "Khi du học ở nước ngoài, tôi quen nhiều bạn bè đến từ các quốc gia khác nhau." }
+    ],
+    "characters": [
+      { "char": "朋", "traditional": "朋", "pinyin": "péng", "han_viet": "BẰNG", "stroke_count": 8,
+        "radical": { "char": "月", "kangxi_no": 74, "name_vi": "Nguyệt", "meaning_vi": "mặt trăng" },
+        "components": [
+          { "part": "月", "name_vi": "Nguyệt", "meaning_vi": "mặt trăng (về hình dạng)" },
+          { "part": "月", "name_vi": "Nguyệt", "meaning_vi": "mặt trăng (về hình dạng)" }
+        ],
+        "formation": "象形", "assembly": ["月", "月"],
+        "mnemonic": { "type": "creative", "story_vi": "Hai vầng trăng (月) đứng sát bên nhau như hai người bạn → BẠN (BẰNG). Gốc thật: hình hai chuỗi vỏ sò (tiền cổ) xâu cạnh nhau." } },
+      { "char": "友", "traditional": "友", "pinyin": "you", "han_viet": "HỮU", "stroke_count": 4,
+        "radical": { "char": "又", "kangxi_no": 29, "name_vi": "Hựu", "meaning_vi": "tay phải, lại nữa" },
+        "components": [ { "part": "又", "name_vi": "Hựu", "meaning_vi": "bàn tay — chữ gốc là hai bàn tay chồng lên nhau" } ],
+        "formation": "会意", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Chữ gốc là hai bàn tay (又) cùng hướng, nắm lấy nhau → người giúp đỡ mình → BẠN (HỮU)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Hai trăng 月 sát nhau → BẰNG; hai tay nắm nhau → HỮU", "word_link_vi": "BẰNG + HỮU (đều là bạn) = bạn bè" }
+  },
+  {
+    "id": "hsk1_0010", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "喝", "traditional": "喝", "pinyin": "hē", "pinyin_tones": [1], "han_viet": "hát",
+    "meanings": [ { "pos": "v", "en": "to drink", "vi": "uống" } ],
+    "frequency_rank": 160,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我想喝水。", "seg": "我 想 喝 水", "pinyin": "Wǒ xiǎng hē shuǐ.", "vi": "Tôi muốn uống nước." },
+      { "tier": 2, "max_level": 2, "context": "leisure", "zh": "你想喝茶还是喝咖啡？", "seg": "你 想 喝 茶 还是 喝 咖啡", "pinyin": "Nǐ xiǎng hē chá háishi hē kāfēi?", "vi": "Bạn muốn uống trà hay cà phê?" },
+      { "tier": 3, "max_level": 3, "context": "health", "zh": "医生建议他少喝酒，多喝水，早点儿睡觉。", "pinyin": "Yīshēng jiànyì tā shǎo hē jiǔ, duō hē shuǐ, zǎo diǎnr shuìjiào.", "vi": "Bác sĩ khuyên anh ấy uống ít rượu, uống nhiều nước, ngủ sớm." }
+    ],
+    "characters": [
+      { "char": "喝", "traditional": "喝", "pinyin": "hē", "han_viet": "HÁT", "stroke_count": 12,
+        "radical": { "char": "口", "kangxi_no": 30, "name_vi": "Khẩu", "meaning_vi": "miệng" },
+        "components": [
+          { "part": "口", "name_vi": "Khẩu", "meaning_vi": "miệng — phần chỉ nghĩa" },
+          { "part": "曷", "name_vi": "Hạt", "meaning_vi": "gợi âm hé → hē" }
+        ],
+        "formation": "形声", "assembly": ["口", "曷"],
+        "mnemonic": { "type": "etymology", "story_vi": "口 (miệng) chỉ hành động bằng miệng + 曷 (hé) gợi âm hē → UỐNG." } }
+    ],
+    "mnemonic_summary": { "hint_short": "口 miệng + 曷 gợi âm hé → hē: uống", "word_link_vi": "Một chữ: 喝 = uống (喝水 uống nước, 喝茶 uống trà)" }
+  },
+  {
+    "id": "hsk1_0011", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "水", "traditional": "水", "pinyin": "shuǐ", "pinyin_tones": [3], "han_viet": "thủy",
+    "meanings": [ { "pos": "n", "en": "water", "vi": "nước" } ],
+    "frequency_rank": 150,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我要一杯水。", "seg": "我 要 一 杯 水", "pinyin": "Wǒ yào yì bēi shuǐ.", "vi": "Tôi muốn một cốc nước." },
+      { "tier": 2, "max_level": 2, "context": "travel", "zh": "这里的水不能喝，你去商店买吧。", "seg": "这里 的 水 不 能 喝 你 去 商店 买 吧", "pinyin": "Zhèlǐ de shuǐ bù néng hē, nǐ qù shāngdiàn mǎi ba.", "vi": "Nước ở đây không uống được, bạn ra cửa hàng mua đi." },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "保护水资源是每个人的责任。", "pinyin": "Bǎohù shuǐ zīyuán shì měi gè rén de zérèn.", "vi": "Bảo vệ tài nguyên nước là trách nhiệm của mỗi người." }
+    ],
+    "characters": [
+      { "char": "水", "traditional": "水", "pinyin": "shuǐ", "han_viet": "THỦY", "stroke_count": 4,
+        "radical": { "char": "水", "kangxi_no": 85, "name_vi": "Thủy", "meaning_vi": "nước (biến thể 氵)" },
+        "components": [ { "part": "水", "meaning_vi": "dòng nước chảy" } ],
+        "formation": "象形", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Hình dòng nước chảy: nét giữa là dòng chính, hai bên là gợn sóng. Khi làm bộ bên trái chữ khác, 水 viết thành 氵 (ba chấm thủy) — luôn mang nghĩa «nước»." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Dòng nước chảy giữa, sóng hai bên; làm bộ: 氵", "word_link_vi": "Một chữ: 水 = nước" }
+  },
+  {
+    "id": "hsk1_0012", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "吃饭", "traditional": "吃飯", "pinyin": "chīfàn", "pinyin_tones": [1, 4], "han_viet": "ngật phạn",
+    "meanings": [ { "pos": "v", "en": "to eat (a meal)", "vi": "ăn cơm, dùng bữa" } ],
+    "frequency_rank": 120,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我们去吃饭吧。", "seg": "我们 去 吃饭 吧", "pinyin": "Wǒmen qù chīfàn ba.", "vi": "Chúng ta đi ăn cơm đi." },
+      { "tier": 2, "max_level": 2, "context": "family", "zh": "晚上七点我们全家一起吃饭。", "seg": "晚上 七 点 我们 全家 一起 吃饭", "pinyin": "Wǎnshang qī diǎn wǒmen quánjiā yìqǐ chīfàn.", "vi": "Bảy giờ tối cả nhà chúng tôi cùng ăn cơm." },
+      { "tier": 3, "max_level": 3, "context": "culture", "zh": "在中国，朋友一起吃饭的时候，常常会抢着付钱。", "pinyin": "Zài Zhōngguó, péngyou yìqǐ chīfàn de shíhou, chángcháng huì qiǎngzhe fù qián.", "vi": "Ở Trung Quốc, khi bạn bè ăn cơm cùng nhau, họ thường tranh nhau trả tiền." }
+    ],
+    "characters": [
+      { "char": "吃", "traditional": "吃", "pinyin": "chī", "han_viet": "NGẬT", "stroke_count": 6,
+        "radical": { "char": "口", "kangxi_no": 30, "name_vi": "Khẩu", "meaning_vi": "miệng" },
+        "components": [
+          { "part": "口", "name_vi": "Khẩu", "meaning_vi": "miệng — phần chỉ nghĩa" },
+          { "part": "乞", "name_vi": "Khất", "meaning_vi": "gợi âm qǐ → chī" }
+        ],
+        "formation": "形声", "assembly": ["口", "乞"],
+        "mnemonic": { "type": "etymology", "story_vi": "口 (miệng) chỉ nghĩa + 乞 (qǐ) gợi âm chī → ĂN." } },
+      { "char": "饭", "traditional": "飯", "pinyin": "fàn", "han_viet": "PHẠN", "stroke_count": 7,
+        "radical": { "char": "食", "kangxi_no": 184, "name_vi": "Thực", "meaning_vi": "ăn (biến thể 饣)" },
+        "components": [
+          { "part": "饣", "name_vi": "Thực", "meaning_vi": "đồ ăn — phần chỉ nghĩa" },
+          { "part": "反", "name_vi": "Phản", "meaning_vi": "gợi âm fǎn → fàn" }
+        ],
+        "formation": "形声", "assembly": ["饣", "反"],
+        "mnemonic": { "type": "etymology", "story_vi": "饣 (đồ ăn) chỉ nghĩa + 反 (fǎn) gợi âm fàn → CƠM (PHẠN)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "口 miệng → ăn; 饣 đồ ăn + 反 fǎn → fàn: cơm", "word_link_vi": "ĂN + CƠM = ăn cơm, dùng bữa" }
+  },
+  {
+    "id": "hsk1_0013", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "茶", "traditional": "茶", "pinyin": "chá", "pinyin_tones": [2], "han_viet": "trà",
+    "meanings": [ { "pos": "n", "en": "tea", "vi": "trà, chè" } ],
+    "frequency_rank": 380,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我喜欢喝茶。", "seg": "我 喜欢 喝 茶", "pinyin": "Wǒ xǐhuan hē chá.", "vi": "Tôi thích uống trà." },
+      { "tier": 2, "max_level": 2, "context": "travel", "zh": "这家饭店的茶很好喝，也不贵。", "seg": "这 家 饭店 的 茶 很 好喝 也 不 贵", "pinyin": "Zhè jiā fàndiàn de chá hěn hǎo hē, yě bú guì.", "vi": "Trà ở nhà hàng này rất ngon, cũng không đắt." },
+      { "tier": 3, "max_level": 3, "context": "culture", "zh": "喝茶在中国已经有几千年的历史，是一种重要的文化。", "pinyin": "Hē chá zài Zhōngguó yǐjīng yǒu jǐ qiān nián de lìshǐ, shì yì zhǒng zhòngyào de wénhuà.", "vi": "Uống trà ở Trung Quốc đã có lịch sử mấy nghìn năm, là một nét văn hoá quan trọng." }
+    ],
+    "characters": [
+      { "char": "茶", "traditional": "茶", "pinyin": "chá", "han_viet": "TRÀ", "stroke_count": 9,
+        "radical": { "char": "艸", "kangxi_no": 140, "name_vi": "Thảo", "meaning_vi": "cỏ (biến thể 艹)" },
+        "components": [
+          { "part": "艹", "name_vi": "Thảo", "meaning_vi": "cỏ, cây lá" },
+          { "part": "人", "name_vi": "Nhân", "meaning_vi": "người" },
+          { "part": "木", "name_vi": "Mộc", "meaning_vi": "cây (nét dưới viết gần giống 木)" }
+        ],
+        "formation": "形声", "assembly": ["艹", "人", "木"],
+        "mnemonic": { "type": "creative", "story_vi": "Người (人) đứng giữa đám cỏ lá (艹) và thân cây (木) hái lá non → TRÀ. Gốc thật: 茶 tách ra từ chữ 荼 (một loại cây đắng)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Người 人 giữa cỏ 艹 và cây 木 hái lá → trà", "word_link_vi": "Một chữ: 茶 = trà (喝茶 uống trà)" }
+  },
+  {
+    "id": "hsk1_0014", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "买", "traditional": "買", "pinyin": "mǎi", "pinyin_tones": [3], "han_viet": "mãi",
+    "meanings": [ { "pos": "v", "en": "to buy", "vi": "mua" } ],
+    "frequency_rank": 130,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我去商店买水。", "seg": "我 去 商店 买 水", "pinyin": "Wǒ qù shāngdiàn mǎi shuǐ.", "vi": "Tôi đi cửa hàng mua nước." },
+      { "tier": 2, "max_level": 2, "context": "shopping", "zh": "这件衣服太贵了，我不想买。", "seg": "这 件 衣服 太 贵 了 我 不 想 买", "pinyin": "Zhè jiàn yīfu tài guì le, wǒ bù xiǎng mǎi.", "vi": "Cái áo này đắt quá, tôi không muốn mua." },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "现在越来越多的人习惯在网上买东西，既方便又省时间。", "pinyin": "Xiànzài yuè lái yuè duō de rén xíguàn zài wǎngshang mǎi dōngxi, jì fāngbiàn yòu shěng shíjiān.", "vi": "Ngày nay ngày càng nhiều người quen mua sắm trên mạng, vừa tiện vừa tiết kiệm thời gian." }
+    ],
+    "characters": [
+      { "char": "买", "traditional": "買", "pinyin": "mǎi", "han_viet": "MÃI", "stroke_count": 6,
+        "radical": { "char": "乙", "kangxi_no": 5, "name_vi": "Ất", "meaning_vi": "bộ tra cứu của chữ giản thể (nét 乛)" },
+        "components": [
+          { "part": "罒", "name_vi": "Võng", "meaning_vi": "cái lưới (trong chữ phồn thể 買)" },
+          { "part": "贝", "name_vi": "Bối", "meaning_vi": "vỏ sò — tiền thời cổ" }
+        ],
+        "formation": "会意", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Chữ gốc 買 = 罒 (lưới) + 貝 (vỏ sò, tiền cổ): dùng lưới gom vỏ sò về → MUA. Giản thể 买 rút gọn thành nét 乛 + 头." } }
+    ],
+    "mnemonic_summary": { "hint_short": "買: lưới 罒 gom vỏ sò 贝 (tiền) về → mua", "word_link_vi": "Một chữ: 买 (mǎi, thanh 3) = mua — đối lập 卖 (mài, thanh 4) = bán" }
+  },
+  {
+    "id": "hsk1_0015", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "卖", "traditional": "賣", "pinyin": "mài", "pinyin_tones": [4], "han_viet": "mại",
+    "meanings": [ { "pos": "v", "en": "to sell", "vi": "bán" } ],
+    "frequency_rank": 280,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "这个商店卖茶。", "seg": "这个 商店 卖 茶", "pinyin": "Zhège shāngdiàn mài chá.", "vi": "Cửa hàng này bán trà." },
+      { "tier": 2, "max_level": 2, "context": "shopping", "zh": "苹果怎么卖？一斤多少钱？", "seg": "苹果 怎么 卖 一 斤 多少 钱", "pinyin": "Píngguǒ zěnme mài? Yì jīn duōshao qián?", "vi": "Táo bán thế nào? Một cân bao nhiêu tiền?" },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "他大学毕业后开了一家小店，专门卖自己设计的衣服。", "pinyin": "Tā dàxué bìyè hòu kāi le yì jiā xiǎo diàn, zhuānmén mài zìjǐ shèjì de yīfu.", "vi": "Sau khi tốt nghiệp đại học anh ấy mở một cửa hàng nhỏ, chuyên bán quần áo do mình thiết kế." }
+    ],
+    "characters": [
+      { "char": "卖", "traditional": "賣", "pinyin": "mài", "han_viet": "MẠI", "stroke_count": 8,
+        "radical": { "char": "十", "kangxi_no": 24, "name_vi": "Thập", "meaning_vi": "số mười" },
+        "components": [
+          { "part": "十", "name_vi": "Thập", "meaning_vi": "giản hoá từ 出 — đưa ra" },
+          { "part": "买", "name_vi": "Mãi", "meaning_vi": "mua" }
+        ],
+        "formation": "会意", "assembly": ["十", "买"],
+        "mnemonic": { "type": "etymology", "story_vi": "Chữ gốc 賣 = 出 (đưa ra) + 買 (mua): đem hàng ra cho người mua → BÁN. Mẹo: 卖 có thêm 十 trên đầu 买 — bán thì phải «thêm» lời." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Thêm 十 trên 买 (mua) → bán; mǎi thanh 3 / mài thanh 4", "word_link_vi": "Một chữ: 卖 (mài) = bán — cặp với 买 (mǎi) = mua" }
+  },
+  {
+    "id": "hsk1_0016", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "商店", "traditional": "商店", "pinyin": "shāngdiàn", "pinyin_tones": [1, 4], "han_viet": "thương điếm",
+    "meanings": [ { "pos": "n", "en": "shop, store", "vi": "cửa hàng" } ],
+    "frequency_rank": 400,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "商店里人很多。", "seg": "商店 里 人 很 多", "pinyin": "Shāngdiàn lǐ rén hěn duō.", "vi": "Trong cửa hàng rất đông người." },
+      { "tier": 2, "max_level": 2, "context": "shopping", "zh": "我家旁边有一个小商店，东西很便宜。", "seg": "我 家 旁边 有 一 个 小 商店 东西 很 便宜", "pinyin": "Wǒ jiā pángbiān yǒu yí gè xiǎo shāngdiàn, dōngxi hěn piányi.", "vi": "Cạnh nhà tôi có một cửa hàng nhỏ, đồ rất rẻ." },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "随着网上购物的发展，一些传统商店的生意越来越难做。", "pinyin": "Suízhe wǎngshàng gòuwù de fāzhǎn, yìxiē chuántǒng shāngdiàn de shēngyi yuè lái yuè nán zuò.", "vi": "Cùng với sự phát triển của mua sắm trực tuyến, việc kinh doanh của một số cửa hàng truyền thống ngày càng khó khăn." }
+    ],
+    "characters": [
+      { "char": "商", "traditional": "商", "pinyin": "shāng", "han_viet": "THƯƠNG", "stroke_count": 11,
+        "radical": { "char": "口", "kangxi_no": 30, "name_vi": "Khẩu", "meaning_vi": "miệng" },
+        "components": [
+          { "part": "亠", "name_vi": "Đầu", "meaning_vi": "mái hiên" },
+          { "part": "丷", "meaning_vi": "tấm biển treo" },
+          { "part": "冂", "name_vi": "Quynh", "meaning_vi": "khung quầy hàng" },
+          { "part": "口", "name_vi": "Khẩu", "meaning_vi": "miệng mời chào" }
+        ],
+        "formation": "形声", "assembly": [],
+        "mnemonic": { "type": "creative", "story_vi": "Mái hiên (亠) treo biển (丷), bên dưới là quầy hàng (冂) có cái miệng (口) mời chào → BUÔN BÁN (THƯƠNG)." } },
+      { "char": "店", "traditional": "店", "pinyin": "diàn", "han_viet": "ĐIẾM", "stroke_count": 8,
+        "radical": { "char": "广", "kangxi_no": 53, "name_vi": "Nghiễm", "meaning_vi": "mái nhà rộng" },
+        "components": [
+          { "part": "广", "name_vi": "Nghiễm", "meaning_vi": "mái nhà rộng — phần chỉ nghĩa" },
+          { "part": "占", "name_vi": "Chiếm", "meaning_vi": "gợi âm zhàn → diàn" }
+        ],
+        "formation": "形声", "assembly": ["广", "占"],
+        "mnemonic": { "type": "etymology", "story_vi": "广 (mái nhà rộng) chỉ nghĩa + 占 (zhàn) gợi âm diàn → nơi có mái che để bày hàng → TIỆM (ĐIẾM)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Quầy có miệng 口 mời chào → THƯƠNG; mái 广 + 占 → tiệm", "word_link_vi": "THƯƠNG (buôn bán) + ĐIẾM (tiệm) = cửa hàng" }
+  },
+  {
+    "id": "hsk1_0017", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "工作", "traditional": "工作", "pinyin": "gōngzuò", "pinyin_tones": [1, 4], "han_viet": "công tác",
+    "meanings": [
+      { "pos": "v", "en": "to work", "vi": "làm việc" },
+      { "pos": "n", "en": "job, work", "vi": "công việc" }
+    ],
+    "frequency_rank": 40,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "work", "zh": "我在医院工作。", "seg": "我 在 医院 工作", "pinyin": "Wǒ zài yīyuàn gōngzuò.", "vi": "Tôi làm việc ở bệnh viện." },
+      { "tier": 2, "max_level": 2, "context": "daily", "zh": "你的工作忙不忙？", "seg": "你 的 工作 忙 不 忙", "pinyin": "Nǐ de gōngzuò máng bu máng?", "vi": "Công việc của bạn có bận không?" },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "找工作的时候，除了收入以外，还要考虑自己的兴趣和发展机会。", "pinyin": "Zhǎo gōngzuò de shíhou, chúle shōurù yǐwài, hái yào kǎolǜ zìjǐ de xìngqù hé fāzhǎn jīhuì.", "vi": "Khi tìm việc, ngoài thu nhập còn phải cân nhắc sở thích và cơ hội phát triển của bản thân." }
+    ],
+    "characters": [
+      { "char": "工", "traditional": "工", "pinyin": "gōng", "han_viet": "CÔNG", "stroke_count": 3,
+        "radical": { "char": "工", "kangxi_no": 48, "name_vi": "Công", "meaning_vi": "người thợ, công việc" },
+        "components": [ { "part": "工", "meaning_vi": "cái thước thợ" } ],
+        "formation": "象形", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Hình cái thước thợ (thước chữ I) của người thợ → THỢ, CÔNG VIỆC (CÔNG)." } },
+      { "char": "作", "traditional": "作", "pinyin": "zuò", "han_viet": "TÁC", "stroke_count": 7,
+        "radical": { "char": "人", "kangxi_no": 9, "name_vi": "Nhân", "meaning_vi": "người (biến thể 亻)" },
+        "components": [
+          { "part": "亻", "name_vi": "Nhân đứng", "meaning_vi": "người — phần chỉ nghĩa" },
+          { "part": "乍", "name_vi": "Sạ", "meaning_vi": "gợi âm zhà → zuò" }
+        ],
+        "formation": "形声", "assembly": ["亻", "乍"],
+        "mnemonic": { "type": "etymology", "story_vi": "亻 (người) chỉ nghĩa + 乍 (zhà) gợi âm zuò → con người hành động → LÀM (TÁC)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Thước thợ 工 → CÔNG; người 亻 + 乍 → làm (TÁC)", "word_link_vi": "CÔNG (việc) + TÁC (làm) = làm việc, công việc" }
+  },
+  {
+    "id": "hsk1_0018", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "休息", "traditional": "休息", "pinyin": "xiūxi", "pinyin_tones": [1, 5], "han_viet": "hưu tức",
+    "meanings": [ { "pos": "v", "en": "to rest", "vi": "nghỉ ngơi" } ],
+    "frequency_rank": 260,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "你累了，休息一下吧。", "seg": "你 累 了 休息 一下 吧", "pinyin": "Nǐ lèi le, xiūxi yíxià ba.", "vi": "Bạn mệt rồi, nghỉ một chút đi." },
+      { "tier": 2, "max_level": 2, "context": "work", "zh": "我们中午十二点到一点休息。", "seg": "我们 中午 十二 点 到 一 点 休息", "pinyin": "Wǒmen zhōngwǔ shí'èr diǎn dào yī diǎn xiūxi.", "vi": "Chúng tôi nghỉ trưa từ 12 giờ đến 1 giờ." },
+      { "tier": 3, "max_level": 3, "context": "health", "zh": "长时间看电脑对眼睛不好，最好每隔一个小时休息几分钟。", "pinyin": "Cháng shíjiān kàn diànnǎo duì yǎnjing bù hǎo, zuìhǎo měi gé yí gè xiǎoshí xiūxi jǐ fēnzhōng.", "vi": "Nhìn máy tính lâu không tốt cho mắt, tốt nhất cứ mỗi tiếng nghỉ vài phút." }
+    ],
+    "characters": [
+      { "char": "休", "traditional": "休", "pinyin": "xiū", "han_viet": "HƯU", "stroke_count": 6,
+        "radical": { "char": "人", "kangxi_no": 9, "name_vi": "Nhân", "meaning_vi": "người (biến thể 亻)" },
+        "components": [
+          { "part": "亻", "name_vi": "Nhân đứng", "meaning_vi": "người" },
+          { "part": "木", "name_vi": "Mộc", "meaning_vi": "cây" }
+        ],
+        "formation": "会意", "assembly": ["亻", "木"],
+        "mnemonic": { "type": "etymology", "story_vi": "Người (亻) tựa lưng vào gốc cây (木) → NGHỈ (HƯU)." } },
+      { "char": "息", "traditional": "息", "pinyin": "xi", "han_viet": "TỨC", "stroke_count": 10,
+        "radical": { "char": "心", "kangxi_no": 61, "name_vi": "Tâm", "meaning_vi": "tim, lòng" },
+        "components": [
+          { "part": "自", "name_vi": "Tự", "meaning_vi": "vốn là hình cái mũi" },
+          { "part": "心", "name_vi": "Tâm", "meaning_vi": "tim" }
+        ],
+        "formation": "会意", "assembly": ["自", "心"],
+        "mnemonic": { "type": "etymology", "story_vi": "Hơi thở đi từ mũi (自) xuống tim (心) → HƠI THỞ; nghỉ để thở (TỨC)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Người 亻 tựa cây 木 → HƯU; mũi 自 thở xuống tim 心 → TỨC", "word_link_vi": "HƯU (nghỉ) + TỨC (thở) = nghỉ lấy hơi → nghỉ ngơi" }
+  },
+  {
+    "id": "hsk1_0019", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "好", "traditional": "好", "pinyin": "hǎo", "pinyin_tones": [3], "han_viet": "hảo",
+    "meanings": [ { "pos": "adj", "en": "good, well", "vi": "tốt, hay, giỏi" } ],
+    "frequency_rank": 9,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "今天天气很好。", "seg": "今天 天气 很 好", "pinyin": "Jīntiān tiānqì hěn hǎo.", "vi": "Hôm nay thời tiết rất đẹp." },
+      { "tier": 2, "max_level": 2, "context": "school", "zh": "她的汉语说得很好。", "seg": "她 的 汉语 说 得 很 好", "pinyin": "Tā de Hànyǔ shuō de hěn hǎo.", "vi": "Cô ấy nói tiếng Hán rất giỏi." },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "好的开始是成功的一半，所以第一天上班一定要准备好。", "pinyin": "Hǎo de kāishǐ shì chénggōng de yíbàn, suǒyǐ dì yī tiān shàngbān yídìng yào zhǔnbèi hǎo.", "vi": "Khởi đầu tốt là một nửa thành công, nên ngày đầu đi làm nhất định phải chuẩn bị kỹ." }
+    ],
+    "characters": [
+      { "char": "好", "traditional": "好", "pinyin": "hǎo", "han_viet": "HẢO", "stroke_count": 6,
+        "radical": { "char": "女", "kangxi_no": 38, "name_vi": "Nữ", "meaning_vi": "phụ nữ" },
+        "components": [
+          { "part": "女", "name_vi": "Nữ", "meaning_vi": "người mẹ" },
+          { "part": "子", "name_vi": "Tử", "meaning_vi": "đứa con" }
+        ],
+        "formation": "会意", "assembly": ["女", "子"],
+        "mnemonic": { "type": "etymology", "story_vi": "Người mẹ (女) bế con (子) → điều TỐT ĐẸP (HẢO)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Mẹ 女 bế con 子 → tốt đẹp", "word_link_vi": "Một chữ: 好 = tốt (你好 = chào bạn)" }
+  },
+  {
+    "id": "hsk1_0020", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "看", "traditional": "看", "pinyin": "kàn", "pinyin_tones": [4], "han_viet": "khán",
+    "meanings": [
+      { "pos": "v", "en": "to look, to watch, to read", "vi": "nhìn, xem, đọc" },
+      { "pos": "v", "en": "to think, to consider", "vi": "cho rằng (在…看来)" }
+    ],
+    "frequency_rank": 18,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我在家看电视。", "seg": "我 在 家 看 电视", "pinyin": "Wǒ zài jiā kàn diànshì.", "vi": "Tôi xem tivi ở nhà." },
+      { "tier": 2, "max_level": 2, "context": "school", "zh": "你看，那个人是我们的老师。", "seg": "你 看 那个 人 是 我们 的 老师", "pinyin": "Nǐ kàn, nàge rén shì wǒmen de lǎoshī.", "vi": "Bạn nhìn kìa, người đó là thầy giáo của chúng ta." },
+      { "tier": 3, "max_level": 3, "context": "academic", "zh": "在我看来，学习语言最重要的是每天坚持。", "pinyin": "Zài wǒ kàn lái, xuéxí yǔyán zuì zhòngyào de shì měitiān jiānchí.", "vi": "Theo tôi, điều quan trọng nhất khi học ngôn ngữ là kiên trì mỗi ngày." }
+    ],
+    "characters": [
+      { "char": "看", "traditional": "看", "pinyin": "kàn", "han_viet": "KHÁN", "stroke_count": 9,
+        "radical": { "char": "目", "kangxi_no": 109, "name_vi": "Mục", "meaning_vi": "mắt" },
+        "components": [
+          { "part": "⺘", "name_vi": "Thủ", "meaning_vi": "bàn tay (biến thể của 手)" },
+          { "part": "目", "name_vi": "Mục", "meaning_vi": "mắt" }
+        ],
+        "formation": "会意", "assembly": ["⺘", "目"],
+        "mnemonic": { "type": "etymology", "story_vi": "Đưa tay (⺘) lên che trên mắt (目) để nhìn ra xa → NHÌN, XEM (KHÁN)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Tay ⺘ che trên mắt 目 nhìn xa → xem", "word_link_vi": "Một chữ: 看 = nhìn, xem (看书 đọc sách, 看电视 xem tivi)" }
+  },
+  {
+    "id": "hsk1_0021", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "听", "traditional": "聽", "pinyin": "tīng", "pinyin_tones": [1], "han_viet": "thính",
+    "meanings": [ { "pos": "v", "en": "to listen, to hear", "vi": "nghe" } ],
+    "frequency_rank": 95,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "leisure", "zh": "我喜欢听音乐。", "seg": "我 喜欢 听 音乐", "pinyin": "Wǒ xǐhuan tīng yīnyuè.", "vi": "Tôi thích nghe nhạc." },
+      { "tier": 2, "max_level": 2, "context": "school", "zh": "请大家听老师说。", "seg": "请 大家 听 老师 说", "pinyin": "Qǐng dàjiā tīng lǎoshī shuō.", "vi": "Mời mọi người nghe thầy nói." },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "他从来不听别人的意见，所以经常犯同样的错误。", "pinyin": "Tā cónglái bù tīng biérén de yìjiàn, suǒyǐ jīngcháng fàn tóngyàng de cuòwù.", "vi": "Anh ấy chưa bao giờ nghe ý kiến người khác, nên thường mắc cùng một lỗi." }
+    ],
+    "characters": [
+      { "char": "听", "traditional": "聽", "pinyin": "tīng", "han_viet": "THÍNH", "stroke_count": 7,
+        "radical": { "char": "口", "kangxi_no": 30, "name_vi": "Khẩu", "meaning_vi": "miệng" },
+        "components": [
+          { "part": "口", "name_vi": "Khẩu", "meaning_vi": "miệng" },
+          { "part": "斤", "name_vi": "Cân", "meaning_vi": "gợi âm jīn → tīng" }
+        ],
+        "formation": "形声", "assembly": ["口", "斤"],
+        "mnemonic": { "type": "creative", "story_vi": "Người khác mở miệng (口) nói, mình dỏng tai NGHE. Chữ phồn thể 聽 có bộ 耳 (tai) — dễ thấy nghĩa hơn." } }
+    ],
+    "mnemonic_summary": { "hint_short": "口 người nói + 斤 → mình nghe (phồn thể 聽 có tai 耳)", "word_link_vi": "Một chữ: 听 = nghe (听音乐 nghe nhạc)" }
+  },
+  {
+    "id": "hsk1_0022", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "说", "traditional": "說", "pinyin": "shuō", "pinyin_tones": [1], "han_viet": "thuyết",
+    "meanings": [ { "pos": "v", "en": "to speak, to say", "vi": "nói" } ],
+    "frequency_rank": 14,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "请你再说一遍。", "seg": "请 你 再 说 一 遍", "pinyin": "Qǐng nǐ zài shuō yí biàn.", "vi": "Bạn vui lòng nói lại một lần nữa." },
+      { "tier": 2, "max_level": 2, "context": "school", "zh": "我会说一点儿汉语。", "seg": "我 会 说 一点儿 汉语", "pinyin": "Wǒ huì shuō yìdiǎnr Hànyǔ.", "vi": "Tôi biết nói một chút tiếng Hán." },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "听说公司明年要在越南开一个新的办公室。", "pinyin": "Tīngshuō gōngsī míngnián yào zài Yuènán kāi yí gè xīn de bàngōngshì.", "vi": "Nghe nói năm sau công ty sẽ mở một văn phòng mới ở Việt Nam." }
+    ],
+    "characters": [
+      { "char": "说", "traditional": "說", "pinyin": "shuō", "han_viet": "THUYẾT", "stroke_count": 9,
+        "radical": { "char": "言", "kangxi_no": 149, "name_vi": "Ngôn", "meaning_vi": "lời nói (biến thể 讠)" },
+        "components": [
+          { "part": "讠", "name_vi": "Ngôn", "meaning_vi": "lời nói" },
+          { "part": "兑", "name_vi": "Đoài", "meaning_vi": "trao đổi, vui vẻ" }
+        ],
+        "formation": "形声", "assembly": ["讠", "兑"],
+        "mnemonic": { "type": "etymology", "story_vi": "讠 (lời nói) + 兑 (trao đổi) → dùng lời trao đổi với nhau → NÓI (THUYẾT)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "讠 lời + 兑 trao đổi → nói", "word_link_vi": "Một chữ: 说 = nói (说汉语 nói tiếng Hán)" }
+  },
+  {
+    "id": "hsk1_0023", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "汉语", "traditional": "漢語", "pinyin": "Hànyǔ", "pinyin_tones": [4, 3], "han_viet": "Hán ngữ",
+    "meanings": [ { "pos": "n", "en": "Chinese language", "vi": "tiếng Hán, tiếng Trung" } ],
+    "frequency_rank": 420,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "school", "zh": "我学习汉语。", "seg": "我 学习 汉语", "pinyin": "Wǒ xuéxí Hànyǔ.", "vi": "Tôi học tiếng Hán." },
+      { "tier": 2, "max_level": 2, "context": "daily", "zh": "你的汉语老师是哪国人？", "seg": "你 的 汉语 老师 是 哪 国 人", "pinyin": "Nǐ de Hànyǔ lǎoshī shì nǎ guó rén?", "vi": "Giáo viên tiếng Hán của bạn là người nước nào?" },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "随着中越贸易的发展，会说汉语的人越来越容易找到好工作。", "pinyin": "Suízhe Zhōng-Yuè màoyì de fāzhǎn, huì shuō Hànyǔ de rén yuè lái yuè róngyì zhǎodào hǎo gōngzuò.", "vi": "Cùng với sự phát triển của thương mại Trung–Việt, người biết tiếng Hán ngày càng dễ tìm việc tốt." }
+    ],
+    "characters": [
+      { "char": "汉", "traditional": "漢", "pinyin": "hàn", "han_viet": "HÁN", "stroke_count": 5,
+        "radical": { "char": "水", "kangxi_no": 85, "name_vi": "Thủy", "meaning_vi": "nước (biến thể 氵)" },
+        "components": [
+          { "part": "氵", "name_vi": "Thủy", "meaning_vi": "nước — tên một con sông" },
+          { "part": "又", "name_vi": "Hựu", "meaning_vi": "ký hiệu giản hoá thay phần gợi âm cũ" }
+        ],
+        "formation": "形声", "assembly": ["氵", "又"],
+        "mnemonic": { "type": "etymology", "story_vi": "Vốn là tên sông Hán (氵 = nước); triều Hán lấy tên sông, người Hán lấy tên triều → HÁN." } },
+      { "char": "语", "traditional": "語", "pinyin": "yǔ", "han_viet": "NGỮ", "stroke_count": 9,
+        "radical": { "char": "言", "kangxi_no": 149, "name_vi": "Ngôn", "meaning_vi": "lời nói (biến thể 讠)" },
+        "components": [
+          { "part": "讠", "name_vi": "Ngôn", "meaning_vi": "lời nói — phần chỉ nghĩa" },
+          { "part": "吾", "name_vi": "Ngô", "meaning_vi": "ta — gợi âm wú → yǔ" }
+        ],
+        "formation": "形声", "assembly": ["讠", "吾"],
+        "mnemonic": { "type": "etymology", "story_vi": "讠 (lời) + 吾 (wú, «ta») gợi âm yǔ → lời ta nói → NGÔN NGỮ." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Sông 氵 Hán → HÁN; lời 讠 + 吾 «ta» → NGỮ", "word_link_vi": "HÁN + NGỮ (tiếng nói) = tiếng Hán" }
+  },
+  {
+    "id": "hsk1_0024", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "中文", "traditional": "中文", "pinyin": "Zhōngwén", "pinyin_tones": [1, 2], "han_viet": "Trung văn",
+    "meanings": [ { "pos": "n", "en": "Chinese (language, writing)", "vi": "tiếng Trung" } ],
+    "frequency_rank": 350,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "这本书是中文的。", "seg": "这 本 书 是 中文 的", "pinyin": "Zhè běn shū shì Zhōngwén de.", "vi": "Quyển sách này là tiếng Trung." },
+      { "tier": 2, "max_level": 2, "context": "travel", "zh": "在中国旅游的时候，我常常说中文。", "seg": "在 中国 旅游 的 时候 我 常常 说 中文", "pinyin": "Zài Zhōngguó lǚyóu de shíhou, wǒ chángcháng shuō Zhōngwén.", "vi": "Khi du lịch Trung Quốc, tôi thường nói tiếng Trung." },
+      { "tier": 3, "max_level": 3, "context": "academic", "zh": "为了看懂中文报纸，她每天坚持阅读一篇新闻。", "pinyin": "Wèile kàndǒng Zhōngwén bàozhǐ, tā měitiān jiānchí yuèdú yì piān xīnwén.", "vi": "Để đọc hiểu báo tiếng Trung, ngày nào cô ấy cũng kiên trì đọc một bài tin tức." }
+    ],
+    "characters": [
+      { "char": "中", "traditional": "中", "pinyin": "zhōng", "han_viet": "TRUNG", "stroke_count": 4,
+        "radical": { "char": "丨", "kangxi_no": 2, "name_vi": "Cổn", "meaning_vi": "nét sổ" },
+        "components": [
+          { "part": "口", "meaning_vi": "khung, ô vuông" },
+          { "part": "丨", "name_vi": "Cổn", "meaning_vi": "nét xuyên qua chính giữa" }
+        ],
+        "formation": "指事", "assembly": ["口", "丨"],
+        "mnemonic": { "type": "etymology", "story_vi": "Một nét thẳng (丨) xuyên qua chính giữa ô (口) → Ở GIỮA (TRUNG)." } },
+      { "char": "文", "traditional": "文", "pinyin": "wén", "han_viet": "VĂN", "stroke_count": 4,
+        "radical": { "char": "文", "kangxi_no": 67, "name_vi": "Văn", "meaning_vi": "văn vẻ, chữ" },
+        "components": [ { "part": "文", "meaning_vi": "người có hoa văn trước ngực" } ],
+        "formation": "象形", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Hình người đứng có hoa văn xăm trên ngực → HOA VĂN, rồi thành CHỮ VIẾT (VĂN)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Nét 丨 xuyên giữa ô 口 → TRUNG; người có hoa văn → VĂN", "word_link_vi": "TRUNG (Trung Quốc) + VĂN (chữ, văn) = tiếng Trung" }
+  },
+  {
+    "id": "hsk1_0025", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "家", "traditional": "家", "pinyin": "jiā", "pinyin_tones": [1], "han_viet": "gia",
+    "meanings": [
+      { "pos": "n", "en": "home, family", "vi": "nhà, gia đình" },
+      { "pos": "m", "en": "measure word for shops, companies", "vi": "lượng từ cho cửa hàng, công ty" }
+    ],
+    "frequency_rank": 22,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "family", "zh": "我家有四口人。", "seg": "我 家 有 四 口 人", "pinyin": "Wǒ jiā yǒu sì kǒu rén.", "vi": "Nhà tôi có bốn người." },
+      { "tier": 2, "max_level": 2, "context": "leisure", "zh": "这家饭店的菜很好吃。", "seg": "这 家 饭店 的 菜 很 好吃", "pinyin": "Zhè jiā fàndiàn de cài hěn hǎochī.", "vi": "Món ăn của nhà hàng này rất ngon." },
+      { "tier": 3, "max_level": 3, "context": "culture", "zh": "不管走到哪里，家永远是我们最温暖的地方。", "pinyin": "Bùguǎn zǒu dào nǎlǐ, jiā yǒngyuǎn shì wǒmen zuì wēnnuǎn de dìfang.", "vi": "Dù đi đến đâu, nhà mãi là nơi ấm áp nhất của chúng ta." }
+    ],
+    "characters": [
+      { "char": "家", "traditional": "家", "pinyin": "jiā", "han_viet": "GIA", "stroke_count": 10,
+        "radical": { "char": "宀", "kangxi_no": 40, "name_vi": "Miên", "meaning_vi": "mái nhà" },
+        "components": [
+          { "part": "宀", "name_vi": "Miên", "meaning_vi": "mái nhà" },
+          { "part": "豕", "name_vi": "Thỉ", "meaning_vi": "con lợn" }
+        ],
+        "formation": "会意", "assembly": ["宀", "豕"],
+        "mnemonic": { "type": "etymology", "story_vi": "Dưới mái nhà (宀) có nuôi lợn (豕) → nơi có của ăn, có người ở → NHÀ (GIA)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Lợn 豕 dưới mái nhà 宀 → nhà, gia đình", "word_link_vi": "Một chữ: 家 = nhà; còn là lượng từ cho cửa hàng (一家商店)" }
+  },
+  {
+    "id": "hsk1_0026", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "电话", "traditional": "電話", "pinyin": "diànhuà", "pinyin_tones": [4, 4], "han_viet": "điện thoại",
+    "meanings": [ { "pos": "n", "en": "telephone; phone call", "vi": "điện thoại, cuộc gọi" } ],
+    "frequency_rank": 200,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我的电话在桌子上。", "seg": "我 的 电话 在 桌子 上", "pinyin": "Wǒ de diànhuà zài zhuōzi shang.", "vi": "Điện thoại của tôi ở trên bàn." },
+      { "tier": 2, "max_level": 2, "context": "family", "zh": "晚上我给妈妈打电话。", "seg": "晚上 我 给 妈妈 打 电话", "pinyin": "Wǎnshang wǒ gěi māma dǎ diànhuà.", "vi": "Buổi tối tôi gọi điện cho mẹ." },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "如果有什么问题，请随时给我们打电话，我们会尽快帮您解决。", "pinyin": "Rúguǒ yǒu shénme wèntí, qǐng suíshí gěi wǒmen dǎ diànhuà, wǒmen huì jǐnkuài bāng nín jiějué.", "vi": "Nếu có vấn đề gì, xin cứ gọi cho chúng tôi bất cứ lúc nào, chúng tôi sẽ giúp quý khách giải quyết sớm nhất." }
+    ],
+    "characters": [
+      { "char": "电", "traditional": "電", "pinyin": "diàn", "han_viet": "ĐIỆN", "stroke_count": 5,
+        "radical": { "char": "田", "kangxi_no": 102, "name_vi": "Điền", "meaning_vi": "ruộng (bộ tra cứu)" },
+        "components": [
+          { "part": "雨", "name_vi": "Vũ", "meaning_vi": "mưa (trong chữ phồn thể 電)" },
+          { "part": "申", "name_vi": "Thân", "meaning_vi": "hình tia chớp" }
+        ],
+        "formation": "会意", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Chữ gốc 電 = 雨 (mưa) + 申 (hình tia chớp) → chớp trong cơn mưa → ĐIỆN. Giản thể chỉ giữ lại tia chớp 电." } },
+      { "char": "话", "traditional": "話", "pinyin": "huà", "han_viet": "THOẠI", "stroke_count": 8,
+        "radical": { "char": "言", "kangxi_no": 149, "name_vi": "Ngôn", "meaning_vi": "lời nói (biến thể 讠)" },
+        "components": [
+          { "part": "讠", "name_vi": "Ngôn", "meaning_vi": "lời nói" },
+          { "part": "舌", "name_vi": "Thiệt", "meaning_vi": "cái lưỡi" }
+        ],
+        "formation": "会意", "assembly": ["讠", "舌"],
+        "mnemonic": { "type": "creative", "story_vi": "Lời nói (讠) phát ra nhờ cái lưỡi (舌) → LỜI NÓI, câu chuyện (THOẠI)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Tia chớp 电 trong mưa → ĐIỆN; lời 讠 + lưỡi 舌 → THOẠI", "word_link_vi": "ĐIỆN + THOẠI (lời nói) = điện thoại" }
+  },
+  {
+    "id": "hsk1_0027", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "睡觉", "traditional": "睡覺", "pinyin": "shuìjiào", "pinyin_tones": [4, 4], "han_viet": "thụy giác",
+    "meanings": [ { "pos": "v", "en": "to sleep", "vi": "ngủ, đi ngủ" } ],
+    "frequency_rank": 300,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我十一点睡觉。", "seg": "我 十一 点 睡觉", "pinyin": "Wǒ shíyī diǎn shuìjiào.", "vi": "Tôi đi ngủ lúc mười một giờ." },
+      { "tier": 2, "max_level": 2, "context": "family", "zh": "孩子们已经睡觉了，你说话小声一点儿。", "seg": "孩子们 已经 睡觉 了 你 说话 小声 一点儿", "pinyin": "Háizimen yǐjīng shuìjiào le, nǐ shuōhuà xiǎoshēng yìdiǎnr.", "vi": "Bọn trẻ ngủ rồi, bạn nói nhỏ một chút." },
+      { "tier": 3, "max_level": 3, "context": "health", "zh": "研究表明，睡觉前长时间看手机会影响睡眠质量。", "pinyin": "Yánjiū biǎomíng, shuìjiào qián cháng shíjiān kàn shǒujī huì yǐngxiǎng shuìmián zhìliàng.", "vi": "Nghiên cứu cho thấy xem điện thoại lâu trước khi ngủ sẽ ảnh hưởng đến chất lượng giấc ngủ." }
+    ],
+    "characters": [
+      { "char": "睡", "traditional": "睡", "pinyin": "shuì", "han_viet": "THỤY", "stroke_count": 13,
+        "radical": { "char": "目", "kangxi_no": 109, "name_vi": "Mục", "meaning_vi": "mắt" },
+        "components": [
+          { "part": "目", "name_vi": "Mục", "meaning_vi": "mắt" },
+          { "part": "垂", "name_vi": "Thùy", "meaning_vi": "rủ xuống — cũng gợi âm chuí" }
+        ],
+        "formation": "形声", "assembly": ["目", "垂"],
+        "mnemonic": { "type": "etymology", "story_vi": "Mắt (目) rủ xuống (垂) → NGỦ (THỤY)." } },
+      { "char": "觉", "traditional": "覺", "pinyin": "jiào", "han_viet": "GIÁC", "stroke_count": 9,
+        "radical": { "char": "見", "kangxi_no": 147, "name_vi": "Kiến", "meaning_vi": "thấy (biến thể 见)" },
+        "components": [
+          { "part": "⺍冖", "meaning_vi": "phần trên của chữ 學 (học)" },
+          { "part": "见", "name_vi": "Kiến", "meaning_vi": "thấy" }
+        ],
+        "formation": "形声", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Chữ gốc 覺 = phần trên của 學 (học) + 見 (thấy) → học rồi thấy ra, hiểu ra → GIÁC (cảm giác). Trong 睡觉 đọc là jiào: giấc ngủ." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Mắt 目 rủ xuống 垂 → THỤY; 觉 đọc jiào = giấc", "word_link_vi": "THỤY (ngủ) + GIÁC (giấc) = đi ngủ" }
+  },
+  {
+    "id": "hsk1_0028", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "明天", "traditional": "明天", "pinyin": "míngtiān", "pinyin_tones": [2, 1], "han_viet": "minh thiên",
+    "meanings": [ { "pos": "n", "en": "tomorrow", "vi": "ngày mai" } ],
+    "frequency_rank": 85,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "明天见！", "seg": "明天 见", "pinyin": "Míngtiān jiàn!", "vi": "Mai gặp lại!" },
+      { "tier": 2, "max_level": 2, "context": "travel", "zh": "明天我们坐飞机去北京。", "seg": "明天 我们 坐 飞机 去 北京", "pinyin": "Míngtiān wǒmen zuò fēijī qù Běijīng.", "vi": "Ngày mai chúng tôi đi máy bay đến Bắc Kinh." },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "这份报告必须在明天下午五点以前交给经理。", "pinyin": "Zhè fèn bàogào bìxū zài míngtiān xiàwǔ wǔ diǎn yǐqián jiāo gěi jīnglǐ.", "vi": "Bản báo cáo này phải nộp cho giám đốc trước năm giờ chiều mai." }
+    ],
+    "characters": [
+      { "char": "明", "traditional": "明", "pinyin": "míng", "han_viet": "MINH", "stroke_count": 8,
+        "radical": { "char": "日", "kangxi_no": 72, "name_vi": "Nhật", "meaning_vi": "mặt trời, ngày" },
+        "components": [
+          { "part": "日", "name_vi": "Nhật", "meaning_vi": "mặt trời" },
+          { "part": "月", "name_vi": "Nguyệt", "meaning_vi": "mặt trăng" }
+        ],
+        "formation": "会意", "assembly": ["日", "月"],
+        "mnemonic": { "type": "etymology", "story_vi": "Mặt trời (日) cùng mặt trăng (月) → SÁNG (MINH)." } },
+      { "char": "天", "traditional": "天", "pinyin": "tiān", "han_viet": "THIÊN", "stroke_count": 4,
+        "radical": { "char": "大", "kangxi_no": 37, "name_vi": "Đại", "meaning_vi": "to lớn" },
+        "components": [
+          { "part": "一", "name_vi": "Nhất", "meaning_vi": "vạch trên đầu — bầu trời" },
+          { "part": "大", "name_vi": "Đại", "meaning_vi": "người dang tay" }
+        ],
+        "formation": "指事", "assembly": ["一", "大"],
+        "mnemonic": { "type": "etymology", "story_vi": "Người dang tay (大), vạch ngang (一) trên đầu là bầu trời → TRỜI, NGÀY (THIÊN)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Mặt trời 日 + trăng 月 → MINH; trời 一 trên người 大 → THIÊN", "word_link_vi": "MINH (sáng — ngày sáng tiếp theo) + THIÊN (ngày) = ngày mai" }
+  },
+  {
+    "id": "hsk1_0029", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "今天", "traditional": "今天", "pinyin": "jīntiān", "pinyin_tones": [1, 1], "han_viet": "kim thiên",
+    "meanings": [ { "pos": "n", "en": "today", "vi": "hôm nay" } ],
+    "frequency_rank": 70,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "今天星期一。", "seg": "今天 星期一", "pinyin": "Jīntiān xīngqīyī.", "vi": "Hôm nay là thứ hai." },
+      { "tier": 2, "max_level": 2, "context": "school", "zh": "今天下午我们没有课。", "seg": "今天 下午 我们 没有 课", "pinyin": "Jīntiān xiàwǔ wǒmen méiyǒu kè.", "vi": "Chiều nay chúng tôi không có tiết học." },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "今天的年轻人和父母那一代相比，有更多选择生活方式的自由。", "pinyin": "Jīntiān de niánqīngrén hé fùmǔ nà yí dài xiāngbǐ, yǒu gèng duō xuǎnzé shēnghuó fāngshì de zìyóu.", "vi": "Giới trẻ ngày nay so với thế hệ cha mẹ có nhiều tự do lựa chọn lối sống hơn." }
+    ],
+    "characters": [
+      { "char": "今", "traditional": "今", "pinyin": "jīn", "han_viet": "KIM", "stroke_count": 4,
+        "radical": { "char": "人", "kangxi_no": 9, "name_vi": "Nhân", "meaning_vi": "người" },
+        "components": [
+          { "part": "人", "name_vi": "Nhân", "meaning_vi": "hình mái che" },
+          { "part": "一", "name_vi": "Nhất", "meaning_vi": "vạch đánh dấu" }
+        ],
+        "formation": "指事", "assembly": [],
+        "mnemonic": { "type": "creative", "story_vi": "Dưới mái che (人) có một vạch (一) đánh dấu «chính lúc này» → NAY, HIỆN TẠI (KIM)." } },
+      { "char": "天", "traditional": "天", "pinyin": "tiān", "han_viet": "THIÊN", "stroke_count": 4,
+        "radical": { "char": "大", "kangxi_no": 37, "name_vi": "Đại", "meaning_vi": "to lớn" },
+        "components": [
+          { "part": "一", "name_vi": "Nhất", "meaning_vi": "vạch trên đầu — bầu trời" },
+          { "part": "大", "name_vi": "Đại", "meaning_vi": "người dang tay" }
+        ],
+        "formation": "指事", "assembly": ["一", "大"],
+        "mnemonic": { "type": "etymology", "story_vi": "Người dang tay (大), vạch ngang (一) trên đầu là bầu trời → TRỜI, NGÀY (THIÊN)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Mái 人 trên vạch 一 «lúc này» → KIM; trời trên người → THIÊN", "word_link_vi": "KIM (nay) + THIÊN (ngày) = hôm nay" }
+  },
+  {
+    "id": "hsk1_0030", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "大", "traditional": "大", "pinyin": "dà", "pinyin_tones": [4], "han_viet": "đại",
+    "meanings": [ { "pos": "adj", "en": "big, large; old (age)", "vi": "to, lớn" } ],
+    "frequency_rank": 12,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "这个苹果很大。", "seg": "这个 苹果 很 大", "pinyin": "Zhège píngguǒ hěn dà.", "vi": "Quả táo này rất to." },
+      { "tier": 2, "max_level": 2, "context": "family", "zh": "你今年多大了？", "seg": "你 今年 多 大 了", "pinyin": "Nǐ jīnnián duō dà le?", "vi": "Năm nay bạn bao nhiêu tuổi?" },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "大城市虽然机会多，但是生活压力也比小城市大得多。", "pinyin": "Dà chéngshì suīrán jīhuì duō, dànshì shēnghuó yālì yě bǐ xiǎo chéngshì dà de duō.", "vi": "Thành phố lớn tuy nhiều cơ hội nhưng áp lực cuộc sống cũng lớn hơn thành phố nhỏ nhiều." }
+    ],
+    "characters": [
+      { "char": "大", "traditional": "大", "pinyin": "dà", "han_viet": "ĐẠI", "stroke_count": 3,
+        "radical": { "char": "大", "kangxi_no": 37, "name_vi": "Đại", "meaning_vi": "to lớn" },
+        "components": [ { "part": "大", "meaning_vi": "người dang rộng tay chân" } ],
+        "formation": "象形", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Hình người đứng dang rộng hai tay hai chân → TO LỚN (ĐẠI)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Người dang rộng tay chân → to lớn", "word_link_vi": "Một chữ: 大 = to, lớn (多大 = bao nhiêu tuổi)" }
+  },
+  {
+    "id": "hsk1_0031", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "人", "traditional": "人", "pinyin": "rén", "pinyin_tones": [2], "han_viet": "nhân",
+    "meanings": [ { "pos": "n", "en": "person, people", "vi": "người" } ],
+    "frequency_rank": 6,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "他是中国人。", "seg": "他 是 中国 人", "pinyin": "Tā shì Zhōngguó rén.", "vi": "Anh ấy là người Trung Quốc." },
+      { "tier": 2, "max_level": 2, "context": "leisure", "zh": "周末公园里的人特别多。", "seg": "周末 公园 里 的 人 特别 多", "pinyin": "Zhōumò gōngyuán lǐ de rén tèbié duō.", "vi": "Cuối tuần trong công viên đặc biệt đông người." },
+      { "tier": 3, "max_level": 3, "context": "society", "zh": "一个人的成功，往往离不开家人和朋友的支持。", "pinyin": "Yí gè rén de chénggōng, wǎngwǎng lí bu kāi jiārén hé péngyou de zhīchí.", "vi": "Thành công của một người thường không thể thiếu sự ủng hộ của gia đình và bạn bè." }
+    ],
+    "characters": [
+      { "char": "人", "traditional": "人", "pinyin": "rén", "han_viet": "NHÂN", "stroke_count": 2,
+        "radical": { "char": "人", "kangxi_no": 9, "name_vi": "Nhân", "meaning_vi": "người (biến thể 亻)" },
+        "components": [ { "part": "人", "meaning_vi": "người bước đi" } ],
+        "formation": "象形", "assembly": [],
+        "mnemonic": { "type": "etymology", "story_vi": "Hình người đứng nghiêng, hai chân bước đi. Làm bộ bên trái chữ khác viết thành 亻 (nhân đứng)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Người bước đi bằng hai chân; làm bộ: 亻", "word_link_vi": "Một chữ: 人 = người (中国人 người Trung Quốc)" }
+  },
+  {
+    "id": "hsk1_0032", "hsk_version": "3.0", "hsk_level": 1, "hsk_band": "elementary",
+    "simplified": "时间", "traditional": "時間", "pinyin": "shíjiān", "pinyin_tones": [2, 1], "han_viet": "thời gian",
+    "meanings": [ { "pos": "n", "en": "time", "vi": "thời gian" } ],
+    "frequency_rank": 45,
+    "examples": [
+      { "tier": 1, "max_level": 1, "context": "daily", "zh": "我没有时间。", "seg": "我 没有 时间", "pinyin": "Wǒ méiyǒu shíjiān.", "vi": "Tôi không có thời gian." },
+      { "tier": 2, "max_level": 2, "context": "school", "zh": "学习汉语要花很多时间。", "seg": "学习 汉语 要 花 很 多 时间", "pinyin": "Xuéxí Hànyǔ yào huā hěn duō shíjiān.", "vi": "Học tiếng Hán phải tốn nhiều thời gian." },
+      { "tier": 3, "max_level": 3, "context": "work", "zh": "合理安排时间，才能提高工作效率。", "pinyin": "Hélǐ ānpái shíjiān, cái néng tígāo gōngzuò xiàolǜ.", "vi": "Sắp xếp thời gian hợp lý mới nâng cao được hiệu suất công việc." }
+    ],
+    "characters": [
+      { "char": "时", "traditional": "時", "pinyin": "shí", "han_viet": "THỜI", "stroke_count": 7,
+        "radical": { "char": "日", "kangxi_no": 72, "name_vi": "Nhật", "meaning_vi": "mặt trời, ngày" },
+        "components": [
+          { "part": "日", "name_vi": "Nhật", "meaning_vi": "mặt trời — dùng để đo thời gian" },
+          { "part": "寸", "name_vi": "Thốn", "meaning_vi": "tấc — đơn vị nhỏ (phồn thể là 寺, gợi âm)" }
+        ],
+        "formation": "形声", "assembly": ["日", "寸"],
+        "mnemonic": { "type": "creative", "story_vi": "Mặt trời (日) trôi từng tấc (寸) trên bầu trời → THỜI GIAN. Gốc thật: phồn thể 時 có 寺 (sì) gợi âm." } },
+      { "char": "间", "traditional": "間", "pinyin": "jiān", "han_viet": "GIAN", "stroke_count": 7,
+        "radical": { "char": "門", "kangxi_no": 169, "name_vi": "Môn", "meaning_vi": "cửa (biến thể 门)" },
+        "components": [
+          { "part": "门", "name_vi": "Môn", "meaning_vi": "cửa" },
+          { "part": "日", "name_vi": "Nhật", "meaning_vi": "mặt trời" }
+        ],
+        "formation": "会意", "assembly": ["门", "日"],
+        "mnemonic": { "type": "etymology", "story_vi": "Ánh mặt trời (日) lọt qua khe cửa (门) → KHOẢNG GIỮA, khoảng trống (GIAN)." } }
+    ],
+    "mnemonic_summary": { "hint_short": "Mặt trời 日 trôi từng tấc 寸 → THỜI; nắng lọt khe cửa 门 → GIAN", "word_link_vi": "THỜI + GIAN (khoảng) = thời gian" }
+  }
+]

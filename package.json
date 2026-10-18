@@ -1,0 +1,16 @@
+{
+  "name": "hanzi-master",
+  "version": "0.1.0",
+  "private": true,
+  "description": "HànZì Master — học từ vựng tiếng Trung theo HSK 3.0 với FSRS-4.5 và Active Recall",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node --test \"tests/*.test.js\"",
+    "validate": "node scripts/validate-vocab.js",
+    "import-anki": "node --no-warnings scripts/import-anki.mjs"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}

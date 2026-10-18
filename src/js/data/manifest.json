@@ -1,0 +1,21 @@
+{
+  "version": "zhvi-2026-10-18-10965",
+  "source": "ZHVI HSK 3.0 (Anki) — xem src/js/data/LICENSE-DATA.md",
+  "vocab": [
+    "vocab/hsk1.json",
+    "vocab/hsk2.json",
+    "vocab/hsk3.json",
+    "vocab/hsk4.json",
+    "vocab/hsk5.json",
+    "vocab/hsk6.json",
+    "vocab/hsk7-9.json"
+  ],
+  "hanzi": "hanzi.json",
+  "lessons": "lessons.json",
+  "texts": [],
+  "passages": [
+    "passages/passages-hsk1.json"
+  ],
+  "collocations": "collocations.json",
+  "radicals": "radicals.json"
+}

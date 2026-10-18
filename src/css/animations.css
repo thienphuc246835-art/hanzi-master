@@ -1,0 +1,67 @@
+/* Keyframes & transitions — spring physics, no linear easing on movement */
+
+@keyframes breathe {
+  from { opacity: 0.55; transform: scale(0.97); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes flicker {
+  0% { transform: scale(1) rotate(-2deg); }
+  50% { transform: scale(1.06) rotate(2deg); }
+  100% { transform: scale(0.98) rotate(-1deg); }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-6px); }
+  75% { transform: translateX(6px); }
+}
+
+@keyframes pop-in {
+  from { opacity: 0; transform: scale(0.92) translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes shrink {
+  from { transform: scaleX(1); }
+  to { transform: scaleX(0); }
+}
+
+@keyframes timer {
+  from { transform: scaleX(1); }
+  to { transform: scaleX(0); }
+}
+
+@keyframes slide-in {
+  from { opacity: 0; transform: translateX(48px); }
+  to { opacity: 1; transform: none; }
+}
+
+@keyframes slide-out {
+  from { opacity: 1; transform: none; }
+  to { opacity: 0; transform: translateX(-48px); }
+}
+
+@keyframes pulse-correct {
+  0% { box-shadow: 0 0 0 0 rgba(76, 175, 125, 0.5); }
+  100% { box-shadow: 0 0 0 14px rgba(76, 175, 125, 0); }
+}
+
+.anim-slide-in { animation: slide-in 380ms var(--ease-spring); }
+.anim-slide-out { animation: slide-out 180ms var(--ease-out) forwards; }
+.anim-pop { animation: pop-in 320ms var(--ease-spring); }
+.anim-correct { animation: pulse-correct 600ms var(--ease-out); }
+.anim-shake { animation: shake 300ms var(--ease-out); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+  }
+}

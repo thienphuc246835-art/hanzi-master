@@ -1,0 +1,146 @@
+[
+  {
+    "id": "p_hsk1_0001",
+    "hsk_level": 1,
+    "topic": "daily",
+    "title": "我的周末",
+    "text": "星期六我不{{zh1790170130120|工作}}。早上我和{{zh1790170130688|朋友}}去{{zh1790170130780|商店}}{{zh1790170130420|买}}东西，中午我们在饭店{{zh1790170131356|吃饭}}。下午我在{{zh1790170130220|家}}{{zh1790170130708|学习}}{{zh1790170131492|中文}}，晚上{{zh1790170130508|看}}电视。",
+    "pinyin": "Xīngqīliù wǒ bù gōngzuò. Zǎoshang wǒ hé péngyou qù shāngdiàn mǎi dōngxi, zhōngwǔ wǒmen zài fàndiàn chīfàn. Xiàwǔ wǒ zài jiā xuéxí Zhōngwén, wǎnshang kàn diànshì.",
+    "translation_vi": "Thứ bảy tôi không đi làm. Buổi sáng tôi cùng bạn đi cửa hàng mua đồ, buổi trưa chúng tôi ăn cơm ở nhà hàng. Buổi chiều tôi học tiếng Trung ở nhà, buổi tối xem tivi.",
+    "char_count": 58,
+    "vocab_coverage": {
+      "at_or_below_level": 1
+    },
+    "glossary": [
+      {
+        "word": "星期六",
+        "pinyin": "xīngqīliù",
+        "vi": "thứ bảy"
+      },
+      {
+        "word": "饭店",
+        "pinyin": "fàndiàn",
+        "vi": "nhà hàng"
+      },
+      {
+        "word": "电视",
+        "pinyin": "diànshì",
+        "vi": "tivi"
+      }
+    ],
+    "questions": [
+      {
+        "type": "true_false",
+        "zh": "星期六他去工作。",
+        "vi": "Thứ bảy anh ấy đi làm.",
+        "answer": false
+      },
+      {
+        "type": "multiple_choice",
+        "zh": "他下午做什么？",
+        "vi": "Buổi chiều anh ấy làm gì?",
+        "options": [
+          "看电视",
+          "学习中文",
+          "买东西",
+          "吃饭"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "p_hsk1_0002",
+    "hsk_level": 1,
+    "topic": "family",
+    "title": "我的家",
+    "text": "我{{zh1790170130220|家}}有四口{{zh1790170130152|人}}：{{zh1790170130180|爸爸}}、{{zh1790170130244|妈妈}}、{{zh1790170130132|姐姐}}和我。爸爸是医生，他在医院{{zh1790170130120|工作}}。妈妈是{{zh1790170130012|老师}}。姐姐是{{zh1790170130040|学生}}，她{{zh1790170130860|说}}{{zh1790170131520|汉语}}说得很{{zh1790170130008|好}}。晚上我们一起{{zh1790170131356|吃饭}}，{{zh1790170130912|喝}}{{zh1790170130984|茶}}，{{zh1790170131108|听}}音乐。",
+    "pinyin": "Wǒ jiā yǒu sì kǒu rén: bàba, māma, jiějie hé wǒ. Bàba shì yīshēng, tā zài yīyuàn gōngzuò. Māma shì lǎoshī. Jiějie shì xuésheng, tā shuō Hànyǔ shuō de hěn hǎo. Wǎnshang wǒmen yìqǐ chīfàn, hē chá, tīng yīnyuè.",
+    "translation_vi": "Nhà tôi có bốn người: bố, mẹ, chị gái và tôi. Bố là bác sĩ, bố làm việc ở bệnh viện. Mẹ là giáo viên. Chị gái là học sinh, chị nói tiếng Hán rất giỏi. Buổi tối cả nhà cùng ăn cơm, uống trà, nghe nhạc.",
+    "char_count": 72,
+    "vocab_coverage": {
+      "at_or_below_level": 1
+    },
+    "glossary": [
+      {
+        "word": "医生",
+        "pinyin": "yīshēng",
+        "vi": "bác sĩ"
+      },
+      {
+        "word": "医院",
+        "pinyin": "yīyuàn",
+        "vi": "bệnh viện"
+      },
+      {
+        "word": "音乐",
+        "pinyin": "yīnyuè",
+        "vi": "âm nhạc"
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "zh": "妈妈做什么工作？",
+        "vi": "Mẹ làm nghề gì?",
+        "options": [
+          "医生",
+          "老师",
+          "学生"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "true_false",
+        "zh": "爸爸在学校工作。",
+        "vi": "Bố làm việc ở trường học.",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "id": "p_hsk1_0003",
+    "hsk_level": 1,
+    "topic": "shopping",
+    "title": "去商店",
+    "text": "{{zh1790170130324|今天}}天气很{{zh1790170130008|好}}。我和{{zh1790170130236|妹妹}}去{{zh1790170130780|商店}}。妹妹想{{zh1790170130420|买}}一个{{zh1790170130200|大}}苹果，我想买{{zh1790170130936|水}}。商店里{{zh1790170130152|人}}很多。{{zh1790170131012|卖}}东西的人问：“你们要什么？”回{{zh1790170130220|家}}以后，我们{{zh1790170130344|休息}}了一下，{{zh1790170130416|明天}}还要去{{zh1790170130624|学校}}。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo. Wǒ hé mèimei qù shāngdiàn. Mèimei xiǎng mǎi yí gè dà píngguǒ, wǒ xiǎng mǎi shuǐ. Shāngdiàn lǐ rén hěn duō. Mài dōngxi de rén wèn: “Nǐmen yào shénme?” Huí jiā yǐhòu, wǒmen xiūxi le yíxià, míngtiān hái yào qù xuéxiào.",
+    "translation_vi": "Hôm nay thời tiết rất đẹp. Tôi và em gái đi cửa hàng. Em gái muốn mua một quả táo to, tôi muốn mua nước. Trong cửa hàng rất đông người. Người bán hàng hỏi: «Các bạn cần gì?» Về nhà xong, chúng tôi nghỉ một chút, ngày mai còn phải đến trường.",
+    "char_count": 78,
+    "vocab_coverage": {
+      "at_or_below_level": 1
+    },
+    "glossary": [
+      {
+        "word": "天气",
+        "pinyin": "tiānqì",
+        "vi": "thời tiết"
+      },
+      {
+        "word": "苹果",
+        "pinyin": "píngguǒ",
+        "vi": "quả táo"
+      }
+    ],
+    "questions": [
+      {
+        "type": "multiple_choice",
+        "zh": "妹妹想买什么？",
+        "vi": "Em gái muốn mua gì?",
+        "options": [
+          "水",
+          "茶",
+          "苹果",
+          "电话"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "true_false",
+        "zh": "商店里人很少。",
+        "vi": "Trong cửa hàng rất ít người.",
+        "answer": false
+      }
+    ]
+  }
+]
