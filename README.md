@@ -20,7 +20,15 @@ npm run validate                                 # kiểm tra toàn bộ dữ li
 - `--no-media` chỉ sinh lại dữ liệu JSON (khoảng 5 giây), không chép lại audio.
 - Không mở thẳng `index.html` bằng `file://`: trình duyệt chặn ES modules và `fetch` JSON.
 
-## Dùng trên điện thoại
+## Dùng trực tuyến (mọi nơi)
+
+Web được đăng trên GitHub Pages: **https://thienphuc246835-art.github.io/hanzi-master/**
+
+- Mở trên điện thoại → menu trình duyệt → **Thêm vào màn hình chính** (Chrome: "Cài đặt ứng dụng"; Safari: Chia sẻ → "Thêm vào MH chính") để dùng như một ứng dụng; dữ liệu đã mở sẽ dùng được cả khi offline.
+- Cập nhật web sau khi sửa code: `git add -A`, `git commit -m "..."`, `git push` — GitHub tự dựng lại trang sau 1–3 phút.
+- Kho mã: https://github.com/thienphuc246835-art/hanzi-master (công khai, kèm toàn bộ audio/ảnh — xem lưu ý giấy phép ở mục Dữ liệu).
+
+## Dùng trong mạng nội bộ (không cần Internet)
 
 1. Máy tính và điện thoại bắt cùng một mạng Wi-Fi. Trên máy tính chạy `npm start`; dòng "Trên điện thoại" in ra địa chỉ dạng `http://192.168.x.x:5173`.
 2. Mở địa chỉ đó bằng Chrome/Safari trên điện thoại.

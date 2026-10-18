@@ -30,7 +30,7 @@ export function render(root) {
         h('span', { class: 'onboard__hanzi', 'aria-hidden': 'true' }, '学'),
         h('h1', {}, `Chào mừng đến ${APP_NAME}`),
         h('p', { class: 'muted' }, 'Học ít, nhớ nhiều — Chinh phục HSK từng bước.'),
-        h('p', { class: 'small muted' }, 'Từ vựng chuẩn HSK 3.0 · Lịch ôn FSRS-4.5 · 15 dạng bài chủ động ghi nhớ · Gợi ý nhớ theo bộ thủ')),
+        h('p', { class: 'small muted' }, '11.000+ từ HSK 3.0 có audio · Học theo bài giáo trình · Lịch ôn FSRS-4.5 · Lật thẻ, chọn đáp án, điền từ')),
       h('label', { class: 'field' }, h('span', { class: 'field__label' }, 'Bạn muốn được gọi là gì?'),
         h('input', { class: 'input', type: 'text', value: draft.display_name, maxLength: 40, placeholder: 'Tên của bạn (không bắt buộc)', onInput: (e) => { draft.display_name = e.target.value.trim(); } })),
     ],
