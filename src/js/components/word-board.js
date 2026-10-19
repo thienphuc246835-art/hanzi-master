@@ -87,6 +87,7 @@ function wordListRow(word, { onOpen } = {}) {
 
 export function openWord(word) {
   openModal(renderWordDetail(word), { label: `Chi tiết từ ${word.simplified}` });
+  if (state.settings.auto_play_audio) speakWord(word.simplified);
 }
 
 export function toneLegend() {

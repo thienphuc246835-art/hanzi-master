@@ -102,9 +102,28 @@ export function pickExamples(word, { perTier = false, max = 8 } = {}) {
   return out.length ? out : word.examples.slice(0, 3);
 }
 
+// Words of an example sentence (deck segmentation) as chips: tap → hear the word and see its meaning
+function exampleWords(ex, gloss) {
+  const byText = new Map(state.words.map((w) => [w.simplified, w]));
+  const parts = (ex.seg ?? '').split(/\s+/).filter(Boolean);
+  if (!parts.length) return null;
+  return h('div', { class: 'example__words', lang: 'zh-CN' }, parts.map((p) => {
+    const w = byText.get(p);
+    return h('button', {
+      class: 'chip', type: 'button', disabled: !w,
+      onClick: (e) => {
+        e.stopPropagation();
+        speakWord(p);
+        gloss.textContent = `${p} · ${w.pinyin} — ${primaryMeaning(w, 2)}`;
+      },
+    }, p);
+  }));
+}
+
 export function renderExamples(word, { compact = false, perTier = compact } = {}) {
   return h('ol', { class: 'examples', 'aria-label': 'Ví dụ theo cấp độ' },
     pickExamples(word, { perTier }).map((ex) => {
+      const gloss = h('div', { class: 'example__gloss small' });
       const li = h('li', { class: 'example', tabindex: '0', role: 'button', 'aria-expanded': 'false' },
         h('div', { class: 'example__zh' },
           h('span', {}, compact && [...ex.zh].length > 18 ? `${[...ex.zh].slice(0, 16).join('')}…` : ex.zh),
@@ -114,12 +133,15 @@ export function renderExamples(word, { compact = false, perTier = compact } = {}
           compact ? h('div', { class: 'hanzi' }, ex.zh) : null,
           h('div', { class: 'pinyin' }, ex.pinyin),
           h('div', {}, ex.vi),
+          exampleWords(ex, gloss),
+          gloss,
           h('button', { class: 'icon-btn', type: 'button', onClick: (e) => { e.stopPropagation(); speakWord(ex.zh); } }, '🔊 Đọc câu'),
         ),
       );
       const toggle = () => {
         const open = li.classList.toggle('example--open');
         li.setAttribute('aria-expanded', String(open));
+        if (open && state.settings.auto_play_audio) speakWord(ex.zh);
       };
       li.addEventListener('click', toggle);
       li.addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); e.stopPropagation(); toggle(); } });

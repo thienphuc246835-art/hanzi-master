@@ -140,7 +140,7 @@ export function render(root) {
       h('section', { class: 'card stack' },
         h('h2', {}, 'Hiển thị & âm thanh'),
         field('Giao diện', segmented('Giao diện', [['dark', 'Tối (mặc định)'], ['light', 'Sáng · giấy kem']], s.theme, (v) => { saveSettings({ theme: v }); applyDisplaySettings(); })),
-        switchRow('Tự phát âm khi thẻ từ mới xuất hiện', s.auto_play_audio, (v) => saveSettings({ auto_play_audio: v }), 'Thẻ ôn tập tự phát âm khi lật mặt sau.'),
+        switchRow('Tự phát âm', s.auto_play_audio, (v) => saveSettings({ auto_play_audio: v }), 'Phát khi thẻ từ mới xuất hiện, khi lật thẻ ôn tập, khi mở chi tiết một từ và khi mở một câu ví dụ.'),
         field(h('span', {}, 'Cỡ chữ Hán ', scaleLabel), h('input', {
           type: 'range', min: 0.8, max: 1.4, step: 0.05, value: s.hanzi_scale, 'aria-label': 'Cỡ chữ Hán',
           onInput: (e) => { saveSettings({ hanzi_scale: Number(e.target.value) }); scaleLabel.textContent = `${Math.round(e.target.value * 100)}%`; applyDisplaySettings(); },

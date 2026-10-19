@@ -531,3 +531,31 @@ details.table-view summary { cursor: pointer; color: var(--color-text-secondary)
   .sheet-wrap { width: 210mm; height: 297mm; box-shadow: none; break-after: page; page-break-after: always; overflow: hidden; }
   .sheet-wrap:last-child { break-after: auto; page-break-after: auto; }
 }
+
+/* ---------- Tình huống giao tiếp (/situations) & từ trong câu ví dụ ---------- */
+.situation-card { display: flex; gap: var(--space-4); align-items: center; text-decoration: none; color: inherit; }
+.situation-card:hover { border-color: var(--color-accent-gold); }
+.situation-card__icon { font-size: 2.2rem; }
+.dialogue { display: flex; flex-direction: column; gap: var(--space-3); max-width: 720px; margin: 0 auto; }
+.bubble { max-width: 85%; padding: var(--space-3) var(--space-4); border: 1px solid var(--color-border); border-radius: var(--radius-card); background: var(--color-surface); cursor: pointer; transition: border-color var(--transition-fast), transform var(--transition-fast); }
+.bubble:hover { border-color: var(--color-text-secondary); }
+.bubble--left { align-self: flex-start; border-bottom-left-radius: 4px; }
+.bubble--right { align-self: flex-end; border-bottom-right-radius: 4px; background: rgba(109, 158, 235, 0.1); }
+.bubble--playing { border-color: var(--color-accent-gold); transform: scale(1.01); }
+.bubble__zh { font-size: 1.35rem; line-height: 1.8; }
+.bubble__py { color: var(--color-accent-gold); font-size: 0.95rem; }
+.bubble__vi { color: var(--color-text-secondary); font-size: 0.92rem; }
+.hide-pinyin .bubble__py, .hide-vi .bubble__vi { display: none; }
+.situation-word { all: unset; cursor: pointer; border-bottom: 1px dotted var(--color-text-secondary); }
+.situation-word:hover, .situation-word:focus-visible { color: var(--color-accent-gold); border-bottom-color: var(--color-accent-gold); }
+.tips { margin: 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: var(--space-2); color: var(--color-text-secondary); }
+.example__words { display: flex; flex-wrap: wrap; gap: var(--space-1); margin: var(--space-2) 0; }
+.example__gloss { color: var(--color-text-primary); min-height: 1.3em; }
+
+/* ---------- Trợ lý hội thoại (/talk) ---------- */
+.talk-log { padding-bottom: var(--space-3); }
+.talk-log .bubble { cursor: default; }
+.talk-log .bubble__zh { display: flex; align-items: center; gap: var(--space-2); justify-content: space-between; }
+.talk-panel { max-width: 720px; margin: var(--space-4) auto 0; }
+.talk-note { margin-top: var(--space-2); padding: var(--space-2) var(--space-3); border-left: 3px solid var(--color-accent-gold); background: rgba(232, 184, 109, 0.1); border-radius: var(--radius-sm); }
+.bubble__gloss { color: var(--color-text-secondary); font-size: 0.8rem; opacity: 0.85; margin-top: 2px; }
