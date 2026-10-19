@@ -1,5 +1,5 @@
 // Service worker — offline-first app shell + data cache (CLAUDE.md §10.1)
-const CACHE = 'hzm-v6';
+const CACHE = 'hzm-v7';
 const MEDIA_CACHE = 'hzm-media-v1';
 
 const APP_SHELL = [
@@ -64,12 +64,6 @@ const APP_SHELL = [
   'src/js/pages/onboarding.js',
   'src/js/pages/practice.js',
   'src/js/pages/writing.js',
-  'src/js/pages/situations.js',
-  'src/js/pages/talk.js',
-  'src/js/core/talk.js',
-  'src/js/utils/llm.js',
-  'src/js/utils/speech-input.js',
-  'src/js/data/situations.json',
   'src/js/utils/writing-sheet.js',
   'src/js/data/manifest.json',
   'src/js/data/lessons.json',
