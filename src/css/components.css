@@ -508,3 +508,26 @@ table.data-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
 .data-table th, .data-table td { text-align: left; padding: var(--space-1) var(--space-2); border-bottom: 1px solid var(--color-border); }
 .data-table th { color: var(--color-text-secondary); font-weight: 500; }
 details.table-view summary { cursor: pointer; color: var(--color-text-secondary); font-size: 0.82rem; margin-top: var(--space-2); }
+
+/* ---------- Handwriting sheets (/writing) ---------- */
+.writing-words { display: grid; grid-template-columns: repeat(auto-fill, minmax(76px, 1fr)); gap: var(--space-2); max-height: 280px; overflow-y: auto; padding: var(--space-1); }
+.writing-word { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: var(--space-2); background: var(--color-bg-primary); border: 1px solid var(--color-border); border-radius: var(--radius-sm); color: var(--color-text-primary); cursor: pointer; }
+.writing-word:hover { border-color: var(--color-text-secondary); }
+.writing-word[aria-pressed="true"] { border-color: var(--color-accent-gold); background: rgba(232, 184, 109, 0.14); }
+.writing-word__zh { font-family: var(--font-hanzi); font-size: 1.35rem; font-weight: 700; }
+.writing-tray { display: flex; flex-wrap: wrap; gap: var(--space-2); max-height: 180px; overflow-y: auto; }
+.writing-chip { cursor: pointer; font-family: var(--font-hanzi); font-size: 1.05rem; }
+.sheet-preview { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--space-4); }
+.sheet-wrap { width: min(100%, 560px); box-shadow: 0 2px 18px rgba(0, 0, 0, 0.35); background: #fff; }
+.sheet-page { display: block; width: 100%; height: auto; }
+
+@media print {
+  @page { size: A4; margin: 0; }
+  body { background: #fff; }
+  .topbar, .nav, .writing-controls, .skip-link, .toast-region, .confetti { display: none !important; }
+  .app { padding: 0 !important; max-width: none !important; }
+  .mt-5 { margin: 0; }
+  .sheet-preview { display: block; }
+  .sheet-wrap { width: 210mm; height: 297mm; box-shadow: none; break-after: page; page-break-after: always; overflow: hidden; }
+  .sheet-wrap:last-child { break-after: auto; page-break-after: auto; }
+}

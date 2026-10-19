@@ -65,6 +65,7 @@ export function render(root, { id }) {
       h('div', { class: 'row' },
         h('a', { class: 'btn btn--primary', href: `#/study?lesson=${lesson.id}` }, icons.play(), 'Luyện tập'),
         h('a', { class: 'btn', href: `#/lesson/${lesson.id}/read` }, icons.read(), hasText ? 'Đọc & dịch bài khóa' : 'Luyện đọc & dịch'),
+        h('a', { class: 'btn', href: `#/writing?lesson=${lesson.id}` }, 'Tập viết'),
         h('button', { class: 'btn btn--ghost', type: 'button', onClick: playAll }, icons.sound(), 'Nghe cả bài')),
       h('span', { class: 'lesson-card__num', 'aria-hidden': 'true' }, String(lesson.number).padStart(2, '0'))),
 
