@@ -3,5 +3,3 @@
 *.apkg
 node_modules/
 
-# Dữ liệu trích từ giáo trình có bản quyền (发展汉语) — chỉ dùng cá nhân, không đăng lên GitHub công khai
-src/js/data/coursebook/

@@ -1,0 +1,52 @@
+{
+  "number": 1, "title_zh": "你好", "title_en": "Hello", "title_vi": "Xin chào",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "你", "py": "nǐ", "pos": "đại từ", "vi": "bạn, anh, chị (ngôi thứ hai, số ít)", "ex": "你是老师吗？", "ex_vi": "Bạn là giáo viên à?" },
+        { "zh": "好", "py": "hǎo", "pos": "tính từ", "vi": "tốt, khỏe, hay", "ex": "你好吗？", "ex_vi": "Bạn khỏe không?" }
+      ],
+      "names": [
+        { "zh": "马丁", "py": "Mǎdīng", "vi": "Martin, sinh viên Mỹ" },
+        { "zh": "林娜", "py": "Línnà", "vi": "Linna, sinh viên Pháp" }
+      ],
+      "lines": [
+        { "s": "马丁", "zh": "你好！", "vi": "Xin chào!" },
+        { "s": "林娜", "zh": "你好！", "vi": "Xin chào!" }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "您", "py": "nín", "pos": "đại từ", "vi": "ngài, ông, bà (cách nói kính trọng của 你)", "ex": "老师，您好！", "ex_vi": "Chào thầy/cô ạ!" }
+      ],
+      "names": [
+        { "zh": "李一民", "py": "Lǐ Yīmín", "vi": "Lý Nhất Dân, giáo viên Trung Quốc" },
+        { "zh": "阿明", "py": "Āmíng", "vi": "A Minh, sinh viên Thái Lan" }
+      ],
+      "lines": [
+        { "s": "李一民", "zh": "你好！", "vi": "Xin chào!" },
+        { "s": "阿明", "zh": "您好！", "vi": "Chào thầy ạ!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "零", "py": "líng", "pos": "số từ", "vi": "không (số 0)", "ex": "零和一是数字。", "ex_vi": "Không và một là các con số." },
+        { "zh": "一", "py": "yī", "pos": "số từ", "vi": "một", "ex": "一，二，五，八。", "ex_vi": "Một, hai, năm, tám." },
+        { "zh": "二", "py": "èr", "pos": "số từ", "vi": "hai", "ex": "二和八。", "ex_vi": "Hai và tám." },
+        { "zh": "五", "py": "wǔ", "pos": "số từ", "vi": "năm", "ex": "五和八。", "ex_vi": "Năm và tám." },
+        { "zh": "八", "py": "bā", "pos": "số từ", "vi": "tám", "ex": "一，二，五，八。", "ex_vi": "Một, hai, năm, tám." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "零　一　二　五　八", "vi": "Học số: 0 · 1 · 2 · 5 · 8" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "你们", "py": "nǐmen", "pos": "đại từ", "vi": "các bạn, các anh chị", "ex": "你们好！", "ex_vi": "Chào các bạn!" },
+    { "zh": "老师", "py": "lǎoshī", "pos": "danh từ", "vi": "thầy giáo, cô giáo", "ex": "老师好！", "ex_vi": "Em chào thầy/cô ạ!" }
+  ]
+}

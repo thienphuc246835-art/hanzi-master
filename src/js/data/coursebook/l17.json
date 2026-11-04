@@ -1,0 +1,87 @@
+{
+  "number": 17, "title_zh": "我口语和听力都很好", "title_en": "I'm Good at both Speaking and Listening", "title_vi": "Khẩu ngữ và nghe của tôi đều rất tốt",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "做客", "py": "zuò kè", "pos": "động từ", "vi": "đến chơi nhà, làm khách", "ex": "周末我去朋友家做客。", "ex_vi": "Cuối tuần tôi đến nhà bạn chơi." },
+        { "zh": "爱人", "py": "àiren", "pos": "danh từ", "vi": "vợ hoặc chồng", "ex": "他的爱人是老师。", "ex_vi": "Vợ của anh ấy là giáo viên." },
+        { "zh": "教", "py": "jiāo", "pos": "động từ", "vi": "dạy", "ex": "他教我们汉语。", "ex_vi": "Thầy ấy dạy chúng tôi tiếng Trung." },
+        { "zh": "包", "py": "bāo", "pos": "động từ", "vi": "gói, bọc, làm (bánh)", "ex": "我会包饺子。", "ex_vi": "Tôi biết gói bánh chẻo." },
+        { "zh": "饺子", "py": "jiǎozi", "pos": "danh từ", "vi": "sủi cảo, bánh chẻo", "ex": "我们晚上吃饺子。", "ex_vi": "Buổi tối chúng tôi ăn sủi cảo." },
+        { "zh": "葡萄酒", "py": "pútaojiǔ", "pos": "danh từ", "vi": "rượu vang", "ex": "他喜欢喝葡萄酒。", "ex_vi": "Anh ấy thích uống rượu vang." },
+        { "zh": "啤酒", "py": "píjiǔ", "pos": "danh từ", "vi": "bia", "ex": "我想喝一瓶啤酒。", "ex_vi": "Tôi muốn uống một chai bia." },
+        { "zh": "才", "py": "cái", "pos": "phó từ", "vi": "mới (chỉ việc xảy ra muộn hơn dự kiến)", "ex": "他九点才起床。", "ex_vi": "Chín giờ anh ấy mới dậy." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "今天下午我们到李老师家做客。李老师的爱人给我们做了很多好吃的菜，她还教我们包饺子。李老师给我们买了葡萄酒和啤酒。大家一起喝酒、吃饭、聊天儿，非常高兴。晚上十点，我们才回家。", "vi": "Chiều nay chúng tôi đến nhà thầy Lý chơi. Vợ thầy Lý nấu cho chúng tôi rất nhiều món ngon, cô ấy còn dạy chúng tôi gói sủi cảo. Thầy Lý mua rượu vang và bia cho chúng tôi. Mọi người cùng uống rượu, ăn cơm, trò chuyện, rất vui. Mười giờ tối chúng tôi mới về nhà." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "热闹", "py": "rènao", "pos": "tính từ", "vi": "náo nhiệt, nhộn nhịp", "ex": "今天这儿很热闹。", "ex_vi": "Hôm nay ở đây rất náo nhiệt." },
+        { "zh": "瓶", "py": "píng", "pos": "lượng từ", "vi": "chai, lọ", "ex": "我买了一瓶水。", "ex_vi": "Tôi mua một chai nước." },
+        { "zh": "最近", "py": "zuìjìn", "pos": "danh từ", "vi": "dạo gần đây", "ex": "你最近忙吗？", "ex_vi": "Dạo này bạn có bận không?" },
+        { "zh": "说话", "py": "shuō huà", "pos": "động từ", "vi": "nói chuyện, nói", "ex": "他不爱说话。", "ex_vi": "Anh ấy không thích nói chuyện." },
+        { "zh": "第一", "py": "dì yī", "pos": "số từ", "vi": "thứ nhất, đầu tiên", "ex": "这是我第一次来中国。", "ex_vi": "Đây là lần đầu tiên tôi đến Trung Quốc." },
+        { "zh": "第", "py": "dì", "pos": "tiền tố", "vi": "thứ (đứng trước số đếm để chỉ thứ tự)", "ex": "第二课很难。", "ex_vi": "Bài thứ hai rất khó." },
+        { "zh": "次", "py": "cì", "pos": "lượng từ", "vi": "lần", "ex": "我去过一次北京。", "ex_vi": "Tôi đã đến Bắc Kinh một lần." },
+        { "zh": "难", "py": "nán", "pos": "tính từ", "vi": "khó", "ex": "汉语不太难。", "ex_vi": "Tiếng Trung không khó lắm." },
+        { "zh": "学", "py": "xué", "pos": "động từ", "vi": "học", "ex": "我学汉语。", "ex_vi": "Tôi học tiếng Trung." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（学生们正在包饺子，这时候，李一民从外边回来了。）", "vi": "(Các học sinh đang gói sủi cảo, lúc này thầy Lý Nhất Dân từ bên ngoài trở về.)" },
+        { "s": "李一民", "zh": "这么热闹啊，大家都来了？", "vi": "Náo nhiệt thế này, mọi người đều đến rồi à?" },
+        { "s": "学生", "zh": "李老师，我们四点半就到了。您去哪儿了？", "vi": "Thưa thầy, chúng em đến từ bốn giờ rưỡi rồi. Thầy đi đâu thế ạ?" },
+        { "s": "李一民", "zh": "我去超市买酒了。你们看，我买了一瓶葡萄酒，还买了十瓶啤酒。今天星期六，大家可以多喝一点儿。我最近身体不好，不能喝酒，我多说话。", "vi": "Thầy đi siêu thị mua rượu. Các em xem, thầy mua một chai rượu vang, còn mua mười chai bia. Hôm nay thứ bảy, mọi người có thể uống nhiều một chút. Dạo này sức khỏe thầy không tốt, không uống rượu được, thầy nói chuyện nhiều hơn vậy." },
+        { "s": "林娜", "zh": "李老师，这是我第一次包饺子，您看怎么样？", "vi": "Thưa thầy, đây là lần đầu tiên em gói sủi cảo, thầy thấy thế nào ạ?" },
+        { "s": "李一民", "zh": "非常好！你们觉得包饺子难学吗？", "vi": "Rất tốt! Các em thấy gói sủi cảo có khó học không?" },
+        { "s": "林娜", "zh": "不难学，可是准备包饺子很麻烦。", "vi": "Không khó học, nhưng chuẩn bị để gói sủi cảo thì rất phiền." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "进步", "py": "jìnbù", "pos": "động từ, danh từ", "vi": "tiến bộ", "ex": "你的汉语进步很快。", "ex_vi": "Tiếng Trung của bạn tiến bộ rất nhanh." },
+        { "zh": "努力", "py": "nǔlì", "pos": "tính từ", "vi": "cố gắng, chăm chỉ", "ex": "他学习很努力。", "ex_vi": "Anh ấy học rất chăm chỉ." },
+        { "zh": "发音", "py": "fāyīn", "pos": "danh từ", "vi": "phát âm", "ex": "你的发音很好。", "ex_vi": "Phát âm của bạn rất tốt." },
+        { "zh": "口语", "py": "kǒuyǔ", "pos": "danh từ", "vi": "khẩu ngữ, kỹ năng nói", "ex": "我的口语不太好。", "ex_vi": "Kỹ năng nói của tôi không tốt lắm." },
+        { "zh": "听力", "py": "tīnglì", "pos": "danh từ", "vi": "khả năng nghe, nghe hiểu", "ex": "他的听力很好。", "ex_vi": "Khả năng nghe của anh ấy rất tốt." },
+        { "zh": "写", "py": "xiě", "pos": "động từ", "vi": "viết", "ex": "请写你的名字。", "ex_vi": "Xin hãy viết tên của bạn." },
+        { "zh": "声调", "py": "shēngdiào", "pos": "danh từ", "vi": "thanh điệu", "ex": "汉语有四个声调。", "ex_vi": "Tiếng Trung có bốn thanh điệu." },
+        { "zh": "总是", "py": "zǒngshì", "pos": "phó từ", "vi": "luôn luôn, lúc nào cũng", "ex": "他总是很忙。", "ex_vi": "Anh ấy lúc nào cũng bận." },
+        { "zh": "怎么", "py": "zěnme", "pos": "đại từ", "vi": "như thế nào (hỏi cách làm)", "ex": "这个字怎么写？", "ex_vi": "Chữ này viết thế nào?" },
+        { "zh": "办", "py": "bàn", "pos": "động từ", "vi": "làm, xử lý, giải quyết", "ex": "这件事怎么办？", "ex_vi": "Việc này giải quyết thế nào?" },
+        { "zh": "别", "py": "bié", "pos": "phó từ", "vi": "đừng", "ex": "别说话。", "ex_vi": "Đừng nói chuyện." },
+        { "zh": "着急", "py": "zháojí", "pos": "tính từ", "vi": "sốt ruột, lo lắng", "ex": "你别着急。", "ex_vi": "Bạn đừng sốt ruột." },
+        { "zh": "更", "py": "gèng", "pos": "phó từ", "vi": "càng, hơn nữa", "ex": "今天比昨天更冷。", "ex_vi": "Hôm nay lạnh hơn hôm qua." }
+      ],
+      "names": [
+        { "zh": "汉字", "py": "Hànzì", "vi": "chữ Hán" }
+      ],
+      "lines": [
+        { "s": "林娜", "zh": "李老师，您觉得我们汉语有进步吗？", "vi": "Thưa thầy, thầy thấy tiếng Trung của chúng em có tiến bộ không ạ?" },
+        { "s": "李一民", "zh": "你们这么努力学习，当然有进步了。", "vi": "Các em chăm chỉ học thế này, đương nhiên là có tiến bộ rồi." },
+        { "s": "山田", "zh": "我汉字没有问题，可是我发音不好。", "vi": "Chữ Hán của em không có vấn đề, nhưng phát âm của em không tốt." },
+        { "s": "马丁", "zh": "我口语和听力都很好，汉字也认识，但是不会写。", "vi": "Khẩu ngữ và nghe của em đều rất tốt, chữ Hán cũng nhận ra được, nhưng không biết viết." },
+        { "s": "林娜", "zh": "我的声调总是不好，应该怎么办呢？", "vi": "Thanh điệu của em lúc nào cũng không tốt, em nên làm thế nào ạ?" },
+        { "s": "李一民", "zh": "别着急，你们平时多听、多说、多看、多写，进步一定更快。好，我们别说学习了，快来吃饭吧！", "vi": "Đừng sốt ruột, bình thường các em nghe nhiều, nói nhiều, đọc nhiều, viết nhiều thì chắc chắn sẽ tiến bộ nhanh hơn. Được rồi, chúng ta đừng nói chuyện học nữa, mau lại ăn cơm nào!" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "个子", "py": "gèzi", "pos": "danh từ", "vi": "dáng người, vóc dáng (cao thấp)", "ex": "他的个子很高。", "ex_vi": "Anh ấy cao lớn." },
+    { "zh": "头发", "py": "tóufa", "pos": "danh từ", "vi": "tóc", "ex": "她的头发很长。", "ex_vi": "Tóc của cô ấy rất dài." },
+    { "zh": "眼睛", "py": "yǎnjing", "pos": "danh từ", "vi": "mắt", "ex": "她的眼睛很大。", "ex_vi": "Mắt của cô ấy rất to." },
+    { "zh": "鼻子", "py": "bízi", "pos": "danh từ", "vi": "mũi", "ex": "他的鼻子很高。", "ex_vi": "Mũi của anh ấy rất cao." },
+    { "zh": "身材", "py": "shēncái", "pos": "danh từ", "vi": "vóc dáng, dáng người", "ex": "她的身材很好。", "ex_vi": "Dáng người cô ấy rất đẹp." },
+    { "zh": "高", "py": "gāo", "pos": "tính từ", "vi": "cao", "ex": "他很高。", "ex_vi": "Anh ấy rất cao." },
+    { "zh": "矮", "py": "ǎi", "pos": "tính từ", "vi": "thấp, lùn", "ex": "我哥哥比我矮。", "ex_vi": "Anh trai tôi thấp hơn tôi." },
+    { "zh": "长", "py": "cháng", "pos": "tính từ", "vi": "dài", "ex": "这条路很长。", "ex_vi": "Con đường này rất dài." },
+    { "zh": "瘦", "py": "shòu", "pos": "tính từ", "vi": "gầy, ốm", "ex": "他有点儿瘦。", "ex_vi": "Anh ấy hơi gầy." },
+    { "zh": "胖", "py": "pàng", "pos": "tính từ", "vi": "mập, béo", "ex": "他不胖。", "ex_vi": "Anh ấy không mập." }
+  ]
+}

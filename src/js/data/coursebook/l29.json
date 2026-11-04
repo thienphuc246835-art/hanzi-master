@@ -1,0 +1,86 @@
+{
+  "number": 29, "title_zh": "晚会开得非常成功", "title_en": "The Party Is a Real Success", "title_vi": "Buổi tiệc diễn ra rất thành công",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "结束", "py": "jiéshù", "pos": "động từ", "vi": "kết thúc", "ex": "学期结束了。", "ex_vi": "Học kỳ kết thúc rồi." },
+        { "zh": "开", "py": "kāi", "pos": "động từ", "vi": "tổ chức, mở (họp, tiệc)", "ex": "我们开个晚会吧。", "ex_vi": "Chúng ta tổ chức một buổi tiệc nhé." },
+        { "zh": "轻松", "py": "qīngsōng", "pos": "tính từ", "vi": "thoải mái, nhẹ nhàng", "ex": "周末我想轻松一下。", "ex_vi": "Cuối tuần tôi muốn thư giãn một chút." },
+        { "zh": "得", "py": "de", "pos": "trợ từ", "vi": "(đứng sau động từ/tính từ, nối bổ ngữ kết quả hoặc mức độ)", "ex": "他说得很好。", "ex_vi": "Anh ấy nói rất hay." },
+        { "zh": "成功", "py": "chénggōng", "pos": "tính từ", "vi": "thành công", "ex": "晚会开得很成功。", "ex_vi": "Buổi tiệc diễn ra rất thành công." },
+        { "zh": "男", "py": "nán", "pos": "tính từ", "vi": "nam", "ex": "男同学都来了。", "ex_vi": "Các bạn nam đều đến rồi." },
+        { "zh": "饮料", "py": "yǐnliào", "pos": "danh từ", "vi": "đồ uống", "ex": "我想喝一杯饮料。", "ex_vi": "Tôi muốn uống một ly nước giải khát." },
+        { "zh": "女", "py": "nǚ", "pos": "tính từ", "vi": "nữ", "ex": "女同学做了很多菜。", "ex_vi": "Các bạn nữ làm rất nhiều món." },
+        { "zh": "痛快", "py": "tòngkuai", "pos": "tính từ", "vi": "sảng khoái, thoải mái", "ex": "我们玩儿得很痛快。", "ex_vi": "Chúng tôi chơi rất thoải mái." },
+        { "zh": "表演", "py": "biǎoyǎn", "pos": "động từ", "vi": "biểu diễn", "ex": "他们表演得很好。", "ex_vi": "Họ biểu diễn rất hay." },
+        { "zh": "讲", "py": "jiǎng", "pos": "động từ", "vi": "kể, nói, giảng", "ex": "他给我们讲故事。", "ex_vi": "Anh ấy kể chuyện cho chúng tôi nghe." },
+        { "zh": "故事", "py": "gùshi", "pos": "danh từ", "vi": "câu chuyện", "ex": "这个故事很有意思。", "ex_vi": "Câu chuyện này rất thú vị." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "这个学期就要结束了。老师说，大家学习都很累，开个晚会轻松一下吧。昨天晚上，我们开了一个晚会，晚会开得非常成功。男同学准备了水果和饮料，女同学做了很多好吃的。大家吃得很高兴，玩儿得也很痛快。很多同学表演了节目，有的唱歌，有的跳舞，有的讲故事，大家一直玩儿到十一点多才结束。", "vi": "Học kỳ này sắp kết thúc. Thầy cô nói mọi người học đều rất mệt, hãy mở một buổi tiệc để thư giãn. Tối qua chúng tôi đã tổ chức một buổi tiệc, buổi tiệc diễn ra rất thành công. Các bạn nam chuẩn bị trái cây và đồ uống, các bạn nữ nấu rất nhiều món ngon. Mọi người ăn rất vui, chơi cũng rất thoải mái. Nhiều bạn biểu diễn tiết mục, có người hát, có người nhảy, có người kể chuyện, mọi người chơi mãi đến hơn mười một giờ mới kết thúc." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "哪里", "py": "nǎli", "pos": "đại từ", "vi": "đâu có (lời đáp khiêm tốn khi được khen)", "ex": "A：你汉语说得真好！B：哪里，哪里。", "ex_vi": "A: Bạn nói tiếng Trung giỏi thật! B: Đâu có, đâu có." },
+        { "zh": "游泳", "py": "yóuyǒng", "pos": "động từ", "vi": "bơi", "ex": "他游泳游得很快。", "ex_vi": "Anh ấy bơi rất nhanh." },
+        { "zh": "游", "py": "yóu", "pos": "động từ", "vi": "bơi", "ex": "他游了一个小时。", "ex_vi": "Anh ấy đã bơi một tiếng." },
+        { "zh": "俩", "py": "liǎ", "pos": "đại từ", "vi": "hai người, đôi ta", "ex": "咱们俩一起去吧。", "ex_vi": "Hai đứa mình cùng đi nhé." },
+        { "zh": "比", "py": "bǐ", "pos": "động từ", "vi": "thi, đọ, so sánh", "ex": "咱们比一比。", "ex_vi": "Chúng ta thi thử xem." },
+        { "zh": "水平", "py": "shuǐpíng", "pos": "danh từ", "vi": "trình độ, mức độ", "ex": "他的汉语水平很高。", "ex_vi": "Trình độ tiếng Trung của anh ấy rất cao." },
+        { "zh": "高", "py": "gāo", "pos": "tính từ", "vi": "cao", "ex": "他的水平很高。", "ex_vi": "Trình độ của anh ấy rất cao." },
+        { "zh": "知识", "py": "zhīshi", "pos": "danh từ", "vi": "kiến thức, tri thức", "ex": "他的知识很丰富。", "ex_vi": "Kiến thức của anh ấy rất phong phú." },
+        { "zh": "表扬", "py": "biǎoyáng", "pos": "động từ", "vi": "khen ngợi, tuyên dương", "ex": "老师表扬了他。", "ex_vi": "Thầy giáo đã khen anh ấy." },
+        { "zh": "文章", "py": "wénzhāng", "pos": "danh từ", "vi": "bài văn, bài viết", "ex": "他写了一篇文章。", "ex_vi": "Anh ấy đã viết một bài văn." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "马丁", "zh": "阿明，我只知道你跑得快，没想到歌也唱得那么好。", "vi": "A Minh, tớ chỉ biết cậu chạy nhanh, không ngờ hát cũng hay thế." },
+        { "s": "阿明", "zh": "哪里，哪里。你昨天晚上跳舞也跳得不错啊。", "vi": "Đâu có đâu có. Tối qua cậu nhảy cũng khá lắm." },
+        { "s": "马丁", "zh": "我喜欢跳舞，但是跳得不太好。", "vi": "Tớ thích nhảy, nhưng nhảy không giỏi lắm." },
+        { "s": "崔浩", "zh": "林娜，听说你游泳游得不错，什么时候咱们俩比一比？", "vi": "Linna, nghe nói cậu bơi khá lắm, khi nào hai đứa mình thi một trận?" },
+        { "s": "林娜", "zh": "行啊。", "vi": "Được thôi." },
+        { "s": "崔浩", "zh": "对了，你中国画学得怎么样？", "vi": "À đúng rồi, cậu học tranh Trung Quốc thế nào rồi?" },
+        { "s": "林娜", "zh": "我刚学一年，水平不高，画得不好。", "vi": "Tớ mới học một năm, trình độ chưa cao, vẽ chưa đẹp." },
+        { "s": "崔浩", "zh": "山田，你有什么爱好？", "vi": "Yamada, cậu có sở thích gì?" },
+        { "s": "山田", "zh": "我呀，爱睡觉，每天睡得早，起得晚。", "vi": "Tớ à, thích ngủ, mỗi ngày ngủ sớm mà dậy muộn." },
+        { "s": "崔浩", "zh": "不对。你爱学习，知识丰富，老师经常表扬你文章写得好。", "vi": "Không đúng. Cậu thích học, kiến thức phong phú, thầy cô thường khen cậu viết văn hay." },
+        { "s": "山田", "zh": "哪里，你们的汉语也都很好。", "vi": "Đâu có, tiếng Trung của các cậu cũng đều rất tốt." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "花", "py": "huā", "pos": "động từ", "vi": "tiêu, tốn (tiền, thời gian)", "ex": "我每个月花两千块钱。", "ex_vi": "Mỗi tháng tôi tiêu hai nghìn tệ." },
+        { "zh": "包括", "py": "bāokuò", "pos": "động từ", "vi": "bao gồm", "ex": "房租包括水电费。", "ex_vi": "Tiền thuê nhà bao gồm cả tiền điện nước." },
+        { "zh": "电", "py": "diàn", "pos": "danh từ", "vi": "điện", "ex": "电费很贵。", "ex_vi": "Tiền điện rất đắt." },
+        { "zh": "交通", "py": "jiāotōng", "pos": "danh từ", "vi": "giao thông", "ex": "这儿交通很方便。", "ex_vi": "Giao thông ở đây rất thuận tiện." },
+        { "zh": "加上", "py": "jiāshang", "pos": "động từ", "vi": "cộng thêm, thêm vào", "ex": "加上房租，一共五千。", "ex_vi": "Cộng cả tiền nhà, tổng cộng năm nghìn." },
+        { "zh": "零花钱", "py": "línghuāqián", "pos": "danh từ", "vi": "tiền tiêu vặt", "ex": "妈妈给我零花钱。", "ex_vi": "Mẹ cho tôi tiền tiêu vặt." },
+        { "zh": "够", "py": "gòu", "pos": "tính từ", "vi": "đủ", "ex": "这些钱够了。", "ex_vi": "Chỗ tiền này đủ rồi." },
+        { "zh": "可能", "py": "kěnéng", "pos": "phó từ", "vi": "có lẽ, có thể", "ex": "他可能不来了。", "ex_vi": "Có lẽ anh ấy không đến nữa." },
+        { "zh": "这里", "py": "zhèli", "pos": "đại từ", "vi": "ở đây", "ex": "我喜欢这里。", "ex_vi": "Tôi thích nơi này." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "山田", "zh": "你今天怎么来得这么晚？是不是昨天晚上玩儿得太累了？", "vi": "Hôm nay sao cậu đến muộn thế? Có phải tối qua chơi mệt quá không?" },
+        { "s": "崔浩", "zh": "不是。我这个月的生活费花得太快，又没钱了，我去取钱了。", "vi": "Không phải. Sinh hoạt phí tháng này tớ tiêu nhanh quá, lại hết tiền rồi, tớ đi rút tiền." },
+        { "s": "山田", "zh": "你每个月要花多少钱？", "vi": "Mỗi tháng cậu tiêu bao nhiêu tiền?" },
+        { "s": "崔浩", "zh": "大概五六千吧。包括房租、水费、电费、电话费、交通费、吃饭，再加上一些零花钱。", "vi": "Khoảng năm sáu nghìn. Gồm tiền nhà, tiền nước, tiền điện, tiền điện thoại, tiền đi lại, ăn uống, cộng thêm ít tiền tiêu vặt." },
+        { "s": "山田", "zh": "我也差不多花五六千，有时候五六千还不够。", "vi": "Tớ cũng tiêu gần năm sáu nghìn, có khi năm sáu nghìn còn không đủ." },
+        { "s": "崔浩", "zh": "可能别的城市生活费便宜一些。", "vi": "Có lẽ ở thành phố khác sinh hoạt phí rẻ hơn một chút." },
+        { "s": "山田", "zh": "可是我已经习惯这里了。", "vi": "Nhưng tớ đã quen ở đây rồi." },
+        { "s": "崔浩", "zh": "我也一样。", "vi": "Tớ cũng vậy." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "流利", "py": "liúlì", "pos": "tính từ", "vi": "trôi chảy, lưu loát", "ex": "他说汉语说得很流利。", "ex_vi": "Anh ấy nói tiếng Trung rất trôi chảy." },
+    { "zh": "干净", "py": "gānjìng", "pos": "tính từ", "vi": "sạch sẽ", "ex": "他的房间很干净。", "ex_vi": "Phòng của anh ấy rất sạch." },
+    { "zh": "精彩", "py": "jīngcǎi", "pos": "tính từ", "vi": "đặc sắc, hấp dẫn", "ex": "这个节目很精彩。", "ex_vi": "Chương trình này rất đặc sắc." },
+    { "zh": "生动", "py": "shēngdòng", "pos": "tính từ", "vi": "sinh động", "ex": "他讲得很生动。", "ex_vi": "Anh ấy kể rất sinh động." }
+  ]
+}

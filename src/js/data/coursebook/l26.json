@@ -1,0 +1,82 @@
+{
+  "number": 26, "title_zh": "圣诞节快到了", "title_en": "Christmas Is About to Come", "title_vi": "Giáng sinh sắp đến rồi",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "快要", "py": "kuàiyào", "pos": "phó từ", "vi": "sắp, sắp sửa", "ex": "圣诞节快要到了。", "ex_vi": "Giáng sinh sắp đến rồi." },
+        { "zh": "要", "py": "yào", "pos": "trợ động từ", "vi": "sắp (要…了)", "ex": "要下雨了。", "ex_vi": "Sắp mưa rồi." },
+        { "zh": "快", "py": "kuài", "pos": "phó từ", "vi": "sắp, chẳng bao lâu", "ex": "快到了。", "ex_vi": "Sắp đến rồi." },
+        { "zh": "许多", "py": "xǔduō", "pos": "tính từ", "vi": "nhiều, rất nhiều", "ex": "商店里有许多人。", "ex_vi": "Trong cửa hàng có rất nhiều người." },
+        { "zh": "没想到", "py": "méi xiǎngdào", "pos": "cụm từ", "vi": "không ngờ", "ex": "没想到你来了。", "ex_vi": "Không ngờ bạn đến." },
+        { "zh": "丰富", "py": "fēngfù", "pos": "tính từ", "vi": "phong phú, dồi dào", "ex": "这儿的水果很丰富。", "ex_vi": "Trái cây ở đây rất phong phú." },
+        { "zh": "不同", "py": "bùtóng", "pos": "tính từ", "vi": "khác nhau, không giống", "ex": "我们的想法不同。", "ex_vi": "Suy nghĩ của chúng tôi khác nhau." },
+        { "zh": "利用", "py": "lìyòng", "pos": "động từ", "vi": "lợi dụng, tận dụng", "ex": "我利用周末学习汉语。", "ex_vi": "Tôi tận dụng cuối tuần để học tiếng Trung." },
+        { "zh": "饭店", "py": "fàndiàn", "pos": "danh từ", "vi": "khách sạn, nhà hàng", "ex": "这家饭店很有名。", "ex_vi": "Khách sạn này rất nổi tiếng." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "圣诞节快要到了，许多商店都开始卖圣诞节用的东西。有一天，马丁去一家商店买圣诞礼物，没想到商店里圣诞节用的东西那么丰富，买的人也不少。他问营业员：“中国也过圣诞节吗？”营业员说：“以前中国人不过圣诞节。但是现在不同了，很多人喜欢过圣诞节，特别是年轻人，他们想利用这个机会玩儿一玩儿，商店、饭店也利用这个机会挣钱。”", "vi": "Giáng sinh sắp đến, nhiều cửa hàng bắt đầu bán đồ dùng cho dịp lễ. Một hôm, Martin đến một cửa hàng mua quà Giáng sinh, không ngờ đồ dùng cho Giáng sinh trong cửa hàng phong phú đến thế, người mua cũng không ít. Anh hỏi nhân viên: “Trung Quốc cũng đón Giáng sinh sao?” Nhân viên nói: “Trước đây người Trung Quốc không đón Giáng sinh. Nhưng bây giờ khác rồi, nhiều người thích đón Giáng sinh, nhất là giới trẻ, họ muốn nhân dịp này đi chơi, cửa hàng và nhà hàng cũng nhân dịp này kiếm tiền.”" }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "迎接", "py": "yíngjiē", "pos": "động từ", "vi": "đón, đón chào", "ex": "我们迎接新年。", "ex_vi": "Chúng ta đón năm mới." },
+        { "zh": "各种", "py": "gè zhǒng", "pos": "đại từ", "vi": "các loại, đủ loại", "ex": "这儿有各种水果。", "ex_vi": "Ở đây có đủ loại trái cây." },
+        { "zh": "市场", "py": "shìchǎng", "pos": "danh từ", "vi": "chợ, thị trường", "ex": "我去市场买菜。", "ex_vi": "Tôi ra chợ mua rau." },
+        { "zh": "到处", "py": "dàochù", "pos": "phó từ", "vi": "khắp nơi, mọi chỗ", "ex": "到处都是人。", "ex_vi": "Khắp nơi đều là người." },
+        { "zh": "教堂", "py": "jiàotáng", "pos": "danh từ", "vi": "nhà thờ", "ex": "我们去教堂。", "ex_vi": "Chúng tôi đến nhà thờ." },
+        { "zh": "全", "py": "quán", "pos": "tính từ", "vi": "cả, toàn bộ", "ex": "全家人都来了。", "ex_vi": "Cả nhà đều đến rồi." },
+        { "zh": "唱歌", "py": "chàng gē", "pos": "động từ", "vi": "hát", "ex": "我喜欢唱歌。", "ex_vi": "Tôi thích hát." },
+        { "zh": "唱", "py": "chàng", "pos": "động từ", "vi": "hát", "ex": "他唱得很好。", "ex_vi": "Anh ấy hát rất hay." },
+        { "zh": "歌", "py": "gē", "pos": "danh từ", "vi": "bài hát", "ex": "这首歌很好听。", "ex_vi": "Bài hát này rất hay." },
+        { "zh": "跳舞", "py": "tiào wǔ", "pos": "động từ", "vi": "nhảy múa", "ex": "晚上我们去跳舞。", "ex_vi": "Buổi tối chúng ta đi nhảy." },
+        { "zh": "跳", "py": "tiào", "pos": "động từ", "vi": "nhảy", "ex": "他跳得很高。", "ex_vi": "Anh ấy nhảy rất cao." },
+        { "zh": "孩子", "py": "háizi", "pos": "danh từ", "vi": "trẻ con, con cái", "ex": "孩子们都很高兴。", "ex_vi": "Bọn trẻ đều rất vui." },
+        { "zh": "家人", "py": "jiārén", "pos": "danh từ", "vi": "người nhà, thành viên gia đình", "ex": "我给家人买了礼物。", "ex_vi": "Tôi mua quà cho người nhà." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "朱云", "zh": "要过圣诞节了。你们那儿圣诞节以前做什么呢？", "vi": "Sắp đến Giáng sinh rồi. Ở chỗ các bạn trước Giáng sinh thường làm gì?" },
+        { "s": "林娜", "zh": "为了迎接圣诞节，我们在圣诞节以前四个星期就开始准备了。我们要准备圣诞礼物、酒，还有各种好吃的。商店里、圣诞市场里，到处都是买东西的人，非常热闹。", "vi": "Để đón Giáng sinh, chúng tôi bắt đầu chuẩn bị từ bốn tuần trước. Chúng tôi cần chuẩn bị quà Giáng sinh, rượu, và đủ thứ đồ ngon. Trong cửa hàng, chợ Giáng sinh, đâu đâu cũng là người đi mua sắm, rất náo nhiệt." },
+        { "s": "朱云", "zh": "12月24日晚上你们做什么呢？", "vi": "Tối ngày 24 tháng 12 các bạn làm gì?" },
+        { "s": "林娜", "zh": "我们一般先去教堂参加活动，然后全家一起吃晚饭。我们唱歌、跳舞，聊天儿、喝酒，非常快乐。", "vi": "Chúng tôi thường đến nhà thờ tham gia hoạt động trước, sau đó cả nhà cùng ăn tối. Chúng tôi hát, nhảy, trò chuyện, uống rượu, rất vui." },
+        { "s": "朱云", "zh": "听说你们会收到很多圣诞礼物。", "vi": "Nghe nói các bạn nhận được rất nhiều quà Giáng sinh." },
+        { "s": "林娜", "zh": "没错儿。最高兴的是孩子们，他们会收到许许多多的礼物。", "vi": "Đúng vậy. Vui nhất là bọn trẻ, chúng nhận được vô số quà." },
+        { "s": "朱云", "zh": "要过圣诞节了，你给家人买礼物了吗？", "vi": "Sắp đến Giáng sinh rồi, bạn đã mua quà cho người nhà chưa?" },
+        { "s": "林娜", "zh": "当然买了。我已经给他们寄去了，他们也给我寄来了礼物。", "vi": "Đương nhiên là mua rồi. Tôi đã gửi cho họ, họ cũng đã gửi quà cho tôi." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "打算", "py": "dǎsuan", "pos": "động từ", "vi": "dự định, tính", "ex": "你打算去哪儿？", "ex_vi": "Bạn định đi đâu?" },
+        { "zh": "外地", "py": "wàidì", "pos": "danh từ", "vi": "nơi khác, tỉnh khác", "ex": "他去外地工作了。", "ex_vi": "Anh ấy đi làm ở nơi khác." },
+        { "zh": "附近", "py": "fùjìn", "pos": "danh từ", "vi": "gần đây, lân cận", "ex": "附近有一个公园。", "ex_vi": "Gần đây có một công viên." },
+        { "zh": "考试", "py": "kǎo shì", "pos": "động từ", "vi": "thi, kiểm tra", "ex": "下个星期我们考试。", "ex_vi": "Tuần sau chúng tôi thi." },
+        { "zh": "认真", "py": "rènzhēn", "pos": "tính từ", "vi": "chăm chỉ, nghiêm túc", "ex": "他学习很认真。", "ex_vi": "Anh ấy học rất chăm chỉ." },
+        { "zh": "要是", "py": "yàoshi", "pos": "liên từ", "vi": "nếu, nếu như", "ex": "要是下雨，我就不去。", "ex_vi": "Nếu mưa thì tôi không đi." },
+        { "zh": "没意思", "py": "méi yìsi", "pos": "cụm từ", "vi": "chán, nhạt, không thú vị", "ex": "一个人在家没意思。", "ex_vi": "Một mình ở nhà chán lắm." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "崔浩", "zh": "听说圣诞节要放五天假，你们想怎么过啊？", "vi": "Nghe nói Giáng sinh được nghỉ năm ngày, các cậu định trải qua thế nào?" },
+        { "s": "马丁", "zh": "我父母下个星期就要来北京了，我打算和他们一起到外地去旅游。你呢？", "vi": "Bố mẹ tớ tuần sau sắp đến Bắc Kinh, tớ định cùng họ đi du lịch tỉnh khác. Còn cậu?" },
+        { "s": "崔浩", "zh": "我想在附近玩儿一玩儿。", "vi": "Tớ muốn đi chơi quanh đây." },
+        { "s": "山田", "zh": "圣诞节以后我们就要考试了，我想在家学习。", "vi": "Sau Giáng sinh chúng ta sắp thi rồi, tớ muốn ở nhà học." },
+        { "s": "马丁", "zh": "放假也不休息啊？你学习也太认真了。", "vi": "Nghỉ lễ cũng không nghỉ ngơi à? Cậu học chăm quá rồi đấy." },
+        { "s": "崔浩", "zh": "要是不放假呢？", "vi": "Thế nếu không được nghỉ thì sao?" },
+        { "s": "马丁", "zh": "要是不放假，我就不能去旅游了。不放假就太没意思了。", "vi": "Nếu không được nghỉ thì tớ không đi du lịch được. Không nghỉ thì chán quá." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "春节", "py": "Chūn Jié", "pos": "danh từ", "vi": "Tết Nguyên đán (Tết Xuân)", "ex": "春节的时候我回家。", "ex_vi": "Dịp Tết Xuân tôi về nhà." },
+    { "zh": "中秋节", "py": "Zhōngqiū Jié", "pos": "danh từ", "vi": "Tết Trung thu", "ex": "中秋节大家吃月饼。", "ex_vi": "Tết Trung thu mọi người ăn bánh trung thu." },
+    { "zh": "端午节", "py": "Duānwǔ Jié", "pos": "danh từ", "vi": "Tết Đoan Ngọ", "ex": "端午节吃粽子。", "ex_vi": "Tết Đoan Ngọ ăn bánh ú." },
+    { "zh": "清明节", "py": "Qīngmíng Jié", "pos": "danh từ", "vi": "Tiết Thanh minh", "ex": "清明节很多人去看亲戚。", "ex_vi": "Tiết Thanh minh nhiều người đi thăm họ hàng." },
+    { "zh": "复活节", "py": "Fùhuó Jié", "pos": "danh từ", "vi": "lễ Phục sinh", "ex": "复活节在春天。", "ex_vi": "Lễ Phục sinh vào mùa xuân." },
+    { "zh": "狂欢节", "py": "Kuánghuān Jié", "pos": "danh từ", "vi": "lễ hội hóa trang (Carnival)", "ex": "狂欢节很热闹。", "ex_vi": "Lễ hội hóa trang rất náo nhiệt." }
+  ]
+}

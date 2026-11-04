@@ -1,0 +1,75 @@
+{
+  "number": 5, "title_zh": "你家有几口人", "title_en": "How Many People Are There in Your Family", "title_vi": "Gia đình bạn có mấy người?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "家", "py": "jiā", "pos": "danh từ", "vi": "nhà, gia đình", "ex": "我家有五口人。", "ex_vi": "Nhà tôi có năm người." },
+        { "zh": "有", "py": "yǒu", "pos": "động từ", "vi": "có", "ex": "我有一个哥哥。", "ex_vi": "Tôi có một anh trai." },
+        { "zh": "口", "py": "kǒu", "pos": "lượng từ", "vi": "(lượng từ chỉ số người trong gia đình)", "ex": "他家有三口人。", "ex_vi": "Nhà anh ấy có ba người." },
+        { "zh": "爸爸", "py": "bàba", "pos": "danh từ", "vi": "bố, ba, cha", "ex": "我爸爸是医生。", "ex_vi": "Bố tôi là bác sĩ." },
+        { "zh": "妈妈", "py": "māma", "pos": "danh từ", "vi": "mẹ, má", "ex": "我妈妈是老师。", "ex_vi": "Mẹ tôi là giáo viên." },
+        { "zh": "哥哥", "py": "gēge", "pos": "danh từ", "vi": "anh trai", "ex": "我哥哥是大学生。", "ex_vi": "Anh trai tôi là sinh viên đại học." },
+        { "zh": "和", "py": "hé", "pos": "liên từ", "vi": "và, với", "ex": "我和他都是学生。", "ex_vi": "Tôi và anh ấy đều là học sinh." },
+        { "zh": "职员", "py": "zhíyuán", "pos": "danh từ", "vi": "nhân viên văn phòng", "ex": "他是公司职员。", "ex_vi": "Anh ấy là nhân viên công ty." },
+        { "zh": "都", "py": "dōu", "pos": "phó từ", "vi": "đều, tất cả", "ex": "我们都是学生。", "ex_vi": "Chúng tôi đều là học sinh." },
+        { "zh": "大学生", "py": "dàxuésheng", "pos": "danh từ", "vi": "sinh viên đại học", "ex": "她是大学生。", "ex_vi": "Cô ấy là sinh viên đại học." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "我叫林娜，我是法国留学生。我家有四口人：爸爸、妈妈、哥哥和我。我爸爸是职员，妈妈是老师，哥哥和我都是大学生。", "vi": "Tôi tên Linna, tôi là du học sinh người Pháp. Nhà tôi có bốn người: bố, mẹ, anh trai và tôi. Bố tôi là nhân viên văn phòng, mẹ tôi là giáo viên, anh trai và tôi đều là sinh viên đại học." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "几", "py": "jǐ", "pos": "số từ", "vi": "mấy (hỏi số lượng dưới 10)", "ex": "你家有几口人？", "ex_vi": "Nhà bạn có mấy người?" },
+        { "zh": "做", "py": "zuò", "pos": "động từ", "vi": "làm", "ex": "你做什么工作？", "ex_vi": "Bạn làm nghề gì?" },
+        { "zh": "工作", "py": "gōngzuò", "pos": "danh từ", "vi": "công việc, việc làm (cũng là động từ: làm việc)", "ex": "我的工作很忙。", "ex_vi": "Công việc của tôi rất bận." },
+        { "zh": "律师", "py": "lǜshī", "pos": "danh từ", "vi": "luật sư", "ex": "他爸爸是律师。", "ex_vi": "Bố anh ấy là luật sư." },
+        { "zh": "医生", "py": "yīshēng", "pos": "danh từ", "vi": "bác sĩ", "ex": "她妈妈是医生。", "ex_vi": "Mẹ cô ấy là bác sĩ." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "林娜", "zh": "你家有几口人？", "vi": "Nhà bạn có mấy người?" },
+        { "s": "朱云", "zh": "我家有三口人。", "vi": "Nhà tôi có ba người." },
+        { "s": "林娜", "zh": "你家有什么人？", "vi": "Nhà bạn có những ai?" },
+        { "s": "朱云", "zh": "我家有爸爸、妈妈和我。", "vi": "Nhà tôi có bố, mẹ và tôi." },
+        { "s": "林娜", "zh": "你爸爸、妈妈做什么工作？", "vi": "Bố mẹ bạn làm nghề gì?" },
+        { "s": "朱云", "zh": "我爸爸是律师，妈妈是医生。", "vi": "Bố tôi là luật sư, mẹ tôi là bác sĩ." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "你们", "py": "nǐmen", "pos": "đại từ", "vi": "các bạn, các anh chị", "ex": "你们都是学生吗？", "ex_vi": "Các bạn đều là học sinh à?" },
+        { "zh": "班", "py": "bān", "pos": "danh từ", "vi": "lớp, nhóm", "ex": "我们班有二十个学生。", "ex_vi": "Lớp chúng tôi có hai mươi học sinh." },
+        { "zh": "多少", "py": "duōshao", "pos": "đại từ", "vi": "bao nhiêu (hỏi số lượng từ 10 trở lên)", "ex": "你们班有多少个学生？", "ex_vi": "Lớp các bạn có bao nhiêu học sinh?" },
+        { "zh": "个", "py": "gè", "pos": "lượng từ", "vi": "cái, con, người… (lượng từ thông dụng nhất)", "ex": "我有一个同学。", "ex_vi": "Tôi có một người bạn học." },
+        { "zh": "学生", "py": "xuésheng", "pos": "danh từ", "vi": "học sinh, sinh viên", "ex": "他是学生。", "ex_vi": "Anh ấy là học sinh." },
+        { "zh": "我们", "py": "wǒmen", "pos": "đại từ", "vi": "chúng tôi, chúng ta", "ex": "我们是同学。", "ex_vi": "Chúng tôi là bạn học." },
+        { "zh": "两", "py": "liǎng", "pos": "số từ", "vi": "hai (đứng trước lượng từ)", "ex": "我有两个哥哥。", "ex_vi": "Tôi có hai anh trai." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "朱云", "zh": "林娜，你们班有多少个学生？", "vi": "Linna, lớp các bạn có bao nhiêu học sinh?" },
+        { "s": "林娜", "zh": "十六个。", "vi": "Mười sáu người." },
+        { "s": "朱云", "zh": "你们班有几个法国人？", "vi": "Lớp các bạn có mấy người Pháp?" },
+        { "s": "林娜", "zh": "我们班有两个法国人。", "vi": "Lớp chúng tôi có hai người Pháp." },
+        { "s": "朱云", "zh": "你们班有韩国人吗？", "vi": "Lớp các bạn có người Hàn Quốc không?" },
+        { "s": "林娜", "zh": "有。", "vi": "Có." },
+        { "s": "朱云", "zh": "有几个韩国人？", "vi": "Có mấy người Hàn Quốc?" },
+        { "s": "林娜", "zh": "有四个韩国人。", "vi": "Có bốn người Hàn Quốc." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "姐姐", "py": "jiějie", "pos": "danh từ", "vi": "chị gái", "ex": "我有一个姐姐。", "ex_vi": "Tôi có một chị gái." },
+    { "zh": "妹妹", "py": "mèimei", "pos": "danh từ", "vi": "em gái", "ex": "我妹妹是学生。", "ex_vi": "Em gái tôi là học sinh." },
+    { "zh": "弟弟", "py": "dìdi", "pos": "danh từ", "vi": "em trai", "ex": "我弟弟学习英语。", "ex_vi": "Em trai tôi học tiếng Anh." },
+    { "zh": "工人", "py": "gōngrén", "pos": "danh từ", "vi": "công nhân", "ex": "他爸爸是工人。", "ex_vi": "Bố anh ấy là công nhân." },
+    { "zh": "农民", "py": "nóngmín", "pos": "danh từ", "vi": "nông dân", "ex": "他爷爷是农民。", "ex_vi": "Ông của anh ấy là nông dân." },
+    { "zh": "护士", "py": "hùshi", "pos": "danh từ", "vi": "y tá", "ex": "她妈妈是护士。", "ex_vi": "Mẹ cô ấy là y tá." },
+    { "zh": "警察", "py": "jǐngchá", "pos": "danh từ", "vi": "cảnh sát", "ex": "我哥哥是警察。", "ex_vi": "Anh trai tôi là cảnh sát." }
+  ]
+}

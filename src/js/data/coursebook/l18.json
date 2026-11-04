@@ -1,0 +1,87 @@
+{
+  "number": 18, "title_zh": "我上了四个小时的网", "title_en": "I've Been on the Internet for Four Hours", "title_vi": "Tôi đã lên mạng bốn tiếng đồng hồ",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "最少", "py": "zuì shǎo", "pos": "phó từ", "vi": "ít nhất", "ex": "我每天最少学习两个小时。", "ex_vi": "Mỗi ngày tôi học ít nhất hai tiếng." },
+        { "zh": "小时", "py": "xiǎoshí", "pos": "danh từ", "vi": "giờ, tiếng đồng hồ", "ex": "我睡了八个小时。", "ex_vi": "Tôi đã ngủ tám tiếng." },
+        { "zh": "网", "py": "wǎng", "pos": "danh từ", "vi": "mạng, Internet", "ex": "我晚上上网。", "ex_vi": "Buổi tối tôi lên mạng." },
+        { "zh": "不常", "py": "bù cháng", "pos": "phó từ", "vi": "không thường, ít khi", "ex": "我不常看电视。", "ex_vi": "Tôi ít khi xem ti vi." },
+        { "zh": "常", "py": "cháng", "pos": "phó từ", "vi": "thường, hay", "ex": "他常去图书馆。", "ex_vi": "Anh ấy hay đến thư viện." },
+        { "zh": "上", "py": "shang", "pos": "danh từ", "vi": "trên, ở (đặt sau danh từ chỉ vị trí)", "ex": "桌子上有一本书。", "ex_vi": "Trên bàn có một quyển sách." },
+        { "zh": "新闻", "py": "xīnwén", "pos": "danh từ", "vi": "tin tức", "ex": "我每天看新闻。", "ex_vi": "Mỗi ngày tôi xem tin tức." },
+        { "zh": "另外", "py": "lìngwài", "pos": "phó từ", "vi": "ngoài ra, thêm vào đó", "ex": "另外，我还想买一本词典。", "ex_vi": "Ngoài ra, tôi còn muốn mua một quyển từ điển." },
+        { "zh": "查", "py": "chá", "pos": "động từ", "vi": "kiểm tra, tra cứu", "ex": "我查一下词典。", "ex_vi": "Tôi tra từ điển một chút." },
+        { "zh": "邮件", "py": "yóujiàn", "pos": "danh từ", "vi": "thư, email", "ex": "我给老师发了一封邮件。", "ex_vi": "Tôi đã gửi cho thầy/cô một email." },
+        { "zh": "聊", "py": "liáo", "pos": "động từ", "vi": "trò chuyện, tán gẫu", "ex": "我们在网上聊天儿。", "ex_vi": "Chúng tôi trò chuyện trên mạng." },
+        { "zh": "长", "py": "cháng", "pos": "tính từ", "vi": "dài", "ex": "我们聊了很长时间。", "ex_vi": "Chúng tôi đã trò chuyện rất lâu." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "我现在每天最少上两个小时的网。我不常在网上看新闻，我喜欢在网上聊天儿。另外，我每天都要去查一下邮件。我跟父母、朋友都是在网上聊天儿，我们每次都聊很长时间，网上聊天儿真是太方便了。", "vi": "Bây giờ mỗi ngày tôi lên mạng ít nhất hai tiếng. Tôi ít xem tin tức trên mạng, tôi thích trò chuyện trên mạng. Ngoài ra, mỗi ngày tôi đều phải kiểm tra email một chút. Tôi trò chuyện với bố mẹ và bạn bè đều qua mạng, lần nào chúng tôi cũng nói chuyện rất lâu, trò chuyện trên mạng thật quá tiện." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "都", "py": "dōu", "pos": "phó từ", "vi": "đã … rồi (nhấn mạnh giờ giấc đã muộn)", "ex": "都十点了，快睡觉吧。", "ex_vi": "Mười giờ rồi, mau đi ngủ đi." },
+        { "zh": "一直", "py": "yìzhí", "pos": "phó từ", "vi": "luôn, suốt, liên tục", "ex": "他一直在看书。", "ex_vi": "Anh ấy cứ liên tục đọc sách." },
+        { "zh": "忘", "py": "wàng", "pos": "động từ", "vi": "quên", "ex": "我忘了他的名字。", "ex_vi": "Tôi quên tên của anh ấy." },
+        { "zh": "多长时间", "py": "duō cháng shíjiān", "pos": "cụm từ", "vi": "bao lâu, bao nhiêu thời gian", "ex": "你学了多长时间汉语？", "ex_vi": "Bạn đã học tiếng Trung bao lâu rồi?" },
+        { "zh": "多", "py": "duō", "pos": "phó từ", "vi": "bao nhiêu (dùng để hỏi mức độ)", "ex": "你多大？", "ex_vi": "Bạn bao nhiêu tuổi?" },
+        { "zh": "邮箱", "py": "yóuxiāng", "pos": "danh từ", "vi": "hộp thư (email)", "ex": "我每天看邮箱。", "ex_vi": "Mỗi ngày tôi kiểm tra hộp thư." },
+        { "zh": "发", "py": "fā", "pos": "động từ", "vi": "gửi, phát", "ex": "我给你发邮件。", "ex_vi": "Tôi gửi email cho bạn." },
+        { "zh": "网站", "py": "wǎngzhàn", "pos": "danh từ", "vi": "trang web", "ex": "这个网站很好。", "ex_vi": "Trang web này rất hay." },
+        { "zh": "一会儿", "py": "yíhuìr", "pos": "danh từ", "vi": "một lát, một chốc", "ex": "你等一会儿。", "ex_vi": "Bạn đợi một lát." },
+        { "zh": "给", "py": "gěi", "pos": "giới từ", "vi": "cho, gửi cho (đưa người nhận hành động)", "ex": "我给朋友打电话。", "ex_vi": "Tôi gọi điện cho bạn." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "林娜", "zh": "都九点了，你怎么才吃晚饭？", "vi": "Chín giờ rồi, sao bạn mới ăn tối?" },
+        { "s": "阿明", "zh": "我一直上网，忘了吃饭。", "vi": "Tôi cứ lên mạng mãi, quên ăn cơm." },
+        { "s": "林娜", "zh": "你上了多长时间的网？", "vi": "Bạn đã lên mạng bao lâu rồi?" },
+        { "s": "阿明", "zh": "上了四个小时。看看邮箱，发发邮件，聊聊天儿，就九点了。", "vi": "Bốn tiếng. Xem hộp thư, gửi email, trò chuyện một lúc là đã chín giờ rồi." },
+        { "s": "林娜", "zh": "你是不是也上网学汉语？", "vi": "Có phải bạn cũng lên mạng học tiếng Trung không?" },
+        { "s": "阿明", "zh": "没有。你能告诉我几个比较好的网站吗？", "vi": "Không. Bạn có thể cho tôi biết vài trang web khá tốt không?" },
+        { "s": "林娜", "zh": "可以，一会儿我给你发个电子邮件。", "vi": "Được, lát nữa tôi gửi cho bạn một email." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "急急忙忙", "py": "jíjímángmáng", "pos": "tính từ", "vi": "vội vội vàng vàng", "ex": "他急急忙忙去学校。", "ex_vi": "Anh ấy vội vàng đến trường." },
+        { "zh": "急忙", "py": "jímáng", "pos": "tính từ", "vi": "vội vàng, gấp gáp", "ex": "他急忙回家了。", "ex_vi": "Anh ấy vội vàng về nhà." },
+        { "zh": "交", "py": "jiāo", "pos": "động từ", "vi": "nộp, đóng (tiền)", "ex": "我去交房租。", "ex_vi": "Tôi đi đóng tiền thuê nhà." },
+        { "zh": "电话", "py": "diànhuà", "pos": "danh từ", "vi": "điện thoại, cuộc gọi", "ex": "他给我打电话。", "ex_vi": "Anh ấy gọi điện cho tôi." },
+        { "zh": "费", "py": "fèi", "pos": "danh từ", "vi": "phí, chi phí", "ex": "电话费很贵。", "ex_vi": "Cước điện thoại rất đắt." },
+        { "zh": "排队", "py": "pái duì", "pos": "động từ", "vi": "xếp hàng", "ex": "大家都在排队。", "ex_vi": "Mọi người đều đang xếp hàng." },
+        { "zh": "为什么", "py": "wèi shénme", "pos": "đại từ", "vi": "tại sao, vì sao", "ex": "你为什么不去？", "ex_vi": "Tại sao bạn không đi?" },
+        { "zh": "开账户", "py": "kāi zhànghù", "pos": "động từ", "vi": "mở tài khoản", "ex": "我想在银行开账户。", "ex_vi": "Tôi muốn mở tài khoản ở ngân hàng." },
+        { "zh": "账户", "py": "zhànghù", "pos": "danh từ", "vi": "tài khoản", "ex": "他有一个银行账户。", "ex_vi": "Anh ấy có một tài khoản ngân hàng." },
+        { "zh": "卡", "py": "kǎ", "pos": "danh từ", "vi": "thẻ", "ex": "我有一张银行卡。", "ex_vi": "Tôi có một chiếc thẻ ngân hàng." },
+        { "zh": "只", "py": "zhǐ", "pos": "phó từ", "vi": "chỉ, chỉ có", "ex": "我只会说汉语。", "ex_vi": "Tôi chỉ biết nói tiếng Trung." },
+        { "zh": "分钟", "py": "fēnzhōng", "pos": "danh từ", "vi": "phút", "ex": "走路需要五分钟。", "ex_vi": "Đi bộ cần năm phút." },
+        { "zh": "得", "py": "děi", "pos": "trợ động từ", "vi": "phải, cần phải", "ex": "我得走了。", "ex_vi": "Tôi phải đi rồi." },
+        { "zh": "试", "py": "shì", "pos": "động từ", "vi": "thử", "ex": "我想试一下。", "ex_vi": "Tôi muốn thử một chút." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "崔浩", "zh": "山田，你急急忙忙去哪儿啊？", "vi": "Yamada, bạn vội vàng đi đâu thế?" },
+        { "s": "山田", "zh": "我要去银行交电话费。", "vi": "Tôi sắp đến ngân hàng đóng cước điện thoại." },
+        { "s": "崔浩", "zh": "去银行要排很长时间的队，你为什么不在网上交费啊？", "vi": "Đến ngân hàng phải xếp hàng rất lâu, sao bạn không đóng phí trên mạng?" },
+        { "s": "山田", "zh": "网上怎么交费啊？", "vi": "Đóng phí trên mạng như thế nào?" },
+        { "s": "崔浩", "zh": "你开一个网上银行账户就可以了。", "vi": "Bạn mở một tài khoản ngân hàng trực tuyến là được." },
+        { "s": "山田", "zh": "我有中国银行的卡，可以开网上银行账户吗？", "vi": "Tôi có thẻ của Ngân hàng Trung Quốc, có thể mở tài khoản ngân hàng trực tuyến không?" },
+        { "s": "崔浩", "zh": "中国银行，当然没问题了，网上交费只需要几分钟。", "vi": "Ngân hàng Trung Quốc thì đương nhiên không vấn đề gì, đóng phí trên mạng chỉ cần vài phút." },
+        { "s": "山田", "zh": "是吗？这么好，我得试试。", "vi": "Thật à? Tốt vậy, tôi phải thử xem." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "锻炼", "py": "duànliàn", "pos": "động từ", "vi": "rèn luyện, tập thể dục", "ex": "我每天早上锻炼身体。", "ex_vi": "Mỗi sáng tôi tập thể dục." },
+    { "zh": "坐飞机", "py": "zuò fēijī", "pos": "động từ", "vi": "đi máy bay", "ex": "我明天坐飞机去北京。", "ex_vi": "Ngày mai tôi đi máy bay đến Bắc Kinh." },
+    { "zh": "坐地铁", "py": "zuò dìtiě", "pos": "động từ", "vi": "đi tàu điện ngầm", "ex": "我每天坐地铁上班。", "ex_vi": "Mỗi ngày tôi đi tàu điện ngầm đi làm." },
+    { "zh": "坐公共汽车", "py": "zuò gōnggòng qìchē", "pos": "động từ", "vi": "đi xe buýt", "ex": "我坐公共汽车去学校。", "ex_vi": "Tôi đi xe buýt đến trường." }
+  ]
+}

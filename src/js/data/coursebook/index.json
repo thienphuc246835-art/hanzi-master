@@ -1,0 +1,275 @@
+{
+  "book": "发展汉语 · 初级综合 (I)",
+  "lessons": [
+    {
+      "number": 1,
+      "file": "l01.json",
+      "title_zh": "你好",
+      "title_vi": "Xin chào",
+      "words": 8,
+      "extra": 2,
+      "texts": 3
+    },
+    {
+      "number": 2,
+      "file": "l02.json",
+      "title_zh": "你是哪国人",
+      "title_vi": "Bạn là người nước nào?",
+      "words": 11,
+      "extra": 14,
+      "texts": 3
+    },
+    {
+      "number": 3,
+      "file": "l03.json",
+      "title_zh": "你叫什么名字",
+      "title_vi": "Bạn tên là gì?",
+      "words": 16,
+      "extra": 10,
+      "texts": 3
+    },
+    {
+      "number": 4,
+      "file": "l04.json",
+      "title_zh": "你学习法语吗",
+      "title_vi": "Bạn có học tiếng Pháp không?",
+      "words": 12,
+      "extra": 5,
+      "texts": 3
+    },
+    {
+      "number": 5,
+      "file": "l05.json",
+      "title_zh": "你家有几口人",
+      "title_vi": "Gia đình bạn có mấy người?",
+      "words": 22,
+      "extra": 7,
+      "texts": 3
+    },
+    {
+      "number": 6,
+      "file": "l06.json",
+      "title_zh": "香蕉多少钱一斤",
+      "title_vi": "Chuối bao nhiêu tiền một cân?",
+      "words": 27,
+      "extra": 16,
+      "texts": 3
+    },
+    {
+      "number": 7,
+      "file": "l07.json",
+      "title_zh": "中国银行在哪儿",
+      "title_vi": "Ngân hàng Trung Quốc ở đâu?",
+      "words": 34,
+      "extra": 8,
+      "texts": 3
+    },
+    {
+      "number": 8,
+      "file": "l08.json",
+      "title_zh": "今天几号",
+      "title_vi": "Hôm nay là ngày mấy?",
+      "words": 34,
+      "extra": 7,
+      "texts": 3
+    },
+    {
+      "number": 9,
+      "file": "l09.json",
+      "title_zh": "你今天有什么安排",
+      "title_vi": "Hôm nay bạn có kế hoạch gì?",
+      "words": 33,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 10,
+      "file": "l10.json",
+      "title_zh": "这个星期天你忙不忙",
+      "title_vi": "Chủ nhật này bạn có bận không?",
+      "words": 30,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 11,
+      "file": "l11.json",
+      "title_zh": "我在学校食堂吃饭",
+      "title_vi": "Tôi ăn cơm ở căng tin trường",
+      "words": 37,
+      "extra": 4,
+      "texts": 3
+    },
+    {
+      "number": 12,
+      "file": "l12.json",
+      "title_zh": "你要茶还是咖啡",
+      "title_vi": "Bạn muốn trà hay cà phê?",
+      "words": 31,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 13,
+      "file": "l13.json",
+      "title_zh": "我已经搬家了",
+      "title_vi": "Tôi đã chuyển nhà rồi",
+      "words": 30,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 14,
+      "file": "l14.json",
+      "title_zh": "我买了一件毛衣",
+      "title_vi": "Tôi đã mua một cái áo len",
+      "words": 33,
+      "extra": 2,
+      "texts": 3
+    },
+    {
+      "number": 15,
+      "file": "l15.json",
+      "title_zh": "大学生可以打工吗",
+      "title_vi": "Sinh viên có thể đi làm thêm không?",
+      "words": 28,
+      "extra": 2,
+      "texts": 3
+    },
+    {
+      "number": 16,
+      "file": "l16.json",
+      "title_zh": "我想送他一件礼物",
+      "title_vi": "Tôi muốn tặng anh ấy một món quà",
+      "words": 29,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 17,
+      "file": "l17.json",
+      "title_zh": "我口语和听力都很好",
+      "title_vi": "Khẩu ngữ và nghe của tôi đều rất tốt",
+      "words": 30,
+      "extra": 10,
+      "texts": 3
+    },
+    {
+      "number": 18,
+      "file": "l18.json",
+      "title_zh": "我上了四个小时的网",
+      "title_vi": "Tôi đã lên mạng bốn tiếng đồng hồ",
+      "words": 36,
+      "extra": 4,
+      "texts": 3
+    },
+    {
+      "number": 19,
+      "file": "l19.json",
+      "title_zh": "暖气还没有修好",
+      "title_vi": "Lò sưởi vẫn chưa sửa xong",
+      "words": 31,
+      "extra": 5,
+      "texts": 3
+    },
+    {
+      "number": 20,
+      "file": "l20.json",
+      "title_zh": "快餐可以送到家里",
+      "title_vi": "Đồ ăn nhanh có thể giao tận nhà",
+      "words": 33,
+      "extra": 3,
+      "texts": 3
+    },
+    {
+      "number": 21,
+      "file": "l21.json",
+      "title_zh": "我把袋子放在桌子上了",
+      "title_vi": "Tôi để cái túi lên bàn rồi",
+      "words": 31,
+      "extra": 3,
+      "texts": 3
+    },
+    {
+      "number": 22,
+      "file": "l22.json",
+      "title_zh": "我的自行车是红色的",
+      "title_vi": "Xe đạp của tôi màu đỏ",
+      "words": 35,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 23,
+      "file": "l23.json",
+      "title_zh": "今年冬天变冷了",
+      "title_vi": "Mùa đông năm nay lạnh hơn rồi",
+      "words": 30,
+      "extra": 8,
+      "texts": 3
+    },
+    {
+      "number": 24,
+      "file": "l24.json",
+      "title_zh": "妈妈给我寄来了礼物",
+      "title_vi": "Mẹ đã gửi quà cho tôi",
+      "words": 28,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 25,
+      "file": "l25.json",
+      "title_zh": "我听不懂他们说的话",
+      "title_vi": "Tôi nghe không hiểu họ nói gì",
+      "words": 29,
+      "extra": 4,
+      "texts": 3
+    },
+    {
+      "number": 26,
+      "file": "l26.json",
+      "title_zh": "圣诞节快到了",
+      "title_vi": "Giáng sinh sắp đến rồi",
+      "words": 29,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 27,
+      "file": "l27.json",
+      "title_zh": "我正在看电视呢",
+      "title_vi": "Tôi đang xem ti vi đây",
+      "words": 26,
+      "extra": 3,
+      "texts": 3
+    },
+    {
+      "number": 28,
+      "file": "l28.json",
+      "title_zh": "长城有八千八百五十多公里",
+      "title_vi": "Vạn Lý Trường Thành dài hơn 8.850 km",
+      "words": 28,
+      "extra": 6,
+      "texts": 3
+    },
+    {
+      "number": 29,
+      "file": "l29.json",
+      "title_zh": "晚会开得非常成功",
+      "title_vi": "Buổi tiệc diễn ra rất thành công",
+      "words": 31,
+      "extra": 4,
+      "texts": 3
+    },
+    {
+      "number": 30,
+      "file": "l30.json",
+      "title_zh": "我当过英语老师",
+      "title_vi": "Tôi từng làm giáo viên tiếng Anh",
+      "words": 33,
+      "extra": 6,
+      "texts": 1
+    }
+  ]
+}

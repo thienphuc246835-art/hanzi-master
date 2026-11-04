@@ -1,0 +1,102 @@
+{
+  "number": 24, "title_zh": "妈妈给我寄来了礼物", "title_en": "My Mom Has Sent Me a Gift", "title_vi": "Mẹ đã gửi quà cho tôi",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "亲爱", "py": "qīn'ài", "pos": "tính từ", "vi": "thân mến, thân yêu", "ex": "亲爱的朋友们，大家好！", "ex_vi": "Các bạn thân mến, xin chào mọi người!" },
+        { "zh": "为了", "py": "wèile", "pos": "giới từ", "vi": "để, vì (chỉ mục đích)", "ex": "为了学好汉语，我来到中国。", "ex_vi": "Để học giỏi tiếng Trung, tôi đã đến Trung Quốc." },
+        { "zh": "庆祝", "py": "qìngzhù", "pos": "động từ", "vi": "chúc mừng, ăn mừng", "ex": "我们一起庆祝他的生日。", "ex_vi": "Chúng ta cùng mừng sinh nhật anh ấy." },
+        { "zh": "大使馆", "py": "dàshǐguǎn", "pos": "danh từ", "vi": "đại sứ quán", "ex": "美国大使馆在北京。", "ex_vi": "Đại sứ quán Mỹ ở Bắc Kinh." },
+        { "zh": "层", "py": "céng", "pos": "lượng từ", "vi": "tầng, lầu", "ex": "我住在三层。", "ex_vi": "Tôi sống ở tầng ba." },
+        { "zh": "举行", "py": "jǔxíng", "pos": "động từ", "vi": "tổ chức, cử hành", "ex": "晚会在大厦举行。", "ex_vi": "Buổi tiệc được tổ chức ở tòa nhà lớn." },
+        { "zh": "晚会", "py": "wǎnhuì", "pos": "danh từ", "vi": "tiệc buổi tối, dạ hội", "ex": "今天晚上有一个晚会。", "ex_vi": "Tối nay có một buổi dạ hội." },
+        { "zh": "地址", "py": "dìzhǐ", "pos": "danh từ", "vi": "địa chỉ", "ex": "你的地址是什么？", "ex_vi": "Địa chỉ của bạn là gì?" },
+        { "zh": "联系", "py": "liánxì", "pos": "động từ", "vi": "liên hệ, liên lạc", "ex": "有事请联系我。", "ex_vi": "Có việc xin hãy liên hệ tôi." },
+        { "zh": "如果", "py": "rúguǒ", "pos": "liên từ", "vi": "nếu, nếu như", "ex": "如果你有时间，就来吧。", "ex_vi": "Nếu bạn có thời gian thì đến nhé." },
+        { "zh": "活动", "py": "huódòng", "pos": "danh từ", "vi": "hoạt động, sự kiện", "ex": "明天有一个活动。", "ex_vi": "Ngày mai có một hoạt động." },
+        { "zh": "就", "py": "jiù", "pos": "phó từ", "vi": "thì (chỉ kết quả tất yếu trong điều kiện)", "ex": "如果下雨，我就不去。", "ex_vi": "Nếu mưa thì tôi không đi." },
+        { "zh": "短信", "py": "duǎnxìn", "pos": "danh từ", "vi": "tin nhắn SMS", "ex": "我给你发了一条短信。", "ex_vi": "Tôi đã nhắn cho bạn một tin." }
+      ],
+      "names": [
+        { "zh": "平安大街", "py": "Píng'ān Dàjiē", "vi": "phố Bình An" },
+        { "zh": "感恩节", "py": "Gǎn'ēn Jié", "vi": "lễ Tạ ơn (Thanksgiving)" }
+      ],
+      "lines": [
+        { "zh": "（马丁给同学们发邮件，请大家参加他们的晚会。）", "vi": "(Martin gửi email cho các bạn cùng lớp, mời mọi người dự buổi tiệc của họ.)" },
+        { "zh": "亲爱的朋友：", "vi": "Các bạn thân mến," },
+        { "zh": "下个星期四是美国的感恩节。为了庆祝这个重要的节日，美国大使馆在国际大厦四层举行晚会。我们很希望您能来参加我们的晚会，也非常欢迎您带朋友一起来。", "vi": "Thứ năm tuần sau là lễ Tạ ơn của Mỹ. Để chúc mừng ngày lễ quan trọng này, Đại sứ quán Mỹ tổ chức dạ hội ở tầng bốn Tòa nhà Quốc tế. Chúng tôi rất mong bạn đến dự, cũng rất hoan nghênh bạn dẫn theo bạn bè cùng đến." },
+        { "zh": "时间：11月25日 晚上 18：00到 23：00", "vi": "Thời gian: 25 tháng 11, từ 18:00 đến 23:00 tối" },
+        { "zh": "联系人：马丁", "vi": "Người liên hệ: Martin" },
+        { "zh": "地址：平安大街25号", "vi": "Địa chỉ: số 25 phố Bình An" },
+        { "zh": "电话：82645980", "vi": "Điện thoại: 82645980" },
+        { "zh": "手机：15266778821", "vi": "Di động: 15266778821" },
+        { "zh": "邮箱：mading1234@hotmail.com", "vi": "Email: mading1234@hotmail.com" },
+        { "zh": "如果您愿意参加这个活动，就给我们发个短信、打个电话或者发个电子邮件。", "vi": "Nếu bạn muốn tham gia hoạt động này, xin hãy nhắn tin, gọi điện hoặc gửi email cho chúng tôi." },
+        { "zh": "马丁　11月18日", "vi": "Martin, ngày 18 tháng 11" }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "喂", "py": "wèi", "pos": "thán từ", "vi": "a lô, này", "ex": "喂，你好！", "ex_vi": "A lô, xin chào!" },
+        { "zh": "全", "py": "quán", "pos": "phó từ", "vi": "toàn bộ, tất cả", "ex": "全班同学都来了。", "ex_vi": "Cả lớp đều đến rồi." },
+        { "zh": "让", "py": "ràng", "pos": "động từ", "vi": "để, cho phép, bảo", "ex": "老师让我们回家。", "ex_vi": "Thầy/cô bảo chúng tôi về nhà." },
+        { "zh": "过", "py": "guò", "pos": "động từ", "vi": "qua, đi qua, sang", "ex": "你过来一下。", "ex_vi": "Bạn sang đây một chút." }
+      ],
+      "names": [
+        { "zh": "国际大厦", "py": "Guójì Dàshà", "vi": "Tòa nhà Quốc tế" },
+        { "zh": "友谊宾馆", "py": "Yǒuyì Bīnguǎn", "vi": "Khách sạn Hữu Nghị" }
+      ],
+      "lines": [
+        { "s": "崔浩", "zh": "喂，是马丁吗？我是崔浩。", "vi": "A lô, Martin phải không? Tôi là Thôi Hạo." },
+        { "s": "马丁", "zh": "是你呀，你看到我的邮件了吗？你知道我们班有几个人去吗？", "vi": "Là cậu à, cậu đã xem email của tớ chưa? Cậu biết lớp mình có mấy người đi không?" },
+        { "s": "崔浩", "zh": "我们班所有的同学都去。", "vi": "Tất cả bạn học trong lớp mình đều đi." },
+        { "s": "马丁", "zh": "大家全去？", "vi": "Mọi người đều đi à?" },
+        { "s": "崔浩", "zh": "对呀。", "vi": "Đúng vậy." },
+        { "s": "马丁", "zh": "太好了！", "vi": "Tuyệt quá!" },
+        { "s": "崔浩", "zh": "对了，你能告诉我国际大厦在哪儿吗？", "vi": "À đúng rồi, cậu có thể cho tớ biết Tòa nhà Quốc tế ở đâu không?" },
+        { "s": "马丁", "zh": "友谊宾馆东边就是国际大厦。你知道友谊宾馆吧？", "vi": "Phía đông khách sạn Hữu Nghị chính là Tòa nhà Quốc tế. Cậu biết khách sạn Hữu Nghị chứ?" },
+        { "s": "崔浩", "zh": "不知道。", "vi": "Không biết." },
+        { "s": "马丁", "zh": "这样吧，下午四点你让大家到我宿舍来，跟我一起过去，怎么样？", "vi": "Thế này nhé, bốn giờ chiều cậu bảo mọi người đến ký túc xá của tớ, cùng tớ đi qua đó, thế nào?" },
+        { "s": "崔浩", "zh": "好啊！", "vi": "Được chứ!" },
+        { "s": "马丁", "zh": "晚上用不用我送你们回来呀？", "vi": "Buổi tối có cần tớ đưa các cậu về không?" },
+        { "s": "崔浩", "zh": "不用。", "vi": "Không cần." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "寄", "py": "jì", "pos": "động từ", "vi": "gửi (qua bưu điện)", "ex": "我去邮局寄信。", "ex_vi": "Tôi ra bưu điện gửi thư." },
+        { "zh": "邮局", "py": "yóujú", "pos": "danh từ", "vi": "bưu điện", "ex": "邮局在银行旁边。", "ex_vi": "Bưu điện ở cạnh ngân hàng." },
+        { "zh": "深", "py": "shēn", "pos": "tính từ", "vi": "sâu, đậm (màu)", "ex": "这件衣服是深蓝色的。", "ex_vi": "Cái áo này màu xanh đậm." },
+        { "zh": "灰色", "py": "huīsè", "pos": "danh từ", "vi": "màu xám", "ex": "他穿一件灰色的毛衣。", "ex_vi": "Anh ấy mặc một cái áo len màu xám." },
+        { "zh": "后边", "py": "hòubian", "pos": "danh từ", "vi": "phía sau", "ex": "邮局在大楼后边。", "ex_vi": "Bưu điện ở phía sau tòa nhà." },
+        { "zh": "书店", "py": "shūdiàn", "pos": "danh từ", "vi": "hiệu sách", "ex": "我去书店买书。", "ex_vi": "Tôi đi hiệu sách mua sách." },
+        { "zh": "浅", "py": "qiǎn", "pos": "tính từ", "vi": "nhạt (màu)", "ex": "这件衣服是浅绿色的。", "ex_vi": "Cái áo này màu xanh lá nhạt." },
+        { "zh": "绿色", "py": "lǜsè", "pos": "danh từ", "vi": "màu xanh lá", "ex": "树叶是绿色的。", "ex_vi": "Lá cây màu xanh lá." },
+        { "zh": "上边", "py": "shàngbian", "pos": "danh từ", "vi": "phía trên", "ex": "书在桌子上边。", "ex_vi": "Sách ở trên bàn." },
+        { "zh": "护照", "py": "hùzhào", "pos": "danh từ", "vi": "hộ chiếu", "ex": "别忘了带护照。", "ex_vi": "Đừng quên mang hộ chiếu." },
+        { "zh": "忘不了", "py": "wàng bu liǎo", "pos": "cụm từ", "vi": "không quên được, sẽ không quên", "ex": "这件事我忘不了。", "ex_vi": "Chuyện này tôi sẽ không quên được." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "马丁", "zh": "我妈妈给我寄来了感恩节礼物，可是我还不知道邮局在哪儿。你知道吗？", "vi": "Mẹ tớ gửi cho tớ quà lễ Tạ ơn, nhưng tớ vẫn chưa biết bưu điện ở đâu. Cậu biết không?" },
+        { "s": "崔浩", "zh": "知道。你看见前边那个深灰色的大楼了吗？", "vi": "Biết. Cậu thấy tòa nhà màu xám đậm phía trước kia không?" },
+        { "s": "马丁", "zh": "看见了。", "vi": "Thấy rồi." },
+        { "s": "崔浩", "zh": "大楼后边是一个书店和一个超市，邮局就在超市东边，那个楼是浅绿色的，上边还有英文，你一看就知道了。", "vi": "Phía sau tòa nhà là một hiệu sách và một siêu thị, bưu điện ở ngay phía đông siêu thị, tòa đó màu xanh lá nhạt, phía trên còn có chữ tiếng Anh, cậu nhìn là biết ngay." },
+        { "s": "马丁", "zh": "谢谢了！", "vi": "Cảm ơn nhé!" },
+        { "s": "崔浩", "zh": "不客气。你快去吧，别忘了把护照带去。", "vi": "Đừng khách sáo. Cậu mau đi đi, đừng quên mang hộ chiếu theo." },
+        { "s": "马丁", "zh": "忘不了。", "vi": "Không quên được đâu." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "买来/去", "py": "mǎilai / qu", "pos": "động từ", "vi": "mua về / mua đi", "ex": "他买来了一本书。", "ex_vi": "Anh ấy đã mua một quyển sách về." },
+    { "zh": "走来/去", "py": "zǒulai / qu", "pos": "động từ", "vi": "đi tới / đi qua", "ex": "他向我走来了。", "ex_vi": "Anh ấy đi về phía tôi." },
+    { "zh": "拿来/去", "py": "nálai / qu", "pos": "động từ", "vi": "mang đến / mang đi", "ex": "请把词典拿来。", "ex_vi": "Xin hãy mang từ điển lại đây." },
+    { "zh": "跑来/去", "py": "pǎolai / qu", "pos": "động từ", "vi": "chạy tới / chạy đi", "ex": "孩子跑来了。", "ex_vi": "Đứa trẻ chạy tới." },
+    { "zh": "跳来/去", "py": "tiàolai / qu", "pos": "động từ", "vi": "nhảy tới / nhảy đi", "ex": "他跳过去了。", "ex_vi": "Anh ấy nhảy qua rồi." },
+    { "zh": "找来/去", "py": "zhǎolai / qu", "pos": "động từ", "vi": "tìm đến / tìm đi", "ex": "他找来了一本词典。", "ex_vi": "Anh ấy tìm được một quyển từ điển." }
+  ]
+}

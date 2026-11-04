@@ -1,0 +1,79 @@
+{
+  "number": 14, "title_zh": "我买了一件毛衣", "title_en": "I Bought a Sweater", "title_vi": "Tôi đã mua một cái áo len",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "今年", "py": "jīnnián", "pos": "danh từ", "vi": "năm nay", "ex": "今年我二十岁。", "ex_vi": "Năm nay tôi hai mươi tuổi." },
+        { "zh": "冬天", "py": "dōngtiān", "pos": "danh từ", "vi": "mùa đông", "ex": "冬天很冷。", "ex_vi": "Mùa đông rất lạnh." },
+        { "zh": "特别", "py": "tèbié", "pos": "phó từ", "vi": "đặc biệt, rất", "ex": "今天特别热。", "ex_vi": "Hôm nay đặc biệt nóng." },
+        { "zh": "冷", "py": "lěng", "pos": "tính từ", "vi": "lạnh", "ex": "北京的冬天很冷。", "ex_vi": "Mùa đông ở Bắc Kinh rất lạnh." },
+        { "zh": "感冒", "py": "gǎnmào", "pos": "động từ", "vi": "bị cảm, cảm cúm", "ex": "他感冒了。", "ex_vi": "Anh ấy bị cảm rồi." },
+        { "zh": "穿", "py": "chuān", "pos": "động từ", "vi": "mặc, mang, đi (quần áo, giày)", "ex": "我穿一件毛衣。", "ex_vi": "Tôi mặc một cái áo len." },
+        { "zh": "厚", "py": "hòu", "pos": "tính từ", "vi": "dày", "ex": "这件衣服很厚。", "ex_vi": "Cái áo này rất dày." },
+        { "zh": "衣服", "py": "yīfu", "pos": "danh từ", "vi": "quần áo", "ex": "你的衣服很漂亮。", "ex_vi": "Quần áo của bạn rất đẹp." },
+        { "zh": "趟", "py": "tàng", "pos": "lượng từ", "vi": "chuyến, lượt (đi và về)", "ex": "我去了一趟北京。", "ex_vi": "Tôi đã đi một chuyến Bắc Kinh." },
+        { "zh": "商场", "py": "shāngchǎng", "pos": "danh từ", "vi": "trung tâm thương mại", "ex": "我们去商场买东西。", "ex_vi": "Chúng ta đến trung tâm thương mại mua đồ." },
+        { "zh": "里", "py": "li", "pos": "danh từ", "vi": "trong, bên trong", "ex": "商场里人很多。", "ex_vi": "Trong trung tâm thương mại có rất nhiều người." },
+        { "zh": "真", "py": "zhēn", "pos": "phó từ", "vi": "thật, thật là", "ex": "这儿的风景真漂亮。", "ex_vi": "Phong cảnh ở đây thật đẹp." },
+        { "zh": "件", "py": "jiàn", "pos": "lượng từ", "vi": "cái, chiếc (cho quần áo, sự việc)", "ex": "我买了一件衣服。", "ex_vi": "Tôi đã mua một cái áo." },
+        { "zh": "毛衣", "py": "máoyī", "pos": "danh từ", "vi": "áo len", "ex": "这件毛衣很贵。", "ex_vi": "Cái áo len này rất đắt." },
+        { "zh": "羽绒服", "py": "yǔróngfú", "pos": "danh từ", "vi": "áo lông vũ, áo phao", "ex": "冬天我穿羽绒服。", "ex_vi": "Mùa đông tôi mặc áo phao." }
+      ],
+      "names": [
+        { "zh": "北京", "py": "Běijīng", "vi": "Bắc Kinh" }
+      ],
+      "lines": [
+        { "zh": "今年冬天北京特别冷，很多同学都感冒了，我也感冒了。我们泰国冬天不太冷，不用穿很厚的衣服，可是在北京不行。昨天我去了一趟商场。商场里，冬天的衣服真多。我买了一件毛衣，还买了一件羽绒服。", "vi": "Mùa đông năm nay Bắc Kinh đặc biệt lạnh, rất nhiều bạn học bị cảm, tôi cũng bị cảm. Mùa đông ở Thái Lan của chúng tôi không lạnh lắm, không cần mặc quần áo dày, nhưng ở Bắc Kinh thì không được. Hôm qua tôi đã đến trung tâm thương mại một chuyến. Trong trung tâm thương mại, quần áo mùa đông thật nhiều. Tôi mua một cái áo len, còn mua thêm một cái áo phao." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "医院", "py": "yīyuàn", "pos": "danh từ", "vi": "bệnh viện", "ex": "他在医院工作。", "ex_vi": "Anh ấy làm việc ở bệnh viện." },
+        { "zh": "看病", "py": "kàn bìng", "pos": "động từ", "vi": "đi khám bệnh, khám bệnh", "ex": "我下午去医院看病。", "ex_vi": "Buổi chiều tôi đến bệnh viện khám bệnh." },
+        { "zh": "就", "py": "jiù", "pos": "phó từ", "vi": "ngay, liền (…là … ngay)", "ex": "我下课就去吃饭。", "ex_vi": "Tan học là tôi đi ăn cơm ngay." },
+        { "zh": "药", "py": "yào", "pos": "danh từ", "vi": "thuốc", "ex": "你吃药了吗？", "ex_vi": "Bạn uống thuốc chưa?" },
+        { "zh": "新", "py": "xīn", "pos": "tính từ", "vi": "mới", "ex": "我有一件新毛衣。", "ex_vi": "Tôi có một cái áo len mới." },
+        { "zh": "好", "py": "hǎo", "pos": "tính từ", "vi": "khỏi, lành (bệnh)", "ex": "他的感冒好了。", "ex_vi": "Bệnh cảm của anh ấy khỏi rồi." },
+        { "zh": "这么", "py": "zhème", "pos": "đại từ", "vi": "như thế này, đến vậy", "ex": "你怎么这么忙？", "ex_vi": "Sao bạn bận đến vậy?" },
+        { "zh": "快", "py": "kuài", "pos": "tính từ", "vi": "nhanh", "ex": "他跑得很快。", "ex_vi": "Anh ấy chạy rất nhanh." },
+        { "zh": "呀", "py": "ya", "pos": "thán từ", "vi": "ơ, à (cuối câu, thể hiện ngạc nhiên)", "ex": "这么快呀！", "ex_vi": "Nhanh vậy à!" }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "阿明", "zh": "你去医院看病了吗？", "vi": "Bạn đi bệnh viện khám bệnh chưa?" },
+        { "s": "崔浩", "zh": "还没有，我想一下课就去。你怎么样？", "vi": "Chưa, tôi định tan học là đi ngay. Còn bạn thế nào?" },
+        { "s": "阿明", "zh": "我吃了很多药，又穿了一件新羽绒服，感冒昨天就好了。", "vi": "Tôi đã uống nhiều thuốc, lại mặc thêm một cái áo phao mới, bệnh cảm hôm qua đã khỏi rồi." },
+        { "s": "崔浩", "zh": "这么快呀！", "vi": "Nhanh vậy à!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "水果", "py": "shuǐguǒ", "pos": "danh từ", "vi": "trái cây, hoa quả", "ex": "我喜欢吃水果。", "ex_vi": "Tôi thích ăn trái cây." },
+        { "zh": "生病", "py": "shēng bìng", "pos": "động từ", "vi": "bị bệnh, ốm", "ex": "她生病了，在家休息。", "ex_vi": "Cô ấy bị ốm, đang nghỉ ở nhà." },
+        { "zh": "天气", "py": "tiānqì", "pos": "danh từ", "vi": "thời tiết", "ex": "今天天气很好。", "ex_vi": "Hôm nay thời tiết rất đẹp." },
+        { "zh": "还", "py": "hái", "pos": "phó từ", "vi": "vẫn, còn (việc tiếp diễn)", "ex": "他还在学校。", "ex_vi": "Anh ấy vẫn còn ở trường." },
+        { "zh": "跑", "py": "pǎo", "pos": "động từ", "vi": "chạy", "ex": "他每天早上跑步。", "ex_vi": "Mỗi sáng anh ấy chạy bộ." },
+        { "zh": "但是", "py": "dànshì", "pos": "liên từ", "vi": "nhưng, tuy nhiên", "ex": "我想去，但是没有时间。", "ex_vi": "Tôi muốn đi, nhưng không có thời gian." },
+        { "zh": "有空儿", "py": "yǒu kòngr", "pos": "động từ", "vi": "rảnh, có thời gian rảnh", "ex": "你明天有空儿吗？", "ex_vi": "Ngày mai bạn có rảnh không?" },
+        { "zh": "空儿", "py": "kòngr", "pos": "danh từ", "vi": "thời gian rảnh, chỗ trống", "ex": "我没有空儿。", "ex_vi": "Tôi không có thời gian rảnh." },
+        { "zh": "行", "py": "xíng", "pos": "tính từ", "vi": "giỏi, được, có năng lực", "ex": "你真行！", "ex_vi": "Bạn giỏi thật!" }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "阿明", "zh": "林娜，你怎么买了这么多水果？", "vi": "Linna, sao bạn mua nhiều trái cây thế?" },
+        { "s": "林娜", "zh": "我朋友生病了，我去看她。你去哪儿？", "vi": "Bạn tôi bị ốm, tôi đi thăm cô ấy. Còn bạn đi đâu?" },
+        { "s": "阿明", "zh": "我去跑步。", "vi": "Tôi đi chạy bộ." },
+        { "s": "林娜", "zh": "天气这么冷，你还每天跑步吗？", "vi": "Thời tiết lạnh thế này, bạn vẫn chạy bộ mỗi ngày à?" },
+        { "s": "阿明", "zh": "不是每天跑，但是我一有空儿就去跑。", "vi": "Không phải ngày nào cũng chạy, nhưng hễ rảnh là tôi đi chạy." },
+        { "s": "林娜", "zh": "你真行！", "vi": "Bạn giỏi thật!" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "暖和", "py": "nuǎnhuo", "pos": "tính từ", "vi": "ấm áp", "ex": "春天很暖和。", "ex_vi": "Mùa xuân rất ấm áp." },
+    { "zh": "凉快", "py": "liángkuai", "pos": "tính từ", "vi": "mát mẻ", "ex": "这儿的夏天很凉快。", "ex_vi": "Mùa hè ở đây rất mát mẻ." }
+  ]
+}

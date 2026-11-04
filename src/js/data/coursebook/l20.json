@@ -1,0 +1,88 @@
+{
+  "number": 20, "title_zh": "快餐可以送到家里", "title_en": "Fast Food Can Be Delivered Home", "title_vi": "Đồ ăn nhanh có thể giao tận nhà",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "经常", "py": "jīngcháng", "pos": "phó từ", "vi": "thường xuyên", "ex": "我经常在食堂吃饭。", "ex_vi": "Tôi thường ăn cơm ở căng tin." },
+        { "zh": "一些", "py": "yìxiē", "pos": "lượng từ", "vi": "một vài, một số", "ex": "我买了一些水果。", "ex_vi": "Tôi đã mua một ít trái cây." },
+        { "zh": "快餐店", "py": "kuàicāndiàn", "pos": "danh từ", "vi": "quán đồ ăn nhanh", "ex": "附近有一家快餐店。", "ex_vi": "Gần đây có một quán đồ ăn nhanh." },
+        { "zh": "快餐", "py": "kuàicān", "pos": "danh từ", "vi": "đồ ăn nhanh", "ex": "我不常吃快餐。", "ex_vi": "Tôi ít khi ăn đồ ăn nhanh." },
+        { "zh": "店", "py": "diàn", "pos": "danh từ", "vi": "cửa hàng, tiệm", "ex": "这家店很有名。", "ex_vi": "Cửa hàng này rất nổi tiếng." },
+        { "zh": "卖", "py": "mài", "pos": "động từ", "vi": "bán", "ex": "这儿卖水果吗？", "ex_vi": "Ở đây có bán trái cây không?" },
+        { "zh": "外卖", "py": "wàimài", "pos": "danh từ", "vi": "đồ ăn mang đi, đồ ăn giao tận nơi", "ex": "我晚上叫外卖。", "ex_vi": "Buổi tối tôi gọi đồ ăn giao tận nhà." },
+        { "zh": "有名", "py": "yǒu míng", "pos": "tính từ", "vi": "nổi tiếng", "ex": "这个饭馆很有名。", "ex_vi": "Quán ăn này rất nổi tiếng." },
+        { "zh": "外国", "py": "wàiguó", "pos": "danh từ", "vi": "nước ngoài", "ex": "他在外国学习。", "ex_vi": "Anh ấy học ở nước ngoài." },
+        { "zh": "坐", "py": "zuò", "pos": "động từ", "vi": "ngồi, đi (bằng phương tiện)", "ex": "请坐。", "ex_vi": "Mời ngồi." },
+        { "zh": "热", "py": "rè", "pos": "tính từ", "vi": "nóng", "ex": "这个菜很热。", "ex_vi": "Món này còn nóng." },
+        { "zh": "舒服", "py": "shūfu", "pos": "tính từ", "vi": "thoải mái, dễ chịu", "ex": "这儿很舒服。", "ex_vi": "Ở đây rất dễ chịu." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "我学习很忙，一般不在家里做饭，下课以后经常在食堂吃饭。有个中国朋友告诉我，一些快餐店卖外卖，还可以送到家里。以前我只知道一些有名的外国快餐店可以送外卖，现在我知道很多中国快餐店也可以送外卖。这样我坐在家里就能吃到热饭热菜了，真是又方便又舒服。", "vi": "Việc học của tôi rất bận, thường không nấu cơm ở nhà, sau khi tan học thường ăn ở căng tin. Có một người bạn Trung Quốc nói với tôi rằng một số quán đồ ăn nhanh bán đồ mang đi, còn có thể giao đến tận nhà. Trước đây tôi chỉ biết một số quán đồ ăn nhanh nước ngoài nổi tiếng có thể giao đồ, bây giờ tôi biết rất nhiều quán đồ ăn nhanh của Trung Quốc cũng có thể giao. Như vậy tôi ngồi ở nhà là có thể ăn cơm nóng, thức ăn nóng, thật vừa tiện vừa thoải mái." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "服务员", "py": "fúwùyuán", "pos": "danh từ", "vi": "nhân viên phục vụ", "ex": "服务员，请来一下。", "ex_vi": "Phục vụ ơi, xin lại đây một chút." },
+        { "zh": "欢迎", "py": "huānyíng", "pos": "động từ", "vi": "hoan nghênh, chào đón", "ex": "欢迎你来中国！", "ex_vi": "Chào mừng bạn đến Trung Quốc!" },
+        { "zh": "光临", "py": "guānglín", "pos": "động từ", "vi": "ghé thăm, quang lâm (lời mời lịch sự)", "ex": "欢迎光临！", "ex_vi": "Hoan nghênh quý khách!" },
+        { "zh": "外边", "py": "wàibian", "pos": "danh từ", "vi": "bên ngoài", "ex": "外边很冷。", "ex_vi": "Bên ngoài rất lạnh." },
+        { "zh": "满", "py": "mǎn", "pos": "tính từ", "vi": "đầy, kín", "ex": "教室里坐满了人。", "ex_vi": "Trong phòng học ngồi đầy người." },
+        { "zh": "比萨饼", "py": "bǐsàbǐng", "pos": "danh từ", "vi": "bánh pizza", "ex": "我想吃比萨饼。", "ex_vi": "Tôi muốn ăn bánh pizza." },
+        { "zh": "别的", "py": "biéde", "pos": "đại từ", "vi": "cái khác, thứ khác", "ex": "你还要别的吗？", "ex_vi": "Bạn còn cần gì khác không?" },
+        { "zh": "来", "py": "lái", "pos": "động từ", "vi": "lấy, gọi (thay cho động từ cụ thể khi gọi món)", "ex": "来一杯咖啡。", "ex_vi": "Cho một ly cà phê." },
+        { "zh": "面条", "py": "miàntiáo", "pos": "danh từ", "vi": "mì sợi", "ex": "我喜欢吃面条。", "ex_vi": "Tôi thích ăn mì." },
+        { "zh": "可乐", "py": "kělè", "pos": "danh từ", "vi": "cô-ca, nước ngọt có ga", "ex": "我要一杯可乐。", "ex_vi": "Tôi lấy một ly cô-ca." },
+        { "zh": "走", "py": "zǒu", "pos": "động từ", "vi": "đi, rời đi (带走 = mang đi)", "ex": "我先走了。", "ex_vi": "Tôi đi trước nhé." },
+        { "zh": "好的", "py": "hǎode", "pos": "cụm từ", "vi": "được rồi, vâng", "ex": "好的，没问题。", "ex_vi": "Vâng, không vấn đề gì." }
+      ],
+      "names": [
+        { "zh": "意大利", "py": "Yìdàlì", "vi": "Ý (I-ta-li-a)" }
+      ],
+      "lines": [
+        { "zh": "（马丁在必胜客餐厅。）", "vi": "(Martin ở nhà hàng Pizza Hut.)" },
+        { "s": "服务员", "zh": "欢迎光临！您几位？", "vi": "Hoan nghênh quý khách! Quý khách đi mấy người ạ?" },
+        { "s": "马丁", "zh": "一位。", "vi": "Một người." },
+        { "s": "服务员", "zh": "外边都坐满了，里边请。您想吃点儿什么？", "vi": "Bên ngoài đã kín chỗ, mời vào bên trong. Quý khách muốn dùng gì ạ?" },
+        { "s": "马丁", "zh": "我想要个比萨饼。", "vi": "Tôi muốn một cái bánh pizza." },
+        { "s": "服务员", "zh": "您还需要别的吗？", "vi": "Quý khách còn cần gì khác không ạ?" },
+        { "s": "马丁", "zh": "再来一份意大利面条、两杯可乐。", "vi": "Cho thêm một phần mì Ý và hai ly cô-ca." },
+        { "s": "服务员", "zh": "您在这儿吃还是带走？", "vi": "Quý khách ăn ở đây hay mang đi ạ?" },
+        { "s": "马丁", "zh": "带走。", "vi": "Mang đi." },
+        { "s": "服务员", "zh": "请您坐这儿等一会儿，十五分钟以后就做好了。", "vi": "Mời quý khách ngồi đây đợi một lát, mười lăm phút sau là làm xong ạ." },
+        { "s": "马丁", "zh": "好的，谢谢！", "vi": "Vâng, cảm ơn!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "晚", "py": "wǎn", "pos": "tính từ", "vi": "muộn, khuya", "ex": "他每天睡得很晚。", "ex_vi": "Anh ấy ngày nào cũng ngủ rất muộn." },
+        { "zh": "成", "py": "chéng", "pos": "động từ", "vi": "trở thành, thành", "ex": "他成了老师。", "ex_vi": "Anh ấy đã trở thành giáo viên." },
+        { "zh": "迷", "py": "mí", "pos": "danh từ", "vi": "người say mê, fan", "ex": "他是电影迷。", "ex_vi": "Anh ấy là người mê phim." },
+        { "zh": "那么", "py": "nàme", "pos": "đại từ", "vi": "như thế, đến thế", "ex": "你为什么那么忙？", "ex_vi": "Sao bạn bận đến thế?" },
+        { "zh": "练习", "py": "liànxí", "pos": "động từ", "vi": "luyện tập", "ex": "我每天练习汉语。", "ex_vi": "Mỗi ngày tôi luyện tiếng Trung." },
+        { "zh": "比赛", "py": "bǐsài", "pos": "danh từ", "vi": "cuộc thi, trận đấu", "ex": "我喜欢看足球比赛。", "ex_vi": "Tôi thích xem các trận đấu bóng đá." },
+        { "zh": "节目", "py": "jiémù", "pos": "danh từ", "vi": "chương trình (truyền hình, biểu diễn)", "ex": "这个节目很有意思。", "ex_vi": "Chương trình này rất thú vị." },
+        { "zh": "收音机", "py": "shōuyīnjī", "pos": "danh từ", "vi": "radio, máy thu thanh", "ex": "他有一台收音机。", "ex_vi": "Anh ấy có một chiếc radio." },
+        { "zh": "主意", "py": "zhǔyi", "pos": "danh từ", "vi": "ý kiến, chủ ý, cách", "ex": "这个主意不错。", "ex_vi": "Ý này không tồi." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "阿明", "zh": "林娜，听说你每天看电视看到很晚。", "vi": "Linna, nghe nói ngày nào bạn cũng xem ti vi đến rất khuya." },
+        { "s": "林娜", "zh": "现在我都成了电视迷了，一打开电视就看到十一二点。", "vi": "Bây giờ tôi thành người mê ti vi rồi, hễ bật ti vi là xem đến mười một, mười hai giờ." },
+        { "s": "阿明", "zh": "为什么你对看电视那么有兴趣？", "vi": "Sao bạn lại hứng thú với việc xem ti vi đến thế?" },
+        { "s": "林娜", "zh": "练习汉语呀。我喜欢看新闻，看电影，看比赛，电视里还有学汉语的节目呢。你不看电视吗？", "vi": "Để luyện tiếng Trung đó. Tôi thích xem tin tức, xem phim, xem thi đấu, trên ti vi còn có chương trình học tiếng Trung nữa. Bạn không xem ti vi à?" },
+        { "s": "阿明", "zh": "我很少看。我每天要听两个小时收音机。", "vi": "Tôi rất ít xem. Mỗi ngày tôi nghe radio hai tiếng." },
+        { "s": "林娜", "zh": "听收音机也不错。对了，你也还没吃饭吧？我们叫外卖，怎么样？", "vi": "Nghe radio cũng hay. À đúng rồi, chắc bạn cũng chưa ăn cơm nhỉ? Chúng ta gọi đồ ăn giao tận nhà, thế nào?" },
+        { "s": "阿明", "zh": "好主意！", "vi": "Ý hay đấy!" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "站", "py": "zhàn", "pos": "động từ", "vi": "đứng", "ex": "老师站在教室里。", "ex_vi": "Thầy/cô đứng trong lớp học." },
+    { "zh": "放", "py": "fàng", "pos": "động từ", "vi": "đặt, để", "ex": "书放在桌子上。", "ex_vi": "Sách để ở trên bàn." },
+    { "zh": "住", "py": "zhù", "pos": "động từ", "vi": "ở, sống, cư trú", "ex": "我住在学校旁边。", "ex_vi": "Tôi sống ở cạnh trường." }
+  ]
+}

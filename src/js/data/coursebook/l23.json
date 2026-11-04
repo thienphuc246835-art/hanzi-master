@@ -1,0 +1,86 @@
+{
+  "number": 23, "title_zh": "今年冬天变冷了", "title_en": "The Winter Is Getting Colder This Year", "title_vi": "Mùa đông năm nay lạnh hơn rồi",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "特别", "py": "tèbié", "pos": "tính từ", "vi": "đặc biệt, khác thường", "ex": "今年冬天很特别。", "ex_vi": "Mùa đông năm nay rất đặc biệt." },
+        { "zh": "北方", "py": "běifāng", "pos": "danh từ", "vi": "miền Bắc, phương Bắc", "ex": "北方的冬天很冷。", "ex_vi": "Mùa đông ở miền Bắc rất lạnh." },
+        { "zh": "南方", "py": "nánfāng", "pos": "danh từ", "vi": "miền Nam, phương Nam", "ex": "南方的冬天不太冷。", "ex_vi": "Mùa đông ở miền Nam không lạnh lắm." },
+        { "zh": "下雪", "py": "xià xuě", "pos": "động từ", "vi": "tuyết rơi", "ex": "北京冬天常常下雪。", "ex_vi": "Mùa đông Bắc Kinh thường có tuyết." },
+        { "zh": "雪", "py": "xuě", "pos": "danh từ", "vi": "tuyết", "ex": "外边的雪很大。", "ex_vi": "Tuyết bên ngoài rất dày." },
+        { "zh": "场", "py": "chǎng", "pos": "lượng từ", "vi": "trận (mưa, tuyết, bệnh…)", "ex": "昨天下了一场大雨。", "ex_vi": "Hôm qua có một trận mưa lớn." },
+        { "zh": "气温", "py": "qìwēn", "pos": "danh từ", "vi": "nhiệt độ không khí", "ex": "今天的气温很低。", "ex_vi": "Nhiệt độ hôm nay rất thấp." },
+        { "zh": "低", "py": "dī", "pos": "tính từ", "vi": "thấp", "ex": "这儿的气温很低。", "ex_vi": "Nhiệt độ ở đây rất thấp." },
+        { "zh": "零下", "py": "líng xià", "pos": "danh từ", "vi": "dưới không độ", "ex": "今天零下五度。", "ex_vi": "Hôm nay âm năm độ." },
+        { "zh": "度", "py": "dù", "pos": "lượng từ", "vi": "độ (đơn vị nhiệt độ)", "ex": "今天二十度。", "ex_vi": "Hôm nay hai mươi độ." },
+        { "zh": "左右", "py": "zuǒyòu", "pos": "danh từ", "vi": "khoảng, trên dưới", "ex": "我们十点左右到学校。", "ex_vi": "Khoảng mười giờ chúng tôi đến trường." },
+        { "zh": "差不多", "py": "chàbuduō", "pos": "phó từ", "vi": "gần như, xấp xỉ", "ex": "我差不多等了两个小时。", "ex_vi": "Tôi đã đợi gần hai tiếng." },
+        { "zh": "老人", "py": "lǎorén", "pos": "danh từ", "vi": "người già, cụ già", "ex": "老人们都在公园里。", "ex_vi": "Các cụ già đều ở trong công viên." },
+        { "zh": "年", "py": "nián", "pos": "danh từ", "vi": "năm", "ex": "我学了两年汉语。", "ex_vi": "Tôi đã học tiếng Trung hai năm." },
+        { "zh": "寒冷", "py": "hánlěng", "pos": "tính từ", "vi": "giá lạnh", "ex": "冬天很寒冷。", "ex_vi": "Mùa đông rất giá lạnh." },
+        { "zh": "人们", "py": "rénmen", "pos": "danh từ", "vi": "mọi người, người ta", "ex": "人们都觉得很冷。", "ex_vi": "Mọi người đều thấy rất lạnh." },
+        { "zh": "突然", "py": "tūrán", "pos": "tính từ", "vi": "đột nhiên, bất ngờ", "ex": "天气突然变冷了。", "ex_vi": "Thời tiết đột nhiên lạnh đi." },
+        { "zh": "变", "py": "biàn", "pos": "động từ", "vi": "thay đổi, trở nên", "ex": "天气变冷了。", "ex_vi": "Thời tiết trở lạnh rồi." },
+        { "zh": "专家", "py": "zhuānjiā", "pos": "danh từ", "vi": "chuyên gia", "ex": "专家说今年很冷。", "ex_vi": "Chuyên gia nói năm nay rất lạnh." },
+        { "zh": "地球", "py": "dìqiú", "pos": "danh từ", "vi": "Trái Đất", "ex": "地球变暖了。", "ex_vi": "Trái Đất đang nóng lên." },
+        { "zh": "暖", "py": "nuǎn", "pos": "tính từ", "vi": "ấm", "ex": "今天很暖。", "ex_vi": "Hôm nay trời ấm." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "今年冬天很特别，从北方到南方，已经下了四场大雪，气温也非常低。在北京，冬天的最低气温一般在零下十度左右。可是今年冬天才冷呢，最冷的一天差不多有零下十七度。老人们都说，这是最近四十年最寒冷的冬天。人们觉得冬天突然变冷了，可是有的专家说地球变暖了。你们说，地球是变冷了，还是变暖了呢？", "vi": "Mùa đông năm nay rất đặc biệt, từ miền Bắc đến miền Nam đã có bốn trận tuyết lớn, nhiệt độ cũng rất thấp. Ở Bắc Kinh, nhiệt độ thấp nhất mùa đông thường vào khoảng âm mười độ. Nhưng mùa đông năm nay mới thật là lạnh, ngày lạnh nhất gần âm mười bảy độ. Các cụ già đều nói đây là mùa đông giá lạnh nhất trong bốn mươi năm gần đây. Mọi người thấy mùa đông đột nhiên lạnh hơn, nhưng có chuyên gia nói Trái Đất đang ấm lên. Các bạn nói xem, Trái Đất đang lạnh đi hay ấm lên?" }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "注意", "py": "zhùyì", "pos": "động từ", "vi": "chú ý, để ý", "ex": "请注意身体。", "ex_vi": "Xin hãy chú ý giữ gìn sức khỏe." },
+        { "zh": "气候", "py": "qìhòu", "pos": "danh từ", "vi": "khí hậu", "ex": "我不习惯这儿的气候。", "ex_vi": "Tôi chưa quen khí hậu ở đây." },
+        { "zh": "爱", "py": "ài", "pos": "động từ", "vi": "hay, thường (làm gì); yêu", "ex": "他爱感冒。", "ex_vi": "Anh ấy hay bị cảm." },
+        { "zh": "锻炼", "py": "duànliàn", "pos": "động từ", "vi": "rèn luyện, tập thể dục", "ex": "我每天锻炼身体。", "ex_vi": "Mỗi ngày tôi tập thể dục." },
+        { "zh": "出门", "py": "chū mén", "pos": "động từ", "vi": "ra ngoài, ra khỏi nhà", "ex": "出门的时候别忘了带伞。", "ex_vi": "Lúc ra ngoài đừng quên mang ô." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（下课时，李老师和学生们聊天儿。）", "vi": "(Lúc tan học, thầy Lý trò chuyện với các học sinh.)" },
+        { "s": "李一民", "zh": "现在天气冷了，大家要注意身体，别感冒了。", "vi": "Bây giờ trời lạnh rồi, mọi người phải chú ý sức khỏe, đừng để bị cảm." },
+        { "s": "林娜", "zh": "老师，阿明又感冒了，我觉得他还没习惯北京的气候。", "vi": "Thưa thầy, A Minh lại bị cảm rồi, em thấy bạn ấy vẫn chưa quen khí hậu Bắc Kinh." },
+        { "s": "李一民", "zh": "他现在怎么样了？", "vi": "Bây giờ bạn ấy thế nào rồi?" },
+        { "s": "林娜", "zh": "他现在好点儿了。", "vi": "Bây giờ bạn ấy đỡ hơn rồi." },
+        { "s": "李一民", "zh": "你们怎么样？", "vi": "Còn các em thế nào?" },
+        { "s": "学生们", "zh": "还可以。", "vi": "Cũng tạm ổn ạ." },
+        { "s": "林娜", "zh": "以前我爱感冒。现在常常锻炼，不爱感冒了。", "vi": "Trước đây em hay bị cảm. Bây giờ thường xuyên tập thể dục, không hay bị cảm nữa." },
+        { "s": "李一民", "zh": "出门的时候多穿点儿衣服，平时多吃水果，多喝水。", "vi": "Lúc ra ngoài mặc thêm quần áo, ngày thường ăn nhiều trái cây, uống nhiều nước." },
+        { "s": "学生们", "zh": "谢谢老师！", "vi": "Em cảm ơn thầy!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "季节", "py": "jìjié", "pos": "danh từ", "vi": "mùa, thời vụ", "ex": "你喜欢哪个季节？", "ex_vi": "Bạn thích mùa nào?" },
+        { "zh": "下雨", "py": "xià yǔ", "pos": "động từ", "vi": "mưa, trời mưa", "ex": "今天下雨了。", "ex_vi": "Hôm nay trời mưa." },
+        { "zh": "雨", "py": "yǔ", "pos": "danh từ", "vi": "mưa", "ex": "外边的雨很大。", "ex_vi": "Mưa bên ngoài rất to." },
+        { "zh": "正常", "py": "zhèngcháng", "pos": "tính từ", "vi": "bình thường", "ex": "今天的天气很正常。", "ex_vi": "Thời tiết hôm nay rất bình thường." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "山田", "zh": "阿明，最近泰国天气怎么样？", "vi": "A Minh, dạo này thời tiết ở Thái Lan thế nào?" },
+        { "s": "阿明", "zh": "一般这个季节我们那儿不常下雨，可是最近也下了两场大雨。", "vi": "Thường mùa này ở chỗ tụi mình ít mưa, nhưng gần đây cũng có hai trận mưa lớn." },
+        { "s": "山田", "zh": "冷吗？", "vi": "Có lạnh không?" },
+        { "s": "阿明", "zh": "听妈妈说，今年很冷，很多人都穿棉衣了。", "vi": "Nghe mẹ mình nói, năm nay rất lạnh, nhiều người đều mặc áo bông rồi." },
+        { "s": "山田", "zh": "是吗？以前也是这样吗？", "vi": "Vậy à? Trước đây cũng như vậy sao?" },
+        { "s": "阿明", "zh": "不是这样，以前这个季节不冷也不热，是最舒服的时候，今年很不正常。", "vi": "Không phải vậy, trước đây mùa này không lạnh cũng không nóng, là lúc dễ chịu nhất, năm nay rất bất thường." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "天气预报", "py": "tiānqì yùbào", "pos": "danh từ", "vi": "dự báo thời tiết", "ex": "我每天看天气预报。", "ex_vi": "Mỗi ngày tôi xem dự báo thời tiết." },
+    { "zh": "刮风", "py": "guā fēng", "pos": "động từ", "vi": "gió thổi, nổi gió", "ex": "今天刮大风。", "ex_vi": "Hôm nay gió to." },
+    { "zh": "风力", "py": "fēnglì", "pos": "danh từ", "vi": "sức gió", "ex": "今天风力很大。", "ex_vi": "Hôm nay sức gió rất mạnh." },
+    { "zh": "级", "py": "jí", "pos": "danh từ", "vi": "cấp, bậc", "ex": "风力有五级。", "ex_vi": "Sức gió cấp năm." },
+    { "zh": "多云", "py": "duōyún", "pos": "tính từ", "vi": "nhiều mây", "ex": "明天多云。", "ex_vi": "Ngày mai nhiều mây." },
+    { "zh": "晴", "py": "qíng", "pos": "tính từ", "vi": "trời nắng, quang đãng", "ex": "今天天气很晴。", "ex_vi": "Hôm nay trời nắng đẹp." },
+    { "zh": "阴", "py": "yīn", "pos": "tính từ", "vi": "âm u, nhiều mây", "ex": "今天是阴天。", "ex_vi": "Hôm nay trời âm u." },
+    { "zh": "转", "py": "zhuǎn", "pos": "động từ", "vi": "chuyển, đổi", "ex": "明天由阴转晴。", "ex_vi": "Ngày mai từ âm u chuyển sang nắng." }
+  ]
+}

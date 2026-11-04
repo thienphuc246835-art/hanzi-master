@@ -1,0 +1,86 @@
+{
+  "number": 21, "title_zh": "我把袋子放在桌子上了", "title_en": "I Put the Bag on the Table", "title_vi": "Tôi để cái túi lên bàn rồi",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "付钱", "py": "fù qián", "pos": "động từ", "vi": "trả tiền", "ex": "我来付钱。", "ex_vi": "Để tôi trả tiền." },
+        { "zh": "付", "py": "fù", "pos": "động từ", "vi": "trả, thanh toán", "ex": "我付了二十块。", "ex_vi": "Tôi đã trả hai mươi tệ." },
+        { "zh": "国家", "py": "guójiā", "pos": "danh từ", "vi": "quốc gia, đất nước", "ex": "你是哪个国家的人？", "ex_vi": "Bạn là người nước nào?" },
+        { "zh": "自己", "py": "zìjǐ", "pos": "đại từ", "vi": "tự mình, bản thân", "ex": "我自己去。", "ex_vi": "Tôi tự đi." },
+        { "zh": "做法", "py": "zuòfǎ", "pos": "danh từ", "vi": "cách làm, cách xử lý", "ex": "这种做法很好。", "ex_vi": "Cách làm này rất hay." },
+        { "zh": "AA制", "py": "AA zhì", "pos": "danh từ", "vi": "chia đều tiền (ai trả phần người nấy)", "ex": "我们AA制吧。", "ex_vi": "Chúng ta chia đều tiền nhé." },
+        { "zh": "年轻人", "py": "niánqīng rén", "pos": "danh từ", "vi": "người trẻ, thanh niên", "ex": "年轻人喜欢上网。", "ex_vi": "Người trẻ thích lên mạng." },
+        { "zh": "年轻", "py": "niánqīng", "pos": "tính từ", "vi": "trẻ, trẻ tuổi", "ex": "她很年轻。", "ex_vi": "Cô ấy rất trẻ." },
+        { "zh": "影响", "py": "yǐngxiǎng", "pos": "động từ", "vi": "ảnh hưởng", "ex": "天气影响我的心情。", "ex_vi": "Thời tiết ảnh hưởng đến tâm trạng tôi." },
+        { "zh": "愿意", "py": "yuànyì", "pos": "trợ động từ", "vi": "bằng lòng, sẵn sàng", "ex": "我愿意帮你。", "ex_vi": "Tôi sẵn lòng giúp bạn." },
+        { "zh": "大多数", "py": "dàduōshù", "pos": "danh từ", "vi": "đại đa số", "ex": "大多数人都喜欢这个。", "ex_vi": "Đại đa số mọi người đều thích cái này." },
+        { "zh": "习惯", "py": "xíguàn", "pos": "động từ", "vi": "quen, thói quen", "ex": "我还不习惯这儿的天气。", "ex_vi": "Tôi vẫn chưa quen thời tiết ở đây." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "中国人一起吃饭的时候，一般是一个人付钱，这次我请客，下次他请客。很多国家跟中国不一样，大家一起喝完咖啡、吃完饭以后，自己付自己的钱。这种做法，中国人叫“AA制”。“AA制”到了中国，对年轻人影响很大，很多年轻人也愿意这么做，但是大多数中国人还不习惯。", "vi": "Khi người Trung Quốc cùng nhau ăn cơm, thường là một người trả tiền, lần này tôi mời, lần sau anh ấy mời. Nhiều nước không giống Trung Quốc, mọi người cùng uống cà phê, ăn cơm xong thì ai trả phần người nấy. Cách làm này người Trung Quốc gọi là “AA”. Khi “AA” đến Trung Quốc, ảnh hưởng rất lớn đến giới trẻ, nhiều người trẻ cũng sẵn lòng làm như vậy, nhưng đại đa số người Trung Quốc vẫn chưa quen." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "结账", "py": "jié zhàng", "pos": "động từ", "vi": "thanh toán, tính tiền", "ex": "服务员，结账！", "ex_vi": "Phục vụ ơi, tính tiền!" },
+        { "zh": "咱们", "py": "zánmen", "pos": "đại từ", "vi": "chúng ta (gồm cả người nghe)", "ex": "咱们一起去吧。", "ex_vi": "Chúng ta cùng đi nhé." },
+        { "zh": "小费", "py": "xiǎofèi", "pos": "danh từ", "vi": "tiền boa", "ex": "这儿不收小费。", "ex_vi": "Ở đây không nhận tiền boa." },
+        { "zh": "这些", "py": "zhèxiē", "pos": "đại từ", "vi": "những cái này", "ex": "这些是我的书。", "ex_vi": "Những cái này là sách của tôi." },
+        { "zh": "打包", "py": "dǎ bāo", "pos": "động từ", "vi": "gói mang về (đồ ăn thừa)", "ex": "这个菜请帮我打包。", "ex_vi": "Món này xin gói giúp tôi mang về." },
+        { "zh": "把", "py": "bǎ", "pos": "giới từ", "vi": "(đưa tân ngữ lên trước động từ trong câu chữ 把)", "ex": "我把书放在桌子上了。", "ex_vi": "Tôi đã để sách lên bàn." },
+        { "zh": "饭盒", "py": "fànhé", "pos": "danh từ", "vi": "hộp cơm", "ex": "他带了一个饭盒。", "ex_vi": "Anh ấy mang theo một hộp cơm." },
+        { "zh": "放", "py": "fàng", "pos": "động từ", "vi": "để, đặt", "ex": "请把包放在这儿。", "ex_vi": "Xin hãy để cái túi ở đây." },
+        { "zh": "袋子", "py": "dàizi", "pos": "danh từ", "vi": "túi, bao", "ex": "袋子里有水果。", "ex_vi": "Trong túi có trái cây." },
+        { "zh": "零钱", "py": "língqián", "pos": "danh từ", "vi": "tiền lẻ", "ex": "我没有零钱。", "ex_vi": "Tôi không có tiền lẻ." },
+        { "zh": "收", "py": "shōu", "pos": "động từ", "vi": "nhận, thu", "ex": "他不收钱。", "ex_vi": "Anh ấy không nhận tiền." },
+        { "zh": "所有", "py": "suǒyǒu", "pos": "tính từ", "vi": "tất cả, mọi", "ex": "所有的人都来了。", "ex_vi": "Tất cả mọi người đều đến rồi." },
+        { "zh": "宾馆", "py": "bīnguǎn", "pos": "danh từ", "vi": "khách sạn, nhà khách", "ex": "我住在一家宾馆。", "ex_vi": "Tôi ở một khách sạn." },
+        { "zh": "酒吧", "py": "jiǔbā", "pos": "danh từ", "vi": "quán bar", "ex": "晚上我们去酒吧。", "ex_vi": "Buổi tối chúng ta đến quán bar." },
+        { "zh": "有的", "py": "yǒude", "pos": "đại từ", "vi": "có (người, nơi, cái) …, một số", "ex": "有的人喜欢喝茶。", "ex_vi": "Có người thích uống trà." },
+        { "zh": "清楚", "py": "qīngchu", "pos": "tính từ", "vi": "rõ ràng, hiểu rõ", "ex": "我不太清楚。", "ex_vi": "Tôi không rõ lắm." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（在饭馆）", "vi": "(Ở nhà hàng)" },
+        { "s": "林娜", "zh": "服务员，结账！", "vi": "Phục vụ ơi, tính tiền!" },
+        { "s": "服务员", "zh": "一共180块钱。", "vi": "Tổng cộng 180 tệ ạ." },
+        { "s": "林娜", "zh": "咱们六个人AA制，好吗？", "vi": "Sáu người chúng ta chia đều, được không?" },
+        { "s": "大家", "zh": "好，每人30，再给点儿小费。", "vi": "Được, mỗi người 30, rồi cho thêm chút tiền boa." },
+        { "s": "林娜", "zh": "这些菜请帮我们打包，把饭盒都放在袋子里。", "vi": "Mấy món này xin gói giúp chúng tôi, để các hộp cơm vào hết trong túi." },
+        { "s": "服务员", "zh": "没问题。", "vi": "Không vấn đề gì ạ." },
+        { "s": "林娜", "zh": "这是200块钱，零钱不用找了，是小费。", "vi": "Đây là 200 tệ, tiền lẻ không cần thối, là tiền boa." },
+        { "s": "服务员", "zh": "我们不收小费。", "vi": "Chúng tôi không nhận tiền boa." },
+        { "s": "林娜", "zh": "不收小费？所有的饭馆都不收小费吗？", "vi": "Không nhận tiền boa? Tất cả nhà hàng đều không nhận tiền boa sao?" },
+        { "s": "服务员", "zh": "应该是这样吧。", "vi": "Chắc là như vậy ạ." },
+        { "s": "林娜", "zh": "宾馆和酒吧呢？", "vi": "Còn khách sạn và quán bar thì sao?" },
+        { "s": "服务员", "zh": "一般也不收，是不是有的地方收，我不太清楚。", "vi": "Thường cũng không nhận, có nơi nào nhận hay không thì tôi không rõ lắm." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "慢", "py": "màn", "pos": "tính từ", "vi": "chậm", "ex": "请说慢一点儿。", "ex_vi": "Xin hãy nói chậm một chút." },
+        { "zh": "桌子", "py": "zhuōzi", "pos": "danh từ", "vi": "cái bàn", "ex": "桌子上有一本书。", "ex_vi": "Trên bàn có một quyển sách." },
+        { "zh": "拿", "py": "ná", "pos": "động từ", "vi": "cầm, lấy", "ex": "请把书拿来。", "ex_vi": "Xin hãy mang sách lại đây." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "林娜", "zh": "日本人都很习惯AA制吗？", "vi": "Người Nhật đều rất quen với chuyện chia đều tiền à?" },
+        { "s": "山田", "zh": "当然习惯了。", "vi": "Đương nhiên là quen rồi." },
+        { "s": "林娜", "zh": "我觉得大多数中国人不太习惯AA制，他们常一个人请客。", "vi": "Tôi thấy đại đa số người Trung Quốc không quen lắm với chia đều tiền, họ thường một người mời." },
+        { "s": "山田", "zh": "他们经常这次你请客，下次他请客，这样也不错，和AA制一样。", "vi": "Họ thường lần này bạn mời, lần sau anh ấy mời, như vậy cũng hay, giống chia đều tiền." },
+        { "s": "林娜", "zh": "我们也要慢慢习惯中国人的做法。", "vi": "Chúng ta cũng phải dần dần quen với cách làm của người Trung Quốc." },
+        { "s": "山田", "zh": "我看见你打包了，你把东西放在哪儿了？", "vi": "Tôi thấy bạn gói đồ mang về, bạn để đồ ở đâu rồi?" },
+        { "s": "林娜", "zh": "我把袋子放在旁边的桌子上了，我去拿。", "vi": "Tôi để cái túi lên cái bàn bên cạnh rồi, tôi đi lấy." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "椅子", "py": "yǐzi", "pos": "danh từ", "vi": "cái ghế", "ex": "椅子在桌子旁边。", "ex_vi": "Cái ghế ở cạnh bàn." },
+    { "zh": "背包", "py": "bēibāo", "pos": "danh từ", "vi": "ba lô", "ex": "我的词典在背包里。", "ex_vi": "Từ điển của tôi ở trong ba lô." },
+    { "zh": "钱包", "py": "qiánbāo", "pos": "danh từ", "vi": "ví tiền", "ex": "我把钱包放在桌子上了。", "ex_vi": "Tôi để ví lên bàn rồi." }
+  ]
+}

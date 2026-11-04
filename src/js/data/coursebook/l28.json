@@ -1,0 +1,89 @@
+{
+  "number": 28, "title_zh": "长城有八千八百五十多公里", "title_en": "The Great Wall Is More Than 8,850 Kilometres Long", "title_vi": "Vạn Lý Trường Thành dài hơn 8.850 km",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "西北部", "py": "xīběi bù", "pos": "danh từ", "vi": "phía tây bắc", "ex": "中国的西北部很大。", "ex_vi": "Phía tây bắc Trung Quốc rất rộng." },
+        { "zh": "市区", "py": "shìqū", "pos": "danh từ", "vi": "nội thành, khu trung tâm", "ex": "我家离市区很远。", "ex_vi": "Nhà tôi cách nội thành rất xa." },
+        { "zh": "大概", "py": "dàgài", "pos": "phó từ", "vi": "khoảng, đại khái", "ex": "大概要两个小时。", "ex_vi": "Khoảng hai tiếng." },
+        { "zh": "公里", "py": "gōnglǐ", "pos": "lượng từ", "vi": "ki-lô-mét", "ex": "这儿离学校三公里。", "ex_vi": "Chỗ này cách trường ba cây số." },
+        { "zh": "火车", "py": "huǒchē", "pos": "danh từ", "vi": "tàu hỏa", "ex": "我坐火车去北京。", "ex_vi": "Tôi đi tàu hỏa đến Bắc Kinh." },
+        { "zh": "公共汽车", "py": "gōnggòng qìchē", "pos": "danh từ", "vi": "xe buýt", "ex": "我坐公共汽车去学校。", "ex_vi": "Tôi đi xe buýt đến trường." },
+        { "zh": "多", "py": "duō", "pos": "số từ", "vi": "hơn, trên (số lẻ phía sau)", "ex": "我学了两年多汉语。", "ex_vi": "Tôi đã học tiếng Trung hơn hai năm." },
+        { "zh": "车票", "py": "chēpiào", "pos": "danh từ", "vi": "vé xe, vé tàu", "ex": "我买了一张车票。", "ex_vi": "Tôi đã mua một vé tàu." },
+        { "zh": "票", "py": "piào", "pos": "danh từ", "vi": "vé", "ex": "电影票多少钱？", "ex_vi": "Vé xem phim bao nhiêu tiền?" },
+        { "zh": "几", "py": "jǐ", "pos": "số từ", "vi": "vài, mấy (ước lượng)", "ex": "我有几本书。", "ex_vi": "Tôi có mấy quyển sách." },
+        { "zh": "到达", "py": "dàodá", "pos": "động từ", "vi": "đến, tới nơi", "ex": "火车八点到达。", "ex_vi": "Tàu đến lúc tám giờ." },
+        { "zh": "元", "py": "yuán", "pos": "lượng từ", "vi": "tệ, đồng (đơn vị tiền Trung Quốc, văn viết)", "ex": "车票十二元。", "ex_vi": "Vé xe mười hai tệ." },
+        { "zh": "快车", "py": "kuàichē", "pos": "danh từ", "vi": "xe/tàu nhanh", "ex": "坐快车更快。", "ex_vi": "Đi xe nhanh thì nhanh hơn." },
+        { "zh": "公交卡", "py": "gōngjiāokǎ", "pos": "danh từ", "vi": "thẻ xe buýt", "ex": "我有一张公交卡。", "ex_vi": "Tôi có một thẻ xe buýt." },
+        { "zh": "公交车", "py": "gōngjiāochē", "pos": "danh từ", "vi": "xe buýt công cộng", "ex": "公交车很方便。", "ex_vi": "Xe buýt rất tiện." }
+      ],
+      "names": [
+        { "zh": "八达岭", "py": "Bādálǐng", "vi": "Bát Đạt Lĩnh (một đoạn Trường Thành)" },
+        { "zh": "长城", "py": "Chángchéng", "vi": "Trường Thành" }
+      ],
+      "lines": [
+        { "zh": "八达岭长城在北京的西北部，离市区大概有八十公里。从市区去八达岭可以坐火车，也可以坐公共汽车，还可以坐旅游车。火车早上八点半左右出发，坐两个多小时就到了，车票十几块钱。坐旅游车四十多分钟可以到达，每天早上六点半到上午十点半有车，车票五十元。坐公共汽车最便宜，普通车车票七元，快车车票十二元。如果有公交卡，坐公交车更便宜。", "vi": "Trường Thành Bát Đạt Lĩnh nằm ở phía tây bắc Bắc Kinh, cách nội thành khoảng tám mươi cây số. Từ nội thành đến Bát Đạt Lĩnh có thể đi tàu hỏa, cũng có thể đi xe buýt, còn có thể đi xe du lịch. Tàu hỏa khởi hành khoảng tám rưỡi sáng, đi hơn hai tiếng là đến, vé hơn mười tệ. Đi xe du lịch hơn bốn mươi phút là đến, mỗi ngày từ sáu rưỡi sáng đến mười rưỡi trưa có xe, vé năm mươi tệ. Đi xe buýt rẻ nhất, xe thường giá vé bảy tệ, xe nhanh giá vé mười hai tệ. Nếu có thẻ xe buýt thì đi xe buýt càng rẻ hơn." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "通过", "py": "tōngguò", "pos": "giới từ", "vi": "thông qua, bằng cách", "ex": "我通过看书学习汉语。", "ex_vi": "Tôi học tiếng Trung thông qua đọc sách." },
+        { "zh": "它", "py": "tā", "pos": "đại từ", "vi": "nó (chỉ vật, con vật)", "ex": "这是我的书，它很有意思。", "ex_vi": "Đây là sách của tôi, nó rất thú vị." },
+        { "zh": "万", "py": "wàn", "pos": "số từ", "vi": "vạn, mười nghìn", "ex": "一万块钱。", "ex_vi": "Mười nghìn tệ." },
+        { "zh": "里", "py": "lǐ", "pos": "lượng từ", "vi": "dặm Trung Quốc (= 0,5 km)", "ex": "一公里是二里。", "ex_vi": "Một ki-lô-mét bằng hai dặm Trung Quốc." },
+        { "zh": "所以", "py": "suǒyǐ", "pos": "liên từ", "vi": "cho nên, vì vậy", "ex": "他生病了，所以没来。", "ex_vi": "Anh ấy bị ốm nên không đến." },
+        { "zh": "原来", "py": "yuánlái", "pos": "phó từ", "vi": "thì ra, hóa ra", "ex": "原来是你呀！", "ex_vi": "Thì ra là bạn à!" }
+      ],
+      "names": [
+        { "zh": "万里长城", "py": "Wànlǐ Chángchéng", "vi": "Vạn Lý Trường Thành" }
+      ],
+      "lines": [
+        { "s": "马丁", "zh": "你了解长城吗？", "vi": "Cậu có hiểu biết về Trường Thành không?" },
+        { "s": "山田", "zh": "不能说了解，通过看书知道一些。", "vi": "Không thể nói là hiểu, qua đọc sách biết được chút ít." },
+        { "s": "马丁", "zh": "我想问你一个问题。", "vi": "Tớ muốn hỏi cậu một câu." },
+        { "s": "山田", "zh": "你说吧。", "vi": "Cậu hỏi đi." },
+        { "s": "马丁", "zh": "长城有多长？", "vi": "Trường Thành dài bao nhiêu?" },
+        { "s": "山田", "zh": "长城有八千八百五十多公里。", "vi": "Trường Thành dài hơn 8.850 km." },
+        { "s": "马丁", "zh": "为什么人们叫它“万里长城”呢？", "vi": "Vì sao người ta gọi nó là “Vạn Lý Trường Thành”?" },
+        { "s": "山田", "zh": "中国人习惯用“里”，一公里是二里，八千八百五十多公里是一万七千七百多里，所以长城也叫“万里长城”。", "vi": "Người Trung Quốc quen dùng “lý (dặm)”, một ki-lô-mét là hai dặm, hơn 8.850 km là hơn 17.700 dặm, nên Trường Thành còn gọi là “Vạn Lý Trường Thành”." },
+        { "s": "马丁", "zh": "原来是这样啊。", "vi": "Hóa ra là như vậy." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "张", "py": "zhāng", "pos": "lượng từ", "vi": "tấm, tờ, chiếc (cho giấy, tranh, vé, thẻ…)", "ex": "我有一张公交卡。", "ex_vi": "Tôi có một cái thẻ xe buýt." },
+        { "zh": "信用卡", "py": "xìnyòngkǎ", "pos": "danh từ", "vi": "thẻ tín dụng", "ex": "我想办一张信用卡。", "ex_vi": "Tôi muốn làm một cái thẻ tín dụng." },
+        { "zh": "存(钱)", "py": "cún (qián)", "pos": "động từ", "vi": "gửi (tiền), tiết kiệm", "ex": "我去银行存钱。", "ex_vi": "Tôi ra ngân hàng gửi tiền." },
+        { "zh": "取(钱)", "py": "qǔ (qián)", "pos": "động từ", "vi": "rút (tiền), lấy", "ex": "我去取一点儿钱。", "ex_vi": "Tôi đi rút ít tiền." },
+        { "zh": "住", "py": "zhù", "pos": "động từ", "vi": "ở, sống, nghỉ", "ex": "他住在宾馆。", "ex_vi": "Anh ấy ở khách sạn." },
+        { "zh": "刷卡", "py": "shuā kǎ", "pos": "động từ", "vi": "quẹt thẻ", "ex": "这儿可以刷卡吗？", "ex_vi": "Ở đây quẹt thẻ được không?" },
+        { "zh": "学生证", "py": "xuéshēngzhèng", "pos": "danh từ", "vi": "thẻ sinh viên, thẻ học sinh", "ex": "请带上学生证。", "ex_vi": "Xin hãy mang theo thẻ sinh viên." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "韩国学生", "zh": "你知道在哪儿可以办公交卡吗？", "vi": "Bạn biết ở đâu có thể làm thẻ xe buýt không?" },
+        { "s": "崔浩", "zh": "我家旁边有一个地方就可以办，我带你去。", "vi": "Gần nhà tớ có một chỗ làm được, tớ dẫn cậu đi." },
+        { "s": "韩国学生", "zh": "多长时间可以办好？", "vi": "Làm mất bao lâu thì xong?" },
+        { "s": "崔浩", "zh": "五六分钟就可以办好。", "vi": "Năm sáu phút là xong." },
+        { "s": "韩国学生", "zh": "我还想办一张信用卡，你知道怎么办吗？", "vi": "Tớ còn muốn làm một cái thẻ tín dụng, cậu biết làm thế nào không?" },
+        { "s": "崔浩", "zh": "学生办信用卡很麻烦。在中国，用银行卡很方便，可以存钱、取钱，买东西、住宾馆也可以刷卡。", "vi": "Sinh viên làm thẻ tín dụng rất phiền phức. Ở Trung Quốc, dùng thẻ ngân hàng rất tiện, có thể gửi tiền, rút tiền, mua đồ, ở khách sạn cũng quẹt thẻ được." },
+        { "s": "韩国学生", "zh": "怎么办银行卡呢？", "vi": "Làm thẻ ngân hàng thế nào?" },
+        { "s": "崔浩", "zh": "很简单，准备好你的护照和学生证，再带一些钱去银行就行了。", "vi": "Rất đơn giản, chuẩn bị hộ chiếu và thẻ sinh viên, mang thêm ít tiền đến ngân hàng là được." },
+        { "s": "韩国学生", "zh": "好，那我就办银行卡吧。", "vi": "Được, vậy tớ sẽ làm thẻ ngân hàng." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "多大", "py": "duō dà", "pos": "cụm từ", "vi": "bao nhiêu tuổi, to cỡ nào", "ex": "你今年多大了？", "ex_vi": "Năm nay bạn bao nhiêu tuổi?" },
+    { "zh": "多远", "py": "duō yuǎn", "pos": "cụm từ", "vi": "xa bao nhiêu", "ex": "学校离这儿多远？", "ex_vi": "Trường cách đây bao xa?" },
+    { "zh": "多高", "py": "duō gāo", "pos": "cụm từ", "vi": "cao bao nhiêu", "ex": "你多高？", "ex_vi": "Bạn cao bao nhiêu?" },
+    { "zh": "岁", "py": "suì", "pos": "lượng từ", "vi": "tuổi", "ex": "我二十岁。", "ex_vi": "Tôi hai mươi tuổi." },
+    { "zh": "公里/里", "py": "gōnglǐ / lǐ", "pos": "lượng từ", "vi": "ki-lô-mét / dặm Trung Quốc", "ex": "这儿离那儿五公里。", "ex_vi": "Chỗ này cách chỗ kia năm cây số." },
+    { "zh": "米", "py": "mǐ", "pos": "lượng từ", "vi": "mét", "ex": "他有一米八高。", "ex_vi": "Anh ấy cao một mét tám." }
+  ]
+}

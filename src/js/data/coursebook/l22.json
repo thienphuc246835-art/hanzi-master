@@ -1,0 +1,99 @@
+{
+  "number": 22, "title_zh": "我的自行车是红色的", "title_en": "My Bike Is Red", "title_vi": "Xe đạp của tôi màu đỏ",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "黄色", "py": "huángsè", "pos": "danh từ", "vi": "màu vàng", "ex": "我喜欢黄色。", "ex_vi": "Tôi thích màu vàng." },
+        { "zh": "黄", "py": "huáng", "pos": "tính từ", "vi": "vàng", "ex": "这件衣服是黄的。", "ex_vi": "Cái áo này màu vàng." },
+        { "zh": "衬衫", "py": "chènshān", "pos": "danh từ", "vi": "áo sơ mi", "ex": "他穿一件白衬衫。", "ex_vi": "Anh ấy mặc một cái áo sơ mi trắng." },
+        { "zh": "蓝色", "py": "lánsè", "pos": "danh từ", "vi": "màu xanh lam", "ex": "天空是蓝色的。", "ex_vi": "Bầu trời màu xanh lam." },
+        { "zh": "蓝", "py": "lán", "pos": "tính từ", "vi": "xanh lam", "ex": "这件上衣是蓝的。", "ex_vi": "Cái áo này màu xanh lam." },
+        { "zh": "上衣", "py": "shàngyī", "pos": "danh từ", "vi": "áo (mặc phần trên)", "ex": "这件上衣很好看。", "ex_vi": "Cái áo này rất đẹp." },
+        { "zh": "条", "py": "tiáo", "pos": "lượng từ", "vi": "cái, chiếc (cho vật dài, mảnh: quần, đường…)", "ex": "我买了一条裤子。", "ex_vi": "Tôi đã mua một cái quần." },
+        { "zh": "黑色", "py": "hēisè", "pos": "danh từ", "vi": "màu đen", "ex": "她有一条黑色的裤子。", "ex_vi": "Cô ấy có một cái quần màu đen." },
+        { "zh": "黑", "py": "hēi", "pos": "tính từ", "vi": "đen", "ex": "他的头发是黑的。", "ex_vi": "Tóc anh ấy màu đen." },
+        { "zh": "裤子", "py": "kùzi", "pos": "danh từ", "vi": "quần", "ex": "这条裤子太短了。", "ex_vi": "Cái quần này ngắn quá." },
+        { "zh": "那些", "py": "nàxiē", "pos": "đại từ", "vi": "những cái kia", "ex": "那些是我的书。", "ex_vi": "Những quyển kia là sách của tôi." },
+        { "zh": "尝", "py": "cháng", "pos": "động từ", "vi": "nếm, thử (đồ ăn)", "ex": "你尝一尝这个菜。", "ex_vi": "Bạn nếm thử món này đi." },
+        { "zh": "丢", "py": "diū", "pos": "động từ", "vi": "mất, đánh mất", "ex": "我的手机丢了。", "ex_vi": "Điện thoại của tôi bị mất rồi." },
+        { "zh": "有点儿", "py": "yǒudiǎnr", "pos": "phó từ", "vi": "hơi, một chút (thường dùng cho điều không vừa ý)", "ex": "今天有点儿冷。", "ex_vi": "Hôm nay hơi lạnh." },
+        { "zh": "生气", "py": "shēng qì", "pos": "động từ", "vi": "giận, tức giận", "ex": "你别生气。", "ex_vi": "Bạn đừng giận." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "我妈妈从法国来看我了。她给我带了很多好吃的，还带了一些衣服。她给我买了一件黄色的衬衫、一件蓝色的上衣和一条黑色的裤子。那件蓝上衣是我最喜欢的，衬衫和裤子也是我现在需要的。那些吃的，我要带给大家尝一尝。妈妈来了，我当然很高兴。可是我的自行车丢了，我有点儿生气。", "vi": "Mẹ tôi từ Pháp sang thăm tôi. Mẹ mang cho tôi rất nhiều đồ ăn ngon, còn mang theo một ít quần áo. Mẹ mua cho tôi một cái áo sơ mi màu vàng, một cái áo màu xanh lam và một cái quần màu đen. Cái áo xanh lam đó là cái tôi thích nhất, áo sơ mi và quần cũng là thứ tôi đang cần. Mấy món ăn đó tôi sẽ mang cho mọi người nếm thử. Mẹ đến, tôi đương nhiên rất vui. Nhưng xe đạp của tôi bị mất, tôi hơi bực." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "好看", "py": "hǎokàn", "pos": "tính từ", "vi": "đẹp, ưa nhìn", "ex": "这件衣服很好看。", "ex_vi": "Cái áo này rất đẹp." },
+        { "zh": "颜色", "py": "yánsè", "pos": "danh từ", "vi": "màu sắc", "ex": "你喜欢什么颜色？", "ex_vi": "Bạn thích màu gì?" },
+        { "zh": "那边", "py": "nàbiān", "pos": "đại từ", "vi": "bên kia, chỗ kia", "ex": "银行在那边。", "ex_vi": "Ngân hàng ở bên kia." },
+        { "zh": "试衣间", "py": "shìyījiān", "pos": "danh từ", "vi": "phòng thử đồ", "ex": "试衣间在哪儿？", "ex_vi": "Phòng thử đồ ở đâu?" },
+        { "zh": "瘦", "py": "shòu", "pos": "tính từ", "vi": "chật, bó (quần áo); gầy", "ex": "这条裤子有点儿瘦。", "ex_vi": "Cái quần này hơi chật." },
+        { "zh": "短", "py": "duǎn", "pos": "tính từ", "vi": "ngắn", "ex": "这件衣服太短了。", "ex_vi": "Cái áo này ngắn quá." },
+        { "zh": "换", "py": "huàn", "pos": "động từ", "vi": "đổi, thay", "ex": "我想换一件大的。", "ex_vi": "Tôi muốn đổi một cái to hơn." },
+        { "zh": "肥", "py": "féi", "pos": "tính từ", "vi": "rộng, thùng thình (quần áo)", "ex": "这件衣服有点儿肥。", "ex_vi": "Cái áo này hơi rộng." },
+        { "zh": "正好", "py": "zhènghǎo", "pos": "tính từ", "vi": "vừa vặn, vừa đúng", "ex": "这件衣服大小正好。", "ex_vi": "Cái áo này vừa vặn." },
+        { "zh": "双", "py": "shuāng", "pos": "lượng từ", "vi": "đôi (giày, đũa…)", "ex": "我买了一双鞋。", "ex_vi": "Tôi đã mua một đôi giày." },
+        { "zh": "鞋", "py": "xié", "pos": "danh từ", "vi": "giày, dép", "ex": "这双鞋很舒服。", "ex_vi": "Đôi giày này rất thoải mái." },
+        { "zh": "便宜", "py": "piányi", "pos": "tính từ", "vi": "rẻ", "ex": "这儿的水果很便宜。", "ex_vi": "Trái cây ở đây rất rẻ." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（在商店里）", "vi": "(Trong cửa hàng)" },
+        { "s": "林娜", "zh": "妈妈，您看，这件上衣好看吗？", "vi": "Mẹ ơi, mẹ xem, cái áo này đẹp không?" },
+        { "s": "妈妈", "zh": "好看。", "vi": "Đẹp." },
+        { "s": "林娜", "zh": "您喜欢吗？", "vi": "Mẹ có thích không?" },
+        { "s": "妈妈", "zh": "喜欢。", "vi": "Thích." },
+        { "s": "林娜", "zh": "我觉得这个颜色您穿特别合适，您试试吧。", "vi": "Con thấy màu này mẹ mặc đặc biệt hợp, mẹ thử đi." },
+        { "s": "妈妈", "zh": "好。", "vi": "Được." },
+        { "s": "营业员", "zh": "那边有试衣间。", "vi": "Bên kia có phòng thử đồ." },
+        { "s": "林娜", "zh": "这件有点儿瘦，还有点儿短，能不能换一件肥点儿的、长点儿的？", "vi": "Cái này hơi chật, lại hơi ngắn, có thể đổi một cái rộng hơn, dài hơn không?" },
+        { "s": "营业员", "zh": "您再试试这件。", "vi": "Mời chị thử cái này." },
+        { "s": "林娜", "zh": "这件不长不短，不肥不瘦，正好。多少钱？", "vi": "Cái này không dài không ngắn, không rộng không chật, vừa đúng. Bao nhiêu tiền?" },
+        { "s": "营业员", "zh": "490块钱。", "vi": "490 tệ." },
+        { "s": "林娜", "zh": "太贵了。", "vi": "Đắt quá." },
+        { "s": "营业员", "zh": "这么好的衣服才490块，不贵。", "vi": "Áo đẹp thế này mà mới có 490 tệ, không đắt đâu." },
+        { "s": "林娜", "zh": "你看，我这双鞋又好看又舒服，才300。这件衣服当然不便宜了。", "vi": "Chị xem, đôi giày này của tôi vừa đẹp vừa thoải mái mà mới có 300. Cái áo này đương nhiên là không rẻ rồi." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "会", "py": "huì", "pos": "trợ động từ", "vi": "sẽ, có khả năng (chỉ khả năng xảy ra)", "ex": "明天会下雨。", "ex_vi": "Ngày mai sẽ mưa." },
+        { "zh": "记", "py": "jì", "pos": "động từ", "vi": "nhớ, ghi nhớ", "ex": "我记住了你的名字。", "ex_vi": "Tôi đã nhớ tên bạn." },
+        { "zh": "错", "py": "cuò", "pos": "tính từ", "vi": "sai, nhầm", "ex": "你记错了。", "ex_vi": "Bạn nhớ nhầm rồi." },
+        { "zh": "样子", "py": "yàngzi", "pos": "danh từ", "vi": "hình dáng, kiểu dáng", "ex": "这是什么样子的？", "ex_vi": "Cái này hình dáng thế nào?" },
+        { "zh": "红色", "py": "hóngsè", "pos": "danh từ", "vi": "màu đỏ", "ex": "她喜欢红色。", "ex_vi": "Cô ấy thích màu đỏ." },
+        { "zh": "红", "py": "hóng", "pos": "tính từ", "vi": "đỏ", "ex": "我的自行车是红的。", "ex_vi": "Xe đạp của tôi màu đỏ." },
+        { "zh": "旧", "py": "jiù", "pos": "tính từ", "vi": "cũ", "ex": "这是一辆旧车。", "ex_vi": "Đây là một chiếc xe cũ." },
+        { "zh": "算了", "py": "suàn le", "pos": "cụm từ", "vi": "thôi vậy, bỏ đi", "ex": "太麻烦了，算了。", "ex_vi": "Phiền quá, thôi bỏ đi." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（林娜的自行车不见了，同学们帮她找车。）", "vi": "(Xe đạp của Linna không thấy đâu, các bạn cùng lớp giúp cô ấy tìm xe.)" },
+        { "s": "崔浩", "zh": "你把自行车放在哪儿了？", "vi": "Bạn để xe đạp ở đâu?" },
+        { "s": "林娜", "zh": "我就放在这儿了。", "vi": "Tôi để ngay ở đây." },
+        { "s": "崔浩", "zh": "你不会记错吧？", "vi": "Bạn không nhớ nhầm chứ?" },
+        { "s": "林娜", "zh": "不会。", "vi": "Không đâu." },
+        { "s": "崔浩", "zh": "你的自行车是什么样子的？", "vi": "Xe đạp của bạn trông thế nào?" },
+        { "s": "林娜", "zh": "是红色的，比较大的那种。", "vi": "Màu đỏ, loại khá lớn." },
+        { "s": "马丁", "zh": "这辆自行车是你的吗？", "vi": "Chiếc xe đạp này là của bạn à?" },
+        { "s": "林娜", "zh": "不是。我的是红的，不是黄的。", "vi": "Không phải. Xe của tôi màu đỏ, không phải màu vàng." },
+        { "s": "山田", "zh": "这辆呢？", "vi": "Còn chiếc này?" },
+        { "s": "林娜", "zh": "也不是。这辆是旧的，我的是新的。算了，咱们别找了。", "vi": "Cũng không phải. Chiếc này cũ, xe của tôi là xe mới. Thôi, chúng ta đừng tìm nữa." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "绿色", "py": "lǜsè", "pos": "danh từ", "vi": "màu xanh lá", "ex": "树叶是绿色的。", "ex_vi": "Lá cây màu xanh lá." },
+    { "zh": "白色", "py": "báisè", "pos": "danh từ", "vi": "màu trắng", "ex": "她穿白色的衬衫。", "ex_vi": "Cô ấy mặc áo sơ mi màu trắng." },
+    { "zh": "紫色", "py": "zǐsè", "pos": "danh từ", "vi": "màu tím", "ex": "我喜欢紫色。", "ex_vi": "Tôi thích màu tím." },
+    { "zh": "粉色", "py": "fěnsè", "pos": "danh từ", "vi": "màu hồng", "ex": "这件上衣是粉色的。", "ex_vi": "Cái áo này màu hồng." },
+    { "zh": "T恤", "py": "tīxù", "pos": "danh từ", "vi": "áo phông", "ex": "夏天我穿T恤。", "ex_vi": "Mùa hè tôi mặc áo phông." },
+    { "zh": "裙子", "py": "qúnzi", "pos": "danh từ", "vi": "váy", "ex": "她的裙子很漂亮。", "ex_vi": "Váy của cô ấy rất đẹp." }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "number": 6, "title_zh": "香蕉多少钱一斤", "title_en": "How Much Is Half a Kilogram of Bananas", "title_vi": "Chuối bao nhiêu tiền một cân?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "想", "py": "xiǎng", "pos": "trợ động từ", "vi": "muốn, định, nghĩ", "ex": "我想学习汉语。", "ex_vi": "Tôi muốn học tiếng Trung." },
+        { "zh": "买", "py": "mǎi", "pos": "động từ", "vi": "mua", "ex": "我想买一本书。", "ex_vi": "Tôi muốn mua một quyển sách." },
+        { "zh": "电子词典", "py": "diànzǐ cídiǎn", "pos": "danh từ", "vi": "từ điển điện tử", "ex": "我有一部电子词典。", "ex_vi": "Tôi có một cái từ điển điện tử." },
+        { "zh": "电子", "py": "diànzǐ", "pos": "danh từ", "vi": "điện tử", "ex": "电子词典很方便。", "ex_vi": "Từ điển điện tử rất tiện." },
+        { "zh": "词典", "py": "cídiǎn", "pos": "danh từ", "vi": "từ điển", "ex": "这是汉语词典。", "ex_vi": "Đây là từ điển tiếng Trung." },
+        { "zh": "电脑", "py": "diànnǎo", "pos": "danh từ", "vi": "máy tính", "ex": "他想买一台电脑。", "ex_vi": "Anh ấy muốn mua một cái máy tính." },
+        { "zh": "部", "py": "bù", "pos": "lượng từ", "vi": "(lượng từ cho sách, phim, máy móc, xe…)", "ex": "一部电子词典。", "ex_vi": "Một cái từ điển điện tử." },
+        { "zh": "百", "py": "bǎi", "pos": "số từ", "vi": "trăm", "ex": "一百个学生。", "ex_vi": "Một trăm học sinh." },
+        { "zh": "块", "py": "kuài", "pos": "lượng từ", "vi": "đồng, tệ (đơn vị tiền, khẩu ngữ của 元)", "ex": "这个九块钱。", "ex_vi": "Cái này chín tệ." },
+        { "zh": "钱", "py": "qián", "pos": "danh từ", "vi": "tiền", "ex": "这个多少钱？", "ex_vi": "Cái này bao nhiêu tiền?" },
+        { "zh": "台", "py": "tái", "pos": "lượng từ", "vi": "(lượng từ cho máy móc, thiết bị)", "ex": "一台电脑。", "ex_vi": "Một cái máy tính." },
+        { "zh": "千", "py": "qiān", "pos": "số từ", "vi": "nghìn", "ex": "一千块钱。", "ex_vi": "Một nghìn tệ." },
+        { "zh": "一共", "py": "yígòng", "pos": "phó từ", "vi": "tổng cộng, tất cả", "ex": "一共九块钱。", "ex_vi": "Tổng cộng chín tệ." },
+        { "zh": "需要", "py": "xūyào", "pos": "động từ", "vi": "cần, cần phải", "ex": "我需要一台电脑。", "ex_vi": "Tôi cần một cái máy tính." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "马丁想买电子词典和电脑。一部电子词典七百八十块钱，一台电脑五千九百块钱，一共需要六千六百八十块钱。", "vi": "Martin muốn mua từ điển điện tử và máy tính. Một cái từ điển điện tử giá 780 tệ, một cái máy tính giá 5.900 tệ, tổng cộng cần 6.680 tệ." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "营业员", "py": "yíngyèyuán", "pos": "danh từ", "vi": "nhân viên bán hàng", "ex": "她是商店的营业员。", "ex_vi": "Cô ấy là nhân viên bán hàng của cửa hàng." },
+        { "zh": "要", "py": "yào", "pos": "động từ", "vi": "muốn, cần, lấy", "ex": "我要一个面包。", "ex_vi": "Tôi lấy một cái bánh mì." },
+        { "zh": "面包", "py": "miànbāo", "pos": "danh từ", "vi": "bánh mì", "ex": "我早上吃面包。", "ex_vi": "Buổi sáng tôi ăn bánh mì." },
+        { "zh": "种", "py": "zhǒng", "pos": "lượng từ", "vi": "loại, thứ, kiểu", "ex": "你要哪种？", "ex_vi": "Bạn lấy loại nào?" },
+        { "zh": "这", "py": "zhè", "pos": "đại từ", "vi": "này, đây", "ex": "这是我的书。", "ex_vi": "Đây là sách của tôi." },
+        { "zh": "谢谢", "py": "xièxie", "pos": "động từ", "vi": "cảm ơn", "ex": "谢谢你！", "ex_vi": "Cảm ơn bạn!" },
+        { "zh": "不客气", "py": "bú kèqi", "pos": "cụm từ", "vi": "không có gì, đừng khách sáo", "ex": "A：谢谢！B：不客气！", "ex_vi": "A: Cảm ơn! B: Không có gì!" },
+        { "zh": "客气", "py": "kèqi", "pos": "tính từ", "vi": "khách sáo, lịch sự", "ex": "你太客气了。", "ex_vi": "Bạn khách sáo quá." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（马丁在面包店。）", "vi": "(Martin ở tiệm bánh mì.)" },
+        { "s": "营业员", "zh": "你好！请问，你要什么？", "vi": "Xin chào! Cho hỏi, bạn muốn mua gì?" },
+        { "s": "马丁", "zh": "我要一个面包。", "vi": "Tôi lấy một cái bánh mì." },
+        { "s": "营业员", "zh": "你要哪种？", "vi": "Bạn lấy loại nào?" },
+        { "s": "马丁", "zh": "我要这种，这种多少钱一个？", "vi": "Tôi lấy loại này, loại này bao nhiêu tiền một cái?" },
+        { "s": "营业员", "zh": "这种四块五一个。", "vi": "Loại này bốn tệ rưỡi một cái." },
+        { "s": "马丁", "zh": "我要两个。", "vi": "Tôi lấy hai cái." },
+        { "s": "营业员", "zh": "一共九块。", "vi": "Tổng cộng chín tệ." },
+        { "s": "马丁", "zh": "谢谢！", "vi": "Cảm ơn!" },
+        { "s": "营业员", "zh": "不客气！", "vi": "Không có gì!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "香蕉", "py": "xiāngjiāo", "pos": "danh từ", "vi": "chuối", "ex": "我喜欢吃香蕉。", "ex_vi": "Tôi thích ăn chuối." },
+        { "zh": "斤", "py": "jīn", "pos": "lượng từ", "vi": "cân (nửa ký, = 500 g)", "ex": "我买两斤苹果。", "ex_vi": "Tôi mua hai cân táo." },
+        { "zh": "苹果", "py": "píngguǒ", "pos": "danh từ", "vi": "táo", "ex": "苹果三块五一斤。", "ex_vi": "Táo ba tệ rưỡi một cân." },
+        { "zh": "再", "py": "zài", "pos": "phó từ", "vi": "lại, nữa, thêm", "ex": "再买一斤。", "ex_vi": "Mua thêm một cân nữa." },
+        { "zh": "毛", "py": "máo", "pos": "lượng từ", "vi": "hào (1/10 đồng, khẩu ngữ của 角)", "ex": "三块五毛。", "ex_vi": "Ba tệ năm hào." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（马丁在市场。）", "vi": "(Martin ở chợ.)" },
+        { "s": "马丁", "zh": "请问，香蕉多少钱一斤？", "vi": "Xin hỏi, chuối bao nhiêu tiền một cân?" },
+        { "s": "营业员", "zh": "一块八一斤。", "vi": "Một tệ tám một cân." },
+        { "s": "马丁", "zh": "苹果呢？", "vi": "Còn táo thì sao?" },
+        { "s": "营业员", "zh": "三块五一斤。您买多少？", "vi": "Ba tệ rưỡi một cân. Ông mua bao nhiêu?" },
+        { "s": "马丁", "zh": "我买四斤香蕉，再买三斤苹果。一共多少钱？", "vi": "Tôi mua bốn cân chuối, mua thêm ba cân táo. Tổng cộng bao nhiêu tiền?" },
+        { "s": "营业员", "zh": "一共十七块七（毛）。", "vi": "Tổng cộng mười bảy tệ bảy (hào)." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "书", "py": "shū", "pos": "danh từ", "vi": "sách (lượng từ thường dùng: 本)", "ex": "我买一本书。", "ex_vi": "Tôi mua một quyển sách." },
+    { "zh": "手机", "py": "shǒujī", "pos": "danh từ", "vi": "điện thoại di động (lượng từ: 个, 部)", "ex": "他有一部新手机。", "ex_vi": "Anh ấy có một chiếc điện thoại mới." },
+    { "zh": "咖啡", "py": "kāfēi", "pos": "danh từ", "vi": "cà phê (lượng từ: 杯)", "ex": "我要一杯咖啡。", "ex_vi": "Tôi lấy một ly cà phê." },
+    { "zh": "牛奶", "py": "niúnǎi", "pos": "danh từ", "vi": "sữa bò (lượng từ: 袋, 盒)", "ex": "我早上喝一盒牛奶。", "ex_vi": "Buổi sáng tôi uống một hộp sữa." },
+    { "zh": "啤酒", "py": "píjiǔ", "pos": "danh từ", "vi": "bia (lượng từ: 瓶)", "ex": "他喝一瓶啤酒。", "ex_vi": "Anh ấy uống một chai bia." },
+    { "zh": "矿泉水", "py": "kuàngquánshuǐ", "pos": "danh từ", "vi": "nước khoáng (lượng từ: 瓶)", "ex": "我要一瓶矿泉水。", "ex_vi": "Tôi lấy một chai nước khoáng." },
+    { "zh": "可乐", "py": "kělè", "pos": "danh từ", "vi": "cô-ca, nước ngọt có ga (lượng từ: 瓶)", "ex": "她喝一瓶可乐。", "ex_vi": "Cô ấy uống một chai cô-ca." },
+    { "zh": "草莓", "py": "cǎoméi", "pos": "danh từ", "vi": "dâu tây (lượng từ: 斤, 公斤)", "ex": "草莓多少钱一斤？", "ex_vi": "Dâu tây bao nhiêu tiền một cân?" },
+    { "zh": "西瓜", "py": "xīguā", "pos": "danh từ", "vi": "dưa hấu (lượng từ: 斤, 公斤)", "ex": "西瓜怎么卖？", "ex_vi": "Dưa hấu bán thế nào?" },
+    { "zh": "橘子", "py": "júzi", "pos": "danh từ", "vi": "quýt, cam (lượng từ: 斤, 公斤)", "ex": "我买两斤橘子。", "ex_vi": "Tôi mua hai cân quýt." },
+    { "zh": "本", "py": "běn", "pos": "lượng từ", "vi": "quyển, cuốn (cho sách vở)", "ex": "一本汉语书。", "ex_vi": "Một quyển sách tiếng Trung." },
+    { "zh": "杯", "py": "bēi", "pos": "lượng từ", "vi": "ly, cốc", "ex": "两杯茶。", "ex_vi": "Hai ly trà." },
+    { "zh": "袋", "py": "dài", "pos": "lượng từ", "vi": "túi, bịch", "ex": "一袋牛奶。", "ex_vi": "Một bịch sữa." },
+    { "zh": "盒", "py": "hé", "pos": "lượng từ", "vi": "hộp", "ex": "一盒牛奶。", "ex_vi": "Một hộp sữa." },
+    { "zh": "瓶", "py": "píng", "pos": "lượng từ", "vi": "chai, lọ, bình", "ex": "一瓶可乐。", "ex_vi": "Một chai cô-ca." },
+    { "zh": "公斤", "py": "gōngjīn", "pos": "lượng từ", "vi": "ki-lô-gam, ký (= 2 斤)", "ex": "一公斤苹果。", "ex_vi": "Một ký táo." }
+  ]
+}

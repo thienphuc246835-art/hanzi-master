@@ -1,0 +1,83 @@
+{
+  "number": 13, "title_zh": "我已经搬家了", "title_en": "I Have Moved to a New Place", "title_vi": "Tôi đã chuyển nhà rồi",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "租", "py": "zū", "pos": "động từ", "vi": "thuê, cho thuê", "ex": "我想租一套房子。", "ex_vi": "Tôi muốn thuê một căn nhà." },
+        { "zh": "套", "py": "tào", "pos": "lượng từ", "vi": "bộ, căn (cho nhà, bộ sách, bộ đồ)", "ex": "他有两套房子。", "ex_vi": "Anh ấy có hai căn nhà." },
+        { "zh": "房子", "py": "fángzi", "pos": "danh từ", "vi": "nhà, căn nhà", "ex": "这套房子很大。", "ex_vi": "Căn nhà này rất rộng." },
+        { "zh": "上", "py": "shàng", "pos": "danh từ", "vi": "trước, vừa rồi (上星期 = tuần trước)", "ex": "上星期我去了北京。", "ex_vi": "Tuần trước tôi đã đi Bắc Kinh." },
+        { "zh": "了", "py": "le", "pos": "trợ từ", "vi": "rồi, đã (cuối câu, chỉ việc đã xảy ra hoặc có thay đổi)", "ex": "我吃早饭了。", "ex_vi": "Tôi ăn sáng rồi." },
+        { "zh": "那", "py": "nà", "pos": "đại từ", "vi": "kia, đó", "ex": "那是我的书。", "ex_vi": "Kia là sách của tôi." },
+        { "zh": "旁边", "py": "pángbiān", "pos": "danh từ", "vi": "bên cạnh", "ex": "银行在超市旁边。", "ex_vi": "Ngân hàng ở bên cạnh siêu thị." },
+        { "zh": "方便", "py": "fāngbiàn", "pos": "tính từ", "vi": "thuận tiện, tiện lợi", "ex": "这儿买东西很方便。", "ex_vi": "Ở đây mua đồ rất tiện." },
+        { "zh": "大", "py": "dà", "pos": "tính từ", "vi": "to, lớn, rộng", "ex": "这个房间很大。", "ex_vi": "Căn phòng này rất rộng." },
+        { "zh": "房租", "py": "fángzū", "pos": "danh từ", "vi": "tiền thuê nhà", "ex": "房租不太贵。", "ex_vi": "Tiền thuê nhà không đắt lắm." },
+        { "zh": "贵", "py": "guì", "pos": "tính từ", "vi": "đắt", "ex": "这个太贵了。", "ex_vi": "Cái này đắt quá." },
+        { "zh": "每", "py": "měi", "pos": "đại từ", "vi": "mỗi, mỗi một", "ex": "每个月我去一次北京。", "ex_vi": "Mỗi tháng tôi đi Bắc Kinh một lần." },
+        { "zh": "最后", "py": "zuìhòu", "pos": "danh từ", "vi": "cuối cùng, sau cùng", "ex": "最后他买了那本书。", "ex_vi": "Cuối cùng anh ấy đã mua quyển sách đó." },
+        { "zh": "又", "py": "yòu", "pos": "phó từ", "vi": "lại, lại lần nữa (việc đã xảy ra)", "ex": "他昨天来了，今天又来了。", "ex_vi": "Hôm qua anh ấy đến, hôm nay lại đến." },
+        { "zh": "满意", "py": "mǎnyì", "pos": "động từ", "vi": "hài lòng, vừa ý", "ex": "我对这个房间很满意。", "ex_vi": "Tôi rất hài lòng với căn phòng này." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "山田想租一套房子，他上星期六去看房子了。那套房子在学校旁边，去学校很方便，买东西也很方便。可是，他觉得房子太大，房租也太贵，每个月需要4500块钱。最后他没租。这个星期一，他又去看房子了，他对这套房子很满意。", "vi": "Yamada muốn thuê một căn nhà, thứ bảy tuần trước anh ấy đã đi xem nhà. Căn nhà đó nằm bên cạnh trường, đến trường rất tiện, mua đồ cũng rất tiện. Nhưng anh ấy thấy căn nhà quá rộng, tiền thuê cũng quá đắt, mỗi tháng cần 4.500 tệ. Cuối cùng anh ấy không thuê. Thứ hai tuần này, anh ấy lại đi xem một căn nhà, và rất hài lòng với căn nhà này." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "搬家", "py": "bān jiā", "pos": "động từ", "vi": "chuyển nhà", "ex": "我们明天搬家。", "ex_vi": "Ngày mai chúng tôi chuyển nhà." },
+        { "zh": "已经", "py": "yǐjīng", "pos": "phó từ", "vi": "đã, đã … rồi", "ex": "他已经起床了。", "ex_vi": "Anh ấy đã dậy rồi." },
+        { "zh": "不错", "py": "búcuò", "pos": "tính từ", "vi": "không tồi, khá tốt", "ex": "这个电影不错。", "ex_vi": "Bộ phim này khá hay." },
+        { "zh": "离", "py": "lí", "pos": "giới từ", "vi": "cách (khoảng cách giữa hai nơi)", "ex": "我家离学校很近。", "ex_vi": "Nhà tôi cách trường rất gần." },
+        { "zh": "远", "py": "yuǎn", "pos": "tính từ", "vi": "xa", "ex": "银行离这儿不远。", "ex_vi": "Ngân hàng cách đây không xa." },
+        { "zh": "走", "py": "zǒu", "pos": "động từ", "vi": "đi, đi bộ", "ex": "我走路去学校。", "ex_vi": "Tôi đi bộ đến trường." },
+        { "zh": "路", "py": "lù", "pos": "danh từ", "vi": "đường", "ex": "这条路很长。", "ex_vi": "Con đường này rất dài." },
+        { "zh": "行", "py": "xíng", "pos": "động từ", "vi": "được, ổn", "ex": "明天去，行吗？", "ex_vi": "Ngày mai đi, được không?" }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "马丁", "zh": "听说你星期一又去看房子了，什么时候搬家啊？", "vi": "Nghe nói thứ hai bạn lại đi xem nhà, khi nào chuyển nhà vậy?" },
+        { "s": "山田", "zh": "我已经搬家了。", "vi": "Tôi đã chuyển nhà rồi." },
+        { "s": "马丁", "zh": "这套房子怎么样？", "vi": "Căn nhà này thế nào?" },
+        { "s": "山田", "zh": "不错。", "vi": "Khá tốt." },
+        { "s": "马丁", "zh": "房租贵不贵？", "vi": "Tiền thuê nhà có đắt không?" },
+        { "s": "山田", "zh": "不太贵。", "vi": "Không đắt lắm." },
+        { "s": "马丁", "zh": "离学校远吗？", "vi": "Có xa trường không?" },
+        { "s": "山田", "zh": "不远，骑自行车、走路都行。有时间请你们去喝茶。", "vi": "Không xa, đi xe đạp hay đi bộ đều được. Có thời gian mời các bạn đến uống trà." },
+        { "s": "马丁", "zh": "好啊！", "vi": "Được chứ!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "没有", "py": "méiyǒu", "pos": "phó từ", "vi": "chưa, không (phủ định việc đã xảy ra)", "ex": "我还没有吃饭。", "ex_vi": "Tôi vẫn chưa ăn cơm." },
+        { "zh": "昨天", "py": "zuótiān", "pos": "danh từ", "vi": "hôm qua", "ex": "昨天我去超市了。", "ex_vi": "Hôm qua tôi đã đi siêu thị." },
+        { "zh": "请客", "py": "qǐng kè", "pos": "động từ", "vi": "mời khách, đãi khách", "ex": "今天我请客。", "ex_vi": "Hôm nay tôi mời." },
+        { "zh": "怎么", "py": "zěnme", "pos": "đại từ", "vi": "sao, thế nào (hỏi nguyên nhân hoặc cách thức)", "ex": "你怎么不去？", "ex_vi": "Sao bạn không đi?" },
+        { "zh": "父母", "py": "fùmǔ", "pos": "danh từ", "vi": "cha mẹ, bố mẹ", "ex": "我父母在中国。", "ex_vi": "Bố mẹ tôi ở Trung Quốc." },
+        { "zh": "来", "py": "lái", "pos": "động từ", "vi": "đến, tới", "ex": "他明天来我家。", "ex_vi": "Ngày mai anh ấy đến nhà tôi." },
+        { "zh": "玩儿", "py": "wánr", "pos": "động từ", "vi": "chơi, đi chơi", "ex": "我们去公园玩儿。", "ex_vi": "Chúng ta đi công viên chơi." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（在食堂）", "vi": "(Ở căng tin)" },
+        { "s": "崔浩", "zh": "你吃早饭了吗？", "vi": "Bạn ăn sáng chưa?" },
+        { "s": "马丁", "zh": "没有。你呢？", "vi": "Chưa. Còn bạn?" },
+        { "s": "崔浩", "zh": "我也没吃，我们一起吃吧。", "vi": "Tôi cũng chưa ăn, chúng ta cùng ăn nhé." },
+        { "s": "马丁", "zh": "山田搬家了。他昨天请客，你怎么没去？", "vi": "Yamada chuyển nhà rồi. Hôm qua cậu ấy mời khách, sao bạn không đi?" },
+        { "s": "崔浩", "zh": "我父母来了，我们昨天去玩儿了。", "vi": "Bố mẹ tôi đến rồi, hôm qua chúng tôi đi chơi." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "生病", "py": "shēng bìng", "pos": "động từ", "vi": "bị bệnh, ốm", "ex": "他昨天生病了。", "ex_vi": "Hôm qua anh ấy bị ốm." },
+    { "zh": "感冒", "py": "gǎnmào", "pos": "động từ", "vi": "cảm, bị cảm lạnh", "ex": "我感冒了。", "ex_vi": "Tôi bị cảm rồi." },
+    { "zh": "写汉字", "py": "xiě Hànzì", "pos": "động từ", "vi": "viết chữ Hán", "ex": "我每天写汉字。", "ex_vi": "Mỗi ngày tôi viết chữ Hán." },
+    { "zh": "念课文", "py": "niàn kèwén", "pos": "động từ", "vi": "đọc bài khóa", "ex": "老师请我们念课文。", "ex_vi": "Thầy/cô mời chúng tôi đọc bài khóa." },
+    { "zh": "做练习", "py": "zuò liànxí", "pos": "động từ", "vi": "làm bài tập", "ex": "我晚上做练习。", "ex_vi": "Buổi tối tôi làm bài tập." },
+    { "zh": "换钱", "py": "huàn qián", "pos": "động từ", "vi": "đổi tiền", "ex": "我去银行换钱。", "ex_vi": "Tôi đến ngân hàng đổi tiền." }
+  ]
+}

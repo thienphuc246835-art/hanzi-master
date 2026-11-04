@@ -1,0 +1,71 @@
+{
+  "number": 3, "title_zh": "你叫什么名字", "title_en": "What's Your Name", "title_vi": "Bạn tên là gì?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "请问", "py": "qǐngwèn", "pos": "động từ", "vi": "xin hỏi, cho hỏi", "ex": "请问，你叫什么名字？", "ex_vi": "Xin hỏi, bạn tên là gì?" },
+        { "zh": "请", "py": "qǐng", "pos": "động từ", "vi": "mời, xin, làm ơn", "ex": "请坐。", "ex_vi": "Mời ngồi." },
+        { "zh": "问", "py": "wèn", "pos": "động từ", "vi": "hỏi", "ex": "我想问你一个问题。", "ex_vi": "Tôi muốn hỏi bạn một câu." },
+        { "zh": "叫", "py": "jiào", "pos": "động từ", "vi": "gọi, tên là", "ex": "我叫马丁。", "ex_vi": "Tôi tên là Martin." },
+        { "zh": "什么", "py": "shénme", "pos": "đại từ", "vi": "gì, cái gì", "ex": "你叫什么名字？", "ex_vi": "Bạn tên là gì?" },
+        { "zh": "名字", "py": "míngzi", "pos": "danh từ", "vi": "tên (tên riêng, tên gọi)", "ex": "我的名字是林娜。", "ex_vi": "Tên của tôi là Linna." },
+        { "zh": "姓", "py": "xìng", "pos": "động từ", "vi": "mang họ, họ là", "ex": "我姓王。", "ex_vi": "Tôi họ Vương." },
+        { "zh": "认识", "py": "rènshi", "pos": "động từ", "vi": "quen biết, biết (người)", "ex": "我认识他。", "ex_vi": "Tôi quen anh ấy." },
+        { "zh": "很", "py": "hěn", "pos": "phó từ", "vi": "rất", "ex": "我很好。", "ex_vi": "Tôi rất khỏe." },
+        { "zh": "高兴", "py": "gāoxìng", "pos": "tính từ", "vi": "vui, vui mừng", "ex": "认识你，我很高兴。", "ex_vi": "Quen biết bạn, tôi rất vui." },
+        { "zh": "也", "py": "yě", "pos": "phó từ", "vi": "cũng", "ex": "我也是学生。", "ex_vi": "Tôi cũng là sinh viên." }
+      ],
+      "names": [
+        { "zh": "山田佑", "py": "Shāntián Yòu", "vi": "Yamada Yu, sinh viên Nhật Bản" }
+      ],
+      "lines": [
+        { "s": "山田", "zh": "你好！请问，你叫什么名字？", "vi": "Xin chào! Cho hỏi, bạn tên là gì?" },
+        { "s": "林娜", "zh": "我叫林娜。你呢？", "vi": "Tôi tên Linna. Còn bạn?" },
+        { "s": "山田", "zh": "我叫山田佑，姓山田。认识你很高兴。", "vi": "Tôi tên Yamada Yu, họ Yamada. Rất vui được quen bạn." },
+        { "s": "林娜", "zh": "认识你我也很高兴。", "vi": "Tôi cũng rất vui được quen bạn." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "老师", "py": "lǎoshī", "pos": "danh từ", "vi": "thầy giáo, cô giáo", "ex": "李老师是中国人。", "ex_vi": "Thầy Lý là người Trung Quốc." },
+        { "zh": "贵姓", "py": "guìxìng", "pos": "danh từ", "vi": "quý danh, quý họ (cách hỏi họ lịch sự)", "ex": "您贵姓？", "ex_vi": "Ngài họ gì ạ?" }
+      ],
+      "names": [
+        { "zh": "李", "py": "Lǐ", "vi": "Lý (một họ phổ biến ở Trung Quốc)" }
+      ],
+      "lines": [
+        { "s": "马丁", "zh": "老师，您贵姓？", "vi": "Thưa thầy, thầy họ gì ạ?" },
+        { "s": "李一民", "zh": "我姓李。", "vi": "Tôi họ Lý." },
+        { "s": "马丁", "zh": "李老师，您好！", "vi": "Chào thầy Lý ạ!" },
+        { "s": "李一民", "zh": "你好！你叫什么名字？", "vi": "Chào em! Em tên là gì?" },
+        { "s": "马丁", "zh": "我叫马丁。", "vi": "Em tên là Martin." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "六", "py": "liù", "pos": "số từ", "vi": "sáu", "ex": "六和七。", "ex_vi": "Sáu và bảy." },
+        { "zh": "七", "py": "qī", "pos": "số từ", "vi": "bảy", "ex": "七和九。", "ex_vi": "Bảy và chín." },
+        { "zh": "九", "py": "jiǔ", "pos": "số từ", "vi": "chín", "ex": "六，七，九。", "ex_vi": "Sáu, bảy, chín." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "六　七　九", "vi": "Học số: 6 · 7 · 9" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "李", "py": "Lǐ", "pos": "họ", "vi": "họ Lý", "ex": "他姓李。", "ex_vi": "Anh ấy họ Lý." },
+    { "zh": "王", "py": "Wáng", "pos": "họ", "vi": "họ Vương", "ex": "我姓王。", "ex_vi": "Tôi họ Vương." },
+    { "zh": "张", "py": "Zhāng", "pos": "họ", "vi": "họ Trương", "ex": "她姓张。", "ex_vi": "Cô ấy họ Trương." },
+    { "zh": "刘", "py": "Liú", "pos": "họ", "vi": "họ Lưu", "ex": "他姓刘。", "ex_vi": "Anh ấy họ Lưu." },
+    { "zh": "赵", "py": "Zhào", "pos": "họ", "vi": "họ Triệu", "ex": "他姓赵。", "ex_vi": "Anh ấy họ Triệu." },
+    { "zh": "马", "py": "Mǎ", "pos": "họ", "vi": "họ Mã", "ex": "她姓马。", "ex_vi": "Cô ấy họ Mã." },
+    { "zh": "陈", "py": "Chén", "pos": "họ", "vi": "họ Trần", "ex": "他姓陈。", "ex_vi": "Anh ấy họ Trần." },
+    { "zh": "孙", "py": "Sūn", "pos": "họ", "vi": "họ Tôn", "ex": "她姓孙。", "ex_vi": "Cô ấy họ Tôn." },
+    { "zh": "黄", "py": "Huáng", "pos": "họ", "vi": "họ Hoàng", "ex": "他姓黄。", "ex_vi": "Anh ấy họ Hoàng." },
+    { "zh": "高", "py": "Gāo", "pos": "họ", "vi": "họ Cao", "ex": "她姓高。", "ex_vi": "Cô ấy họ Cao." }
+  ]
+}

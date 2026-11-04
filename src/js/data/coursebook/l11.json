@@ -1,0 +1,89 @@
+{
+  "number": 11, "title_zh": "我在学校食堂吃饭", "title_en": "I Eat at the School Canteen", "title_vi": "Tôi ăn cơm ở căng tin trường",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "同屋", "py": "tóngwū", "pos": "danh từ", "vi": "bạn cùng phòng", "ex": "我的同屋是中国人。", "ex_vi": "Bạn cùng phòng của tôi là người Trung Quốc." },
+        { "zh": "在", "py": "zài", "pos": "giới từ", "vi": "ở, tại (đứng trước nơi chốn, trước động từ)", "ex": "我在学校吃饭。", "ex_vi": "Tôi ăn cơm ở trường." },
+        { "zh": "家", "py": "jiā", "pos": "lượng từ", "vi": "(lượng từ cho gia đình, công ty, cửa hàng…)", "ex": "那儿有一家饭馆。", "ex_vi": "Ở đó có một quán ăn." },
+        { "zh": "汽车", "py": "qìchē", "pos": "danh từ", "vi": "ô tô, xe hơi", "ex": "他有一辆汽车。", "ex_vi": "Anh ấy có một chiếc ô tô." },
+        { "zh": "公司", "py": "gōngsī", "pos": "danh từ", "vi": "công ty", "ex": "他在公司工作。", "ex_vi": "Anh ấy làm việc ở công ty." },
+        { "zh": "工作", "py": "gōngzuò", "pos": "động từ", "vi": "làm việc", "ex": "我爸爸在银行工作。", "ex_vi": "Bố tôi làm việc ở ngân hàng." },
+        { "zh": "从……到……", "py": "cóng…dào…", "pos": "cấu trúc", "vi": "từ … đến …", "ex": "从八点到十一点半，我有课。", "ex_vi": "Từ tám giờ đến mười một giờ rưỡi, tôi có tiết." },
+        { "zh": "从", "py": "cóng", "pos": "giới từ", "vi": "từ (điểm bắt đầu về thời gian, nơi chốn)", "ex": "从这儿去银行很近。", "ex_vi": "Từ đây đến ngân hàng rất gần." },
+        { "zh": "到", "py": "dào", "pos": "động từ", "vi": "đến, tới", "ex": "我们到学校了。", "ex_vi": "Chúng tôi đến trường rồi." },
+        { "zh": "上班", "py": "shàng bān", "pos": "động từ", "vi": "đi làm", "ex": "他每天八点上班。", "ex_vi": "Mỗi ngày anh ấy đi làm lúc tám giờ." },
+        { "zh": "周末", "py": "zhōumò", "pos": "danh từ", "vi": "cuối tuần", "ex": "周末你去哪儿？", "ex_vi": "Cuối tuần bạn đi đâu?" },
+        { "zh": "平时", "py": "píngshí", "pos": "danh từ", "vi": "ngày thường, bình thường", "ex": "平时我在食堂吃饭。", "ex_vi": "Ngày thường tôi ăn ở căng tin." },
+        { "zh": "学校", "py": "xuéxiào", "pos": "danh từ", "vi": "trường học", "ex": "我们学校很大。", "ex_vi": "Trường chúng tôi rất lớn." },
+        { "zh": "食堂", "py": "shítáng", "pos": "danh từ", "vi": "nhà ăn, căng tin", "ex": "食堂的菜很便宜。", "ex_vi": "Đồ ăn ở căng tin rất rẻ." },
+        { "zh": "……的时候", "py": "…de shíhou", "pos": "cấu trúc", "vi": "khi …, lúc …", "ex": "休息的时候，我听音乐。", "ex_vi": "Lúc nghỉ ngơi, tôi nghe nhạc." },
+        { "zh": "时候", "py": "shíhou", "pos": "danh từ", "vi": "lúc, khi, thời điểm", "ex": "你什么时候去？", "ex_vi": "Khi nào bạn đi?" },
+        { "zh": "做饭", "py": "zuò fàn", "pos": "động từ", "vi": "nấu cơm, nấu ăn", "ex": "我在家做饭。", "ex_vi": "Tôi nấu cơm ở nhà." },
+        { "zh": "菜", "py": "cài", "pos": "danh từ", "vi": "món ăn, rau", "ex": "我喜欢中国菜。", "ex_vi": "Tôi thích món ăn Trung Quốc." },
+        { "zh": "聊天儿", "py": "liáo tiānr", "pos": "động từ", "vi": "trò chuyện, tán gẫu", "ex": "我们一起聊天儿。", "ex_vi": "Chúng tôi cùng nhau trò chuyện." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "我的同屋是中国人，他在一家汽车公司工作。他每天都很忙，从早上八点到下午五点都在公司上班，有时候周末也去上班。平时我在学校食堂吃饭，他也不在家吃饭。休息的时候，我们在家做饭。我做韩国菜，他做中国菜，我们一起吃饭聊天儿。", "vi": "Bạn cùng phòng của tôi là người Trung Quốc, anh ấy làm việc ở một công ty ô tô. Mỗi ngày anh ấy đều rất bận, từ tám giờ sáng đến năm giờ chiều đều làm việc ở công ty, đôi khi cuối tuần cũng đi làm. Ngày thường tôi ăn ở căng tin trường, anh ấy cũng không ăn ở nhà. Lúc nghỉ ngơi, chúng tôi nấu ăn ở nhà. Tôi nấu món Hàn Quốc, anh ấy nấu món Trung Quốc, chúng tôi cùng ăn cơm và trò chuyện." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "晚饭", "py": "wǎnfàn", "pos": "danh từ", "vi": "bữa tối", "ex": "我们在家吃晚饭。", "ex_vi": "Chúng tôi ăn tối ở nhà." },
+        { "zh": "手机", "py": "shǒujī", "pos": "danh từ", "vi": "điện thoại di động", "ex": "我的手机在书包里。", "ex_vi": "Điện thoại của tôi ở trong cặp." },
+        { "zh": "号码", "py": "hàomǎ", "pos": "danh từ", "vi": "số (số điện thoại, số phòng…)", "ex": "你的手机号码是多少？", "ex_vi": "Số điện thoại của bạn là bao nhiêu?" },
+        { "zh": "不用", "py": "búyòng", "pos": "phó từ", "vi": "không cần, khỏi phải", "ex": "你不用来。", "ex_vi": "Bạn không cần đến." },
+        { "zh": "用", "py": "yòng", "pos": "động từ", "vi": "dùng, cần (hay dùng ở dạng phủ định)", "ex": "我用电脑学习汉语。", "ex_vi": "Tôi dùng máy tính để học tiếng Trung." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（山田给崔浩打电话，崔浩的同屋王朋接电话。）", "vi": "(Yamada gọi điện cho Thôi Hạo, bạn cùng phòng của Thôi Hạo là Vương Bằng nghe máy.)" },
+        { "s": "王朋", "zh": "你好！请问你找谁？", "vi": "Xin chào! Xin hỏi bạn tìm ai?" },
+        { "s": "山田", "zh": "你好！我是崔浩的同学。崔浩在吗？", "vi": "Xin chào! Tôi là bạn học của Thôi Hạo. Thôi Hạo có ở đó không?" },
+        { "s": "王朋", "zh": "他不在。现在他在朋友家吃晚饭。", "vi": "Cậu ấy không có ở đây. Bây giờ cậu ấy đang ăn tối ở nhà bạn." },
+        { "s": "山田", "zh": "他的手机号码是多少，你知道吗？", "vi": "Số điện thoại di động của cậu ấy là bao nhiêu, bạn có biết không?" },
+        { "s": "王朋", "zh": "知道，号码是：13261231948。", "vi": "Biết, số là: 13261231948." },
+        { "s": "山田", "zh": "谢谢你！", "vi": "Cảm ơn bạn!" },
+        { "s": "王朋", "zh": "不用谢。", "vi": "Không cần cảm ơn." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "干", "py": "gàn", "pos": "động từ", "vi": "làm (khẩu ngữ, như 做)", "ex": "你周末干什么？", "ex_vi": "Cuối tuần bạn làm gì?" },
+        { "zh": "宿舍", "py": "sùshè", "pos": "danh từ", "vi": "ký túc xá", "ex": "我在宿舍上网。", "ex_vi": "Tôi lên mạng ở ký túc xá." },
+        { "zh": "画", "py": "huà", "pos": "động từ", "vi": "vẽ", "ex": "她喜欢画画儿。", "ex_vi": "Cô ấy thích vẽ tranh." },
+        { "zh": "画儿", "py": "huàr", "pos": "danh từ", "vi": "tranh, bức vẽ", "ex": "墙上有一张画儿。", "ex_vi": "Trên tường có một bức tranh." },
+        { "zh": "喜欢", "py": "xǐhuan", "pos": "động từ", "vi": "thích, yêu thích", "ex": "我喜欢听音乐。", "ex_vi": "Tôi thích nghe nhạc." },
+        { "zh": "中国画", "py": "zhōngguóhuà", "pos": "danh từ", "vi": "tranh Trung Quốc (quốc họa)", "ex": "我想学习中国画。", "ex_vi": "Tôi muốn học vẽ tranh Trung Quốc." },
+        { "zh": "一般", "py": "yìbān", "pos": "tính từ", "vi": "thông thường, nói chung", "ex": "我一般七点起床。", "ex_vi": "Thường thì tôi dậy lúc bảy giờ." },
+        { "zh": "听", "py": "tīng", "pos": "động từ", "vi": "nghe", "ex": "我晚上听音乐。", "ex_vi": "Buổi tối tôi nghe nhạc." },
+        { "zh": "音乐", "py": "yīnyuè", "pos": "danh từ", "vi": "âm nhạc", "ex": "你喜欢什么音乐？", "ex_vi": "Bạn thích loại nhạc nào?" },
+        { "zh": "东西", "py": "dōngxi", "pos": "danh từ", "vi": "đồ, đồ đạc, thứ", "ex": "我去超市买东西。", "ex_vi": "Tôi đi siêu thị mua đồ." },
+        { "zh": "一块儿", "py": "yíkuàir", "pos": "phó từ", "vi": "cùng nhau, cùng một chỗ", "ex": "我们一块儿去吧。", "ex_vi": "Chúng ta cùng đi nhé." },
+        { "zh": "收拾", "py": "shōushi", "pos": "động từ", "vi": "dọn dẹp, thu dọn, sắp xếp", "ex": "我收拾房间。", "ex_vi": "Tôi dọn dẹp phòng." },
+        { "zh": "房间", "py": "fángjiān", "pos": "danh từ", "vi": "phòng, căn phòng", "ex": "我的房间很小。", "ex_vi": "Phòng của tôi rất nhỏ." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（下课以后，阿明和马丁、林娜一起聊天儿。）", "vi": "(Sau khi tan học, A Minh cùng Martin và Linna trò chuyện.)" },
+        { "s": "阿明", "zh": "今天星期五，周末你们都干什么？", "vi": "Hôm nay thứ sáu, cuối tuần các bạn đều làm gì?" },
+        { "s": "马丁", "zh": "没事的时候，我在宿舍上网。", "vi": "Khi không có việc gì, tôi lên mạng ở ký túc xá." },
+        { "s": "林娜", "zh": "我在一个学校学习画画儿。", "vi": "Tôi học vẽ tranh ở một trường." },
+        { "s": "阿明", "zh": "你学习中国画吗？", "vi": "Bạn học tranh Trung Quốc à?" },
+        { "s": "林娜", "zh": "对，我喜欢中国画。你们周末干什么？", "vi": "Đúng, tôi thích tranh Trung Quốc. Cuối tuần các bạn làm gì?" },
+        { "s": "阿明", "zh": "我一般在家看书、听音乐，有时候也去超市买东西。", "vi": "Tôi thường ở nhà đọc sách, nghe nhạc, đôi khi cũng đi siêu thị mua đồ." },
+        { "s": "崔浩", "zh": "我和我同屋一块儿收拾房间，一块儿吃饭、聊天儿。", "vi": "Tôi và bạn cùng phòng cùng dọn dẹp phòng, cùng ăn cơm, trò chuyện." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "北京", "py": "Běijīng", "pos": "danh từ", "vi": "Bắc Kinh", "ex": "我想去北京。", "ex_vi": "Tôi muốn đi Bắc Kinh." },
+    { "zh": "上海", "py": "Shànghǎi", "pos": "danh từ", "vi": "Thượng Hải", "ex": "上海很大。", "ex_vi": "Thượng Hải rất lớn." },
+    { "zh": "南京", "py": "Nánjīng", "pos": "danh từ", "vi": "Nam Kinh", "ex": "他在南京工作。", "ex_vi": "Anh ấy làm việc ở Nam Kinh." },
+    { "zh": "电话", "py": "diànhuà", "pos": "danh từ", "vi": "điện thoại (bàn, cuộc gọi)", "ex": "我的电话号码是多少？", "ex_vi": "Số điện thoại của tôi là bao nhiêu?" }
+  ]
+}

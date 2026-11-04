@@ -1,0 +1,73 @@
+{
+  "number": 4, "title_zh": "你学习法语吗", "title_en": "Do You Study French", "title_vi": "Bạn có học tiếng Pháp không?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "留学生", "py": "liúxuéshēng", "pos": "danh từ", "vi": "lưu học sinh, du học sinh", "ex": "他是中国留学生。", "ex_vi": "Anh ấy là du học sinh Trung Quốc." },
+        { "zh": "她", "py": "tā", "pos": "đại từ", "vi": "cô ấy, chị ấy, bà ấy", "ex": "她是我的老师。", "ex_vi": "Cô ấy là giáo viên của tôi." },
+        { "zh": "学习", "py": "xuéxí", "pos": "động từ", "vi": "học, học tập", "ex": "我学习汉语。", "ex_vi": "Tôi học tiếng Trung." },
+        { "zh": "他们", "py": "tāmen", "pos": "đại từ", "vi": "họ, các anh ấy (số nhiều)", "ex": "他们是我的同学。", "ex_vi": "Họ là bạn học của tôi." },
+        { "zh": "们", "py": "men", "pos": "hậu tố", "vi": "(hậu tố số nhiều, thêm sau đại từ chỉ người hoặc danh từ)", "ex": "我们都是学生。", "ex_vi": "Chúng tôi đều là học sinh." },
+        { "zh": "一起", "py": "yìqǐ", "pos": "phó từ", "vi": "cùng nhau, cùng", "ex": "我们一起学习。", "ex_vi": "Chúng tôi cùng học." },
+        { "zh": "上课", "py": "shàng kè", "pos": "động từ", "vi": "lên lớp, vào học, học (ở lớp)", "ex": "我们八点上课。", "ex_vi": "Chúng tôi vào học lúc tám giờ." },
+        { "zh": "说", "py": "shuō", "pos": "động từ", "vi": "nói", "ex": "他说汉语。", "ex_vi": "Anh ấy nói tiếng Trung." }
+      ],
+      "names": [
+        { "zh": "法国", "py": "Fǎguó", "vi": "Pháp" },
+        { "zh": "汉语", "py": "Hànyǔ", "vi": "tiếng Hán, tiếng Trung" },
+        { "zh": "泰国", "py": "Tàiguó", "vi": "Thái Lan" }
+      ],
+      "lines": [
+        { "zh": "林娜是法国留学生，她学习汉语。阿明是泰国留学生，他也学习汉语。他们一起上课，一起说汉语。", "vi": "Linna là du học sinh người Pháp, cô ấy học tiếng Trung. A Minh là du học sinh người Thái Lan, anh ấy cũng học tiếng Trung. Họ cùng nhau lên lớp, cùng nhau nói tiếng Trung." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "吗", "py": "ma", "pos": "trợ từ", "vi": "không? (đặt cuối câu để tạo câu hỏi có/không)", "ex": "你是学生吗？", "ex_vi": "Bạn là sinh viên à?" },
+        { "zh": "不", "py": "bù", "pos": "phó từ", "vi": "không (phủ định)", "ex": "我不是老师。", "ex_vi": "Tôi không phải là giáo viên." }
+      ],
+      "names": [
+        { "zh": "中国", "py": "Zhōngguó", "vi": "Trung Quốc" },
+        { "zh": "朱云", "py": "Zhū Yún", "vi": "Chu Vân, sinh viên Trung Quốc" },
+        { "zh": "英语", "py": "Yīngyǔ", "vi": "tiếng Anh" },
+        { "zh": "法语", "py": "Fǎyǔ", "vi": "tiếng Pháp" }
+      ],
+      "lines": [
+        { "s": "朱云", "zh": "你好！我是中国人，我叫朱云，你叫什么名字？", "vi": "Xin chào! Tôi là người Trung Quốc, tôi tên Chu Vân, bạn tên là gì?" },
+        { "s": "林娜", "zh": "我叫林娜。", "vi": "Tôi tên Linna." },
+        { "s": "朱云", "zh": "你是哪国人？", "vi": "Bạn là người nước nào?" },
+        { "s": "林娜", "zh": "我是法国人。", "vi": "Tôi là người Pháp." },
+        { "s": "朱云", "zh": "你学习什么？", "vi": "Bạn học gì?" },
+        { "s": "林娜", "zh": "我学习汉语。你呢？", "vi": "Tôi học tiếng Trung. Còn bạn?" },
+        { "s": "朱云", "zh": "我学习英语。", "vi": "Tôi học tiếng Anh." },
+        { "s": "林娜", "zh": "你学习法语吗？", "vi": "Bạn có học tiếng Pháp không?" },
+        { "s": "朱云", "zh": "我不学习法语。", "vi": "Tôi không học tiếng Pháp." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "谁", "py": "shéi (shuí)", "pos": "đại từ", "vi": "ai", "ex": "他是谁？", "ex_vi": "Anh ấy là ai?" },
+        { "zh": "同学", "py": "tóngxué", "pos": "danh từ", "vi": "bạn học, bạn cùng lớp", "ex": "她是我的同学。", "ex_vi": "Cô ấy là bạn học của tôi." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "朱云", "zh": "林娜，他是谁？", "vi": "Linna, anh ấy là ai vậy?" },
+        { "s": "林娜", "zh": "他是我同学。", "vi": "Anh ấy là bạn học của tôi." },
+        { "s": "朱云", "zh": "他是哪国人？", "vi": "Anh ấy là người nước nào?" },
+        { "s": "林娜", "zh": "他是泰国人。", "vi": "Anh ấy là người Thái Lan." },
+        { "s": "朱云", "zh": "他也学习汉语吗？", "vi": "Anh ấy cũng học tiếng Trung à?" },
+        { "s": "林娜", "zh": "他也学习汉语。", "vi": "Anh ấy cũng học tiếng Trung." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "日语", "py": "Rìyǔ", "pos": "danh từ", "vi": "tiếng Nhật", "ex": "他学习日语。", "ex_vi": "Anh ấy học tiếng Nhật." },
+    { "zh": "韩语", "py": "Hányǔ", "pos": "danh từ", "vi": "tiếng Hàn", "ex": "崔浩说韩语。", "ex_vi": "Thôi Hạo nói tiếng Hàn." },
+    { "zh": "德语", "py": "Déyǔ", "pos": "danh từ", "vi": "tiếng Đức", "ex": "她学习德语。", "ex_vi": "Cô ấy học tiếng Đức." },
+    { "zh": "意大利语", "py": "Yìdàlìyǔ", "pos": "danh từ", "vi": "tiếng Ý", "ex": "他说意大利语。", "ex_vi": "Anh ấy nói tiếng Ý." },
+    { "zh": "西班牙语", "py": "Xībānyáyǔ", "pos": "danh từ", "vi": "tiếng Tây Ban Nha", "ex": "我不学习西班牙语。", "ex_vi": "Tôi không học tiếng Tây Ban Nha." }
+  ]
+}

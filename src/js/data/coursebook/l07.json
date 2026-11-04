@@ -1,0 +1,90 @@
+{
+  "number": 7, "title_zh": "中国银行在哪儿", "title_en": "Where Is the Bank of China", "title_vi": "Ngân hàng Trung Quốc ở đâu?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "教学楼", "py": "jiàoxuélóu", "pos": "danh từ", "vi": "tòa nhà giảng đường", "ex": "教学楼在图书馆东边。", "ex_vi": "Tòa giảng đường ở phía đông thư viện." },
+        { "zh": "教学", "py": "jiàoxué", "pos": "động từ", "vi": "dạy học, giảng dạy", "ex": "他在大学教学。", "ex_vi": "Ông ấy dạy học ở trường đại học." },
+        { "zh": "楼", "py": "lóu", "pos": "danh từ", "vi": "tòa nhà, tầng lầu", "ex": "这是留学生楼。", "ex_vi": "Đây là tòa nhà lưu học sinh." },
+        { "zh": "在", "py": "zài", "pos": "động từ", "vi": "ở, tại (chỉ vị trí của người/vật)", "ex": "我在教学楼。", "ex_vi": "Tôi ở tòa giảng đường." },
+        { "zh": "这儿", "py": "zhèr", "pos": "đại từ", "vi": "ở đây, chỗ này", "ex": "我们在这儿。", "ex_vi": "Chúng tôi ở đây." },
+        { "zh": "图书馆", "py": "túshūguǎn", "pos": "danh từ", "vi": "thư viện", "ex": "我在图书馆学习。", "ex_vi": "Tôi học ở thư viện." },
+        { "zh": "……边", "py": "biān", "pos": "hậu tố", "vi": "phía, bên (hậu tố chỉ phương hướng)", "ex": "图书馆在东边。", "ex_vi": "Thư viện ở phía đông." },
+        { "zh": "北边", "py": "běibian", "pos": "danh từ", "vi": "phía bắc", "ex": "银行在超市北边。", "ex_vi": "Ngân hàng ở phía bắc siêu thị." },
+        { "zh": "西边", "py": "xībian", "pos": "danh từ", "vi": "phía tây", "ex": "体育馆在西边。", "ex_vi": "Nhà thi đấu ở phía tây." },
+        { "zh": "南边", "py": "nánbian", "pos": "danh từ", "vi": "phía nam", "ex": "饭馆在南边。", "ex_vi": "Nhà hàng ở phía nam." },
+        { "zh": "运动场", "py": "yùndòngchǎng", "pos": "danh từ", "vi": "sân vận động, sân thể thao", "ex": "运动场很大。", "ex_vi": "Sân thể thao rất rộng." },
+        { "zh": "体育馆", "py": "tǐyùguǎn", "pos": "danh từ", "vi": "nhà thi đấu, phòng tập thể thao", "ex": "我去体育馆。", "ex_vi": "Tôi đến nhà thi đấu." },
+        { "zh": "饭馆", "py": "fànguǎn", "pos": "danh từ", "vi": "quán ăn, nhà hàng", "ex": "这儿有一个饭馆。", "ex_vi": "Ở đây có một quán ăn." },
+        { "zh": "还", "py": "hái", "pos": "phó từ", "vi": "còn, thêm, vẫn", "ex": "我还要一个面包。", "ex_vi": "Tôi còn lấy thêm một cái bánh mì." },
+        { "zh": "超市", "py": "chāoshì", "pos": "danh từ", "vi": "siêu thị", "ex": "我去超市买苹果。", "ex_vi": "Tôi đi siêu thị mua táo." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "这是教学一楼，我们在这儿。图书馆在教学一楼北边，运动场和体育馆在教学一楼西边。这是留学生楼，留学生楼在运动场南边，留学生楼西边有一个饭馆，还有一个超市。", "vi": "Đây là giảng đường số 1, chúng ta đang ở đây. Thư viện ở phía bắc giảng đường số 1, sân thể thao và nhà thi đấu ở phía tây giảng đường số 1. Đây là tòa nhà lưu học sinh, nó ở phía nam sân thể thao; phía tây tòa nhà lưu học sinh có một quán ăn và còn có một siêu thị." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "去", "py": "qù", "pos": "động từ", "vi": "đi", "ex": "我去图书馆。", "ex_vi": "Tôi đi thư viện." },
+        { "zh": "哪儿", "py": "nǎr", "pos": "đại từ", "vi": "đâu, ở đâu", "ex": "你去哪儿？", "ex_vi": "Bạn đi đâu?" },
+        { "zh": "银行", "py": "yínháng", "pos": "danh từ", "vi": "ngân hàng", "ex": "银行在哪儿？", "ex_vi": "Ngân hàng ở đâu?" },
+        { "zh": "知道", "py": "zhīdào", "pos": "động từ", "vi": "biết", "ex": "我知道他的名字。", "ex_vi": "Tôi biết tên của anh ấy." },
+        { "zh": "东边", "py": "dōngbian", "pos": "danh từ", "vi": "phía đông", "ex": "超市在银行东边。", "ex_vi": "Siêu thị ở phía đông ngân hàng." },
+        { "zh": "跟", "py": "gēn", "pos": "giới từ", "vi": "cùng với, với", "ex": "我跟朋友一起去。", "ex_vi": "Tôi đi cùng bạn." },
+        { "zh": "吧", "py": "ba", "pos": "trợ từ", "vi": "nhé, đi (cuối câu, ngụ ý đề nghị nhẹ nhàng)", "ex": "我们一起去吧。", "ex_vi": "Chúng ta cùng đi nhé." },
+        { "zh": "太", "py": "tài", "pos": "phó từ", "vi": "quá, rất", "ex": "太好了！", "ex_vi": "Tốt quá!" },
+        { "zh": "了", "py": "le", "pos": "trợ từ", "vi": "(trợ từ ngữ khí; ở đây: 太…了 = quá…)", "ex": "太贵了！", "ex_vi": "Đắt quá!" }
+      ],
+      "names": [
+        { "zh": "中国银行", "py": "Zhōngguó Yínháng", "vi": "Ngân hàng Trung Quốc (Bank of China)" }
+      ],
+      "lines": [
+        { "s": "马丁", "zh": "山田，你去哪儿？", "vi": "Yamada, bạn đi đâu đấy?" },
+        { "s": "山田", "zh": "我去超市。", "vi": "Tôi đi siêu thị." },
+        { "s": "马丁", "zh": "中国银行在哪儿？你知道吗？", "vi": "Ngân hàng Trung Quốc ở đâu? Bạn có biết không?" },
+        { "s": "山田", "zh": "知道，在超市东边。我跟你一起去吧。", "vi": "Biết, ở phía đông siêu thị. Tôi đi cùng bạn nhé." },
+        { "s": "马丁", "zh": "太好了！", "vi": "Tốt quá!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "卫生间", "py": "wèishēngjiān", "pos": "danh từ", "vi": "nhà vệ sinh, toilet", "ex": "卫生间在哪儿？", "ex_vi": "Nhà vệ sinh ở đâu?" },
+        { "zh": "对不起", "py": "duìbuqǐ", "pos": "động từ", "vi": "xin lỗi", "ex": "对不起，我不知道。", "ex_vi": "Xin lỗi, tôi không biết." },
+        { "zh": "没关系", "py": "méi guānxi", "pos": "cụm từ", "vi": "không sao, không có gì", "ex": "A：对不起！B：没关系。", "ex_vi": "A: Xin lỗi! B: Không sao." },
+        { "zh": "商店", "py": "shāngdiàn", "pos": "danh từ", "vi": "cửa hàng, tiệm", "ex": "商店里有苹果。", "ex_vi": "Trong cửa hàng có táo." },
+        { "zh": "里边", "py": "lǐbian", "pos": "danh từ", "vi": "bên trong", "ex": "商店里边有一个银行。", "ex_vi": "Bên trong cửa hàng có một ngân hàng." },
+        { "zh": "地方", "py": "dìfang", "pos": "danh từ", "vi": "nơi, chỗ, địa điểm", "ex": "这是什么地方？", "ex_vi": "Đây là chỗ nào?" },
+        { "zh": "前边", "py": "qiánbian", "pos": "danh từ", "vi": "phía trước, đằng trước", "ex": "超市在前边。", "ex_vi": "Siêu thị ở phía trước." },
+        { "zh": "看", "py": "kàn", "pos": "động từ", "vi": "nhìn, xem", "ex": "你看，那是银行。", "ex_vi": "Bạn nhìn kìa, đó là ngân hàng." },
+        { "zh": "那儿", "py": "nàr", "pos": "đại từ", "vi": "ở kia, chỗ đó", "ex": "银行在那儿。", "ex_vi": "Ngân hàng ở đằng kia." },
+        { "zh": "就", "py": "jiù", "pos": "phó từ", "vi": "chính là, ngay (nhấn mạnh)", "ex": "那儿就是图书馆。", "ex_vi": "Chỗ kia chính là thư viện." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（阿明在路上找卫生间。）", "vi": "(A Minh đang tìm nhà vệ sinh trên đường.)" },
+        { "s": "阿明", "zh": "请问，哪儿有卫生间？", "vi": "Xin hỏi, ở đâu có nhà vệ sinh?" },
+        { "s": "学生A", "zh": "对不起，我不知道。", "vi": "Xin lỗi, tôi không biết." },
+        { "s": "阿明", "zh": "没关系。请问，你知道哪儿有卫生间吗？", "vi": "Không sao. Xin hỏi, bạn có biết ở đâu có nhà vệ sinh không?" },
+        { "s": "学生B", "zh": "商店里边有。", "vi": "Bên trong cửa hàng có." },
+        { "s": "阿明", "zh": "商店在什么地方？", "vi": "Cửa hàng ở chỗ nào?" },
+        { "s": "学生B", "zh": "在前边。你看，那儿就是。", "vi": "Ở phía trước. Bạn nhìn kìa, chỗ đó chính là cửa hàng." },
+        { "s": "阿明", "zh": "谢谢！", "vi": "Cảm ơn!" },
+        { "s": "学生B", "zh": "不客气。", "vi": "Không có gì." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "上边", "py": "shàngbian", "pos": "danh từ", "vi": "phía trên, bên trên", "ex": "书在桌子上边。", "ex_vi": "Sách ở trên bàn." },
+    { "zh": "后边", "py": "hòubian", "pos": "danh từ", "vi": "phía sau, đằng sau", "ex": "银行在超市后边。", "ex_vi": "Ngân hàng ở phía sau siêu thị." },
+    { "zh": "旁边", "py": "pángbiān", "pos": "danh từ", "vi": "bên cạnh", "ex": "饭馆在商店旁边。", "ex_vi": "Quán ăn ở bên cạnh cửa hàng." },
+    { "zh": "书店", "py": "shūdiàn", "pos": "danh từ", "vi": "hiệu sách", "ex": "我去书店买书。", "ex_vi": "Tôi đi hiệu sách mua sách." },
+    { "zh": "邮局", "py": "yóujú", "pos": "danh từ", "vi": "bưu điện", "ex": "邮局在银行旁边。", "ex_vi": "Bưu điện ở cạnh ngân hàng." },
+    { "zh": "桌子", "py": "zhuōzi", "pos": "danh từ", "vi": "cái bàn", "ex": "桌子上有一本书。", "ex_vi": "Trên bàn có một quyển sách." },
+    { "zh": "书包", "py": "shūbāo", "pos": "danh từ", "vi": "cặp sách, ba lô học sinh", "ex": "我的书包里有词典。", "ex_vi": "Trong cặp của tôi có từ điển." },
+    { "zh": "宿舍", "py": "sùshè", "pos": "danh từ", "vi": "ký túc xá", "ex": "我的宿舍在留学生楼。", "ex_vi": "Ký túc xá của tôi ở tòa nhà lưu học sinh." }
+  ]
+}

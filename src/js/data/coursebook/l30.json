@@ -1,0 +1,62 @@
+{
+  "number": 30, "title_zh": "我当过英语老师", "title_en": "I Used to Be an English Teacher", "title_vi": "Tôi từng làm giáo viên tiếng Anh",
+  "texts": [
+    {
+      "heading": "课文",
+      "vocab": [
+        { "zh": "毕业", "py": "bì yè", "pos": "động từ", "vi": "tốt nghiệp", "ex": "他去年大学毕业了。", "ex_vi": "Năm ngoái anh ấy tốt nghiệp đại học." },
+        { "zh": "其他", "py": "qítā", "pos": "đại từ", "vi": "khác, còn lại", "ex": "其他同学都来了。", "ex_vi": "Các bạn khác đều đến rồi." },
+        { "zh": "选择", "py": "xuǎnzé", "pos": "động từ", "vi": "lựa chọn, chọn", "ex": "我选择学习汉语。", "ex_vi": "Tôi chọn học tiếng Trung." },
+        { "zh": "熟悉", "py": "shúxī", "pos": "tính từ", "vi": "quen thuộc, quen biết", "ex": "我对这儿不太熟悉。", "ex_vi": "Tôi không quen thuộc nơi này lắm." },
+        { "zh": "离开", "py": "lí kāi", "pos": "động từ", "vi": "rời khỏi, rời đi", "ex": "他离开了学校。", "ex_vi": "Anh ấy rời khỏi trường." },
+        { "zh": "所", "py": "suǒ", "pos": "lượng từ", "vi": "ngôi, toà (cho nhà, trường học, bệnh viện)", "ex": "这是一所大学。", "ex_vi": "Đây là một trường đại học." },
+        { "zh": "语言", "py": "yǔyán", "pos": "danh từ", "vi": "ngôn ngữ", "ex": "他会说几种语言。", "ex_vi": "Anh ấy biết nói vài thứ tiếng." },
+        { "zh": "最初", "py": "zuìchū", "pos": "danh từ", "vi": "ban đầu, lúc đầu", "ex": "最初我不习惯这儿。", "ex_vi": "Lúc đầu tôi chưa quen nơi này." },
+        { "zh": "因为", "py": "yīnwèi", "pos": "liên từ", "vi": "bởi vì", "ex": "因为下雨，我没去。", "ex_vi": "Vì trời mưa nên tôi không đi." },
+        { "zh": "交流", "py": "jiāoliú", "pos": "động từ", "vi": "giao lưu, trao đổi", "ex": "我喜欢跟中国人交流。", "ex_vi": "Tôi thích giao lưu với người Trung Quốc." },
+        { "zh": "困难", "py": "kùnnan", "pos": "tính từ", "vi": "khó khăn", "ex": "学汉语有点儿困难。", "ex_vi": "Học tiếng Trung hơi khó khăn." },
+        { "zh": "遇到", "py": "yùdào", "pos": "động từ", "vi": "gặp phải, gặp được", "ex": "我遇到了一个老朋友。", "ex_vi": "Tôi gặp một người bạn cũ." },
+        { "zh": "哭", "py": "kū", "pos": "động từ", "vi": "khóc", "ex": "孩子哭了。", "ex_vi": "Đứa trẻ khóc rồi." },
+        { "zh": "过", "py": "guo", "pos": "trợ từ", "vi": "đã từng (đứng sau động từ, chỉ kinh nghiệm)", "ex": "我去过北京。", "ex_vi": "Tôi đã từng đến Bắc Kinh." },
+        { "zh": "坚持", "py": "jiānchí", "pos": "động từ", "vi": "kiên trì, bền bỉ", "ex": "他每天坚持跑步。", "ex_vi": "Anh ấy kiên trì chạy bộ mỗi ngày." },
+        { "zh": "留", "py": "liú", "pos": "động từ", "vi": "ở lại, lưu lại", "ex": "我想留在这儿。", "ex_vi": "Tôi muốn ở lại đây." },
+        { "zh": "地", "py": "de", "pos": "trợ từ", "vi": "(đứng sau tính từ/cụm từ, nối với động từ làm trạng ngữ)", "ex": "他慢慢地说。", "ex_vi": "Anh ấy nói từ từ." },
+        { "zh": "发现", "py": "fāxiàn", "pos": "động từ", "vi": "phát hiện, nhận ra", "ex": "我发现钱包不见了。", "ex_vi": "Tôi phát hiện ví không thấy đâu." },
+        { "zh": "出去", "py": "chūqù", "pos": "động từ", "vi": "đi ra ngoài", "ex": "他出去买东西了。", "ex_vi": "Anh ấy ra ngoài mua đồ rồi." },
+        { "zh": "钱包", "py": "qiánbāo", "pos": "danh từ", "vi": "ví tiền", "ex": "我的钱包丢了。", "ex_vi": "Ví của tôi bị mất rồi." },
+        { "zh": "极", "py": "jí", "pos": "phó từ", "vi": "cực kỳ, vô cùng", "ex": "我高兴极了。", "ex_vi": "Tôi vui vô cùng." },
+        { "zh": "翻译", "py": "fānyì", "pos": "danh từ", "vi": "phiên dịch, biên dịch", "ex": "他是一个翻译。", "ex_vi": "Anh ấy là một phiên dịch viên." },
+        { "zh": "意义", "py": "yìyì", "pos": "danh từ", "vi": "ý nghĩa", "ex": "这件事很有意义。", "ex_vi": "Việc này rất có ý nghĩa." },
+        { "zh": "决定", "py": "juédìng", "pos": "động từ", "vi": "quyết định", "ex": "我决定去中国。", "ex_vi": "Tôi quyết định đi Trung Quốc." },
+        { "zh": "农村", "py": "nóngcūn", "pos": "danh từ", "vi": "nông thôn", "ex": "他在农村长大。", "ex_vi": "Anh ấy lớn lên ở nông thôn." },
+        { "zh": "外语", "py": "wàiyǔ", "pos": "danh từ", "vi": "ngoại ngữ", "ex": "我学习两门外语。", "ex_vi": "Tôi học hai ngoại ngữ." },
+        { "zh": "穷", "py": "qióng", "pos": "tính từ", "vi": "nghèo", "ex": "那个地方很穷。", "ex_vi": "Nơi đó rất nghèo." },
+        { "zh": "见", "py": "jiàn", "pos": "động từ", "vi": "gặp, thấy", "ex": "我没见过他。", "ex_vi": "Tôi chưa từng gặp anh ấy." },
+        { "zh": "热情", "py": "rèqíng", "pos": "tính từ", "vi": "nhiệt tình, nồng hậu", "ex": "他对客人很热情。", "ex_vi": "Anh ấy rất nhiệt tình với khách." },
+        { "zh": "友好", "py": "yǒuhǎo", "pos": "tính từ", "vi": "thân thiện", "ex": "他们对我很友好。", "ex_vi": "Họ rất thân thiện với tôi." },
+        { "zh": "当……的时候", "py": "dāng…de shíhou", "pos": "cấu trúc", "vi": "khi …, lúc …", "ex": "当我回来的时候，他已经睡了。", "ex_vi": "Lúc tôi về, anh ấy đã ngủ rồi." },
+        { "zh": "经验", "py": "jīngyàn", "pos": "danh từ", "vi": "kinh nghiệm", "ex": "他有很多工作经验。", "ex_vi": "Anh ấy có nhiều kinh nghiệm làm việc." },
+        { "zh": "经历", "py": "jīnglì", "pos": "danh từ", "vi": "trải nghiệm, từng trải", "ex": "这是一次特别的经历。", "ex_vi": "Đây là một trải nghiệm đặc biệt." }
+      ],
+      "names": [
+        { "zh": "西北", "py": "Xīběi", "vi": "Tây Bắc (Trung Quốc)" }
+      ],
+      "lines": [
+        { "zh": "三年以前，我大学毕业了。和其他同学一样，我没有马上去工作，我选择了到自己不熟悉的地方去锻炼。去哪儿呢？最后我决定去中国。当然，去中国就要先学会汉语。为了学会汉语，我离开了家，离开了父母，来到了北京。", "vi": "Ba năm trước, tôi tốt nghiệp đại học. Cũng như các bạn học khác, tôi không đi làm ngay mà chọn đến một nơi mình chưa quen để rèn luyện. Đi đâu đây? Cuối cùng tôi quyết định đến Trung Quốc. Tất nhiên, đến Trung Quốc thì trước tiên phải học được tiếng Trung. Để học được tiếng Trung, tôi rời xa nhà, rời xa bố mẹ, đến Bắc Kinh." },
+        { "zh": "我先在一所语言学校学习。最初的几个月，因为我的汉语说得不好，跟中国人交流很困难，遇到了不少麻烦。我哭过，也想过回去，但是最后还是坚持留在了这里。慢慢地，我发现我开始喜欢这里了。", "vi": "Lúc đầu tôi học ở một trường ngôn ngữ. Mấy tháng đầu, vì tiếng Trung của tôi nói chưa tốt, giao tiếp với người Trung Quốc rất khó khăn, gặp không ít rắc rối. Tôi từng khóc, cũng từng nghĩ đến chuyện quay về, nhưng cuối cùng vẫn kiên trì ở lại. Dần dần, tôi nhận ra mình bắt đầu thích nơi này." },
+        { "zh": "有一次，我出去玩儿。回来的时候，我把钱包忘在了出租汽车里。到家以后才发现钱包没了，我非常着急，但是也没有办法。没想到，第二天，那个司机到学校找到了我。他还我钱包的时候，我高兴极了。我问他：“你怎么能找到我？”他说：“是你的学生证帮了我的忙。”我很高兴遇到了一个好人。", "vi": "Có một lần, tôi ra ngoài chơi. Lúc về, tôi để quên ví trong xe taxi. Về đến nhà mới phát hiện mất ví, tôi rất lo nhưng cũng chẳng có cách nào. Không ngờ, hôm sau, bác tài xế đó tìm đến trường gặp tôi. Lúc bác trả ví cho tôi, tôi vui vô cùng. Tôi hỏi bác: “Sao bác tìm được tôi?” Bác nói: “Là thẻ sinh viên của cậu đã giúp tôi.” Tôi rất vui vì gặp được một người tốt." },
+        { "zh": "一年以后，我开始一边学习，一边打工。我当过翻译，也当过英语老师，我还去过许多地方旅行。但是我觉得这些都不是我想要的，我应该去做更有意义的事情。后来我决定去西北农村当外语老师。", "vi": "Một năm sau, tôi bắt đầu vừa học vừa làm thêm. Tôi từng làm phiên dịch, cũng từng làm giáo viên tiếng Anh, còn đi du lịch nhiều nơi. Nhưng tôi cảm thấy những việc này đều không phải điều tôi muốn, tôi nên đi làm những việc có ý nghĩa hơn. Về sau tôi quyết định đến nông thôn Tây Bắc làm giáo viên ngoại ngữ." },
+        { "zh": "我去的是个穷地方，这里的人们没见过外国人，但是他们对我很热情，也很友好。去年，当我要离开这里回国的时候，我的学生都哭了……", "vi": "Nơi tôi đến là một vùng nghèo, người dân ở đây chưa từng thấy người nước ngoài, nhưng họ rất nhiệt tình và thân thiện với tôi. Năm ngoái, lúc tôi sắp rời nơi này để về nước, các học sinh của tôi đều khóc……" },
+        { "zh": "现在我已经是一家大公司的职员了。公司最后选择了我，我想就是因为我有在中国的工作经验和生活经历吧。", "vi": "Bây giờ tôi đã là nhân viên của một công ty lớn. Cuối cùng công ty chọn tôi, tôi nghĩ có lẽ vì tôi có kinh nghiệm làm việc và trải nghiệm cuộc sống ở Trung Quốc." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "天安门", "py": "Tiān'ānmén", "pos": "danh từ", "vi": "Thiên An Môn", "ex": "我去过天安门。", "ex_vi": "Tôi đã đến Thiên An Môn." },
+    { "zh": "动物园", "py": "dòngwùyuán", "pos": "danh từ", "vi": "vườn thú, sở thú", "ex": "孩子们喜欢去动物园。", "ex_vi": "Bọn trẻ thích đi sở thú." },
+    { "zh": "四川菜", "py": "sìchuāncài", "pos": "danh từ", "vi": "món Tứ Xuyên", "ex": "我吃过四川菜。", "ex_vi": "Tôi đã từng ăn món Tứ Xuyên." },
+    { "zh": "京剧", "py": "jīngjù", "pos": "danh từ", "vi": "Kinh kịch", "ex": "我看过京剧。", "ex_vi": "Tôi đã từng xem Kinh kịch." },
+    { "zh": "小说", "py": "xiǎoshuō", "pos": "danh từ", "vi": "tiểu thuyết", "ex": "他喜欢看小说。", "ex_vi": "Anh ấy thích đọc tiểu thuyết." },
+    { "zh": "民歌", "py": "míngē", "pos": "danh từ", "vi": "dân ca", "ex": "我听过中国民歌。", "ex_vi": "Tôi đã từng nghe dân ca Trung Quốc." }
+  ]
+}

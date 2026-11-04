@@ -1,0 +1,83 @@
+{
+  "number": 27, "title_zh": "我正在看电视呢", "title_en": "I'm Watching TV", "title_vi": "Tôi đang xem ti vi đây",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "习惯", "py": "xíguàn", "pos": "danh từ", "vi": "thói quen", "ex": "他有早起的习惯。", "ex_vi": "Anh ấy có thói quen dậy sớm." },
+        { "zh": "了解", "py": "liǎojiě", "pos": "động từ", "vi": "tìm hiểu, hiểu rõ", "ex": "我想了解中国文化。", "ex_vi": "Tôi muốn tìm hiểu văn hóa Trung Quốc." },
+        { "zh": "点钟", "py": "diǎnzhōng", "pos": "lượng từ", "vi": "giờ (đúng giờ)", "ex": "现在八点钟。", "ex_vi": "Bây giờ là tám giờ." },
+        { "zh": "路上", "py": "lùshang", "pos": "danh từ", "vi": "trên đường", "ex": "路上有很多人。", "ex_vi": "Trên đường có rất nhiều người." },
+        { "zh": "正在", "py": "zhèngzài", "pos": "phó từ", "vi": "đang (hành động đang diễn ra)", "ex": "他正在吃饭。", "ex_vi": "Anh ấy đang ăn cơm." },
+        { "zh": "正", "py": "zhèng", "pos": "phó từ", "vi": "đang, vừa lúc", "ex": "他正看书呢。", "ex_vi": "Anh ấy đang đọc sách." },
+        { "zh": "在", "py": "zài", "pos": "phó từ", "vi": "đang (hành động đang diễn ra)", "ex": "我在学习。", "ex_vi": "Tôi đang học." },
+        { "zh": "一边", "py": "yìbiān", "pos": "liên từ", "vi": "vừa … vừa … (一边…一边…)", "ex": "他一边吃饭，一边看电视。", "ex_vi": "Anh ấy vừa ăn cơm vừa xem ti vi." },
+        { "zh": "散步", "py": "sàn bù", "pos": "động từ", "vi": "đi dạo, tản bộ", "ex": "晚上我去公园散步。", "ex_vi": "Buổi tối tôi ra công viên đi dạo." },
+        { "zh": "下边", "py": "xiàbian", "pos": "danh từ", "vi": "phía dưới, bên dưới", "ex": "树下边有一把椅子。", "ex_vi": "Dưới gốc cây có một cái ghế." },
+        { "zh": "打(太极拳)", "py": "dǎ (tàijíquán)", "pos": "động từ", "vi": "tập (thái cực quyền)", "ex": "早上他在公园打太极拳。", "ex_vi": "Buổi sáng anh ấy tập thái cực quyền ở công viên." },
+        { "zh": "湖", "py": "hú", "pos": "danh từ", "vi": "hồ", "ex": "公园里有一个大湖。", "ex_vi": "Trong công viên có một cái hồ lớn." },
+        { "zh": "椅子", "py": "yǐzi", "pos": "danh từ", "vi": "cái ghế", "ex": "椅子在桌子旁边。", "ex_vi": "Cái ghế ở cạnh bàn." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "很多中国人有早起的习惯，我很想了解一下他们早上都做些什么。今天是星期六，我五点半就起床了，我想到学校附近的公园里去看看。", "vi": "Nhiều người Trung Quốc có thói quen dậy sớm, tôi rất muốn tìm hiểu buổi sáng họ làm những gì. Hôm nay là thứ bảy, tôi dậy từ năm giờ rưỡi, tôi muốn đến công viên gần trường xem thử." },
+        { "zh": "我到公园的时候才六点钟，那里人已经很多了。路上有的人正在跑步，有的人一边散步，一边听收音机；大树下边有许多人在打太极拳，也有一些人在跳舞；湖边还有人正坐在椅子上看书……", "vi": "Lúc tôi đến công viên mới sáu giờ, ở đó đã rất đông người. Trên đường có người đang chạy bộ, có người vừa đi dạo vừa nghe radio; dưới gốc cây lớn có nhiều người đang tập thái cực quyền, cũng có một số người đang nhảy múa; bên hồ còn có người đang ngồi trên ghế đọc sách……" }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "接", "py": "jiē", "pos": "động từ", "vi": "nhận, bắt (máy)", "ex": "你接电话吧。", "ex_vi": "Bạn nghe điện thoại đi." },
+        { "zh": "忙", "py": "máng", "pos": "động từ", "vi": "bận rộn, bận làm", "ex": "你在忙什么呢？", "ex_vi": "Bạn đang bận gì thế?" },
+        { "zh": "听见", "py": "tīngjiàn", "pos": "động từ", "vi": "nghe thấy", "ex": "我没听见电话。", "ex_vi": "Tôi không nghe thấy điện thoại." },
+        { "zh": "草地", "py": "cǎodì", "pos": "danh từ", "vi": "bãi cỏ", "ex": "草地上有很多孩子。", "ex_vi": "Trên bãi cỏ có rất nhiều trẻ em." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "马丁", "zh": "阿明，我给你打了两个电话，你都没接，你在忙什么呢？", "vi": "A Minh, tớ gọi cho cậu hai cuộc mà cậu đều không bắt máy, cậu đang bận gì thế?" },
+        { "s": "阿明", "zh": "对不起，我没听见。我正在看电视呢。", "vi": "Xin lỗi, tớ không nghe thấy. Tớ đang xem ti vi." },
+        { "s": "马丁", "zh": "看什么呢？", "vi": "Xem gì thế?" },
+        { "s": "阿明", "zh": "看足球比赛呢。你找我有什么事？", "vi": "Xem trận bóng đá. Cậu tìm tớ có việc gì?" },
+        { "s": "马丁", "zh": "明天早上六点，你跟我们一起练习太极拳，别忘了。", "vi": "Sáng mai sáu giờ, cậu tập thái cực quyền cùng chúng tớ, đừng quên nhé." },
+        { "s": "阿明", "zh": "六点，太早了！", "vi": "Sáu giờ, sớm quá!" },
+        { "s": "马丁", "zh": "不早，你要是去晚了，我们就练习完了。", "vi": "Không sớm đâu, nếu cậu đến muộn thì chúng tớ tập xong mất." },
+        { "s": "阿明", "zh": "在哪儿？", "vi": "Ở đâu?" },
+        { "s": "马丁", "zh": "草地旁边。", "vi": "Cạnh bãi cỏ." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "刚", "py": "gāng", "pos": "phó từ", "vi": "vừa, vừa mới", "ex": "我刚到学校。", "ex_vi": "Tôi vừa mới đến trường." },
+        { "zh": "午饭", "py": "wǔfàn", "pos": "danh từ", "vi": "bữa trưa", "ex": "我在食堂吃午饭。", "ex_vi": "Tôi ăn trưa ở căng tin." },
+        { "zh": "作业", "py": "zuòyè", "pos": "danh từ", "vi": "bài tập", "ex": "我做完作业了。", "ex_vi": "Tôi làm xong bài tập rồi." },
+        { "zh": "睡觉", "py": "shuì jiào", "pos": "động từ", "vi": "ngủ, đi ngủ", "ex": "我十点睡觉。", "ex_vi": "Tôi ngủ lúc mười giờ." },
+        { "zh": "睡", "py": "shuì", "pos": "động từ", "vi": "ngủ", "ex": "他睡得很早。", "ex_vi": "Anh ấy ngủ rất sớm." },
+        { "zh": "马上", "py": "mǎshàng", "pos": "phó từ", "vi": "ngay, lập tức", "ex": "我马上来。", "ex_vi": "Tôi đến ngay." },
+        { "zh": "旅行", "py": "lǚxíng", "pos": "động từ", "vi": "đi du lịch", "ex": "我想去中国旅行。", "ex_vi": "Tôi muốn đi du lịch Trung Quốc." },
+        { "zh": "愉快", "py": "yúkuài", "pos": "tính từ", "vi": "vui vẻ, thoải mái", "ex": "祝你旅行愉快！", "ex_vi": "Chúc bạn đi du lịch vui vẻ!" },
+        { "zh": "晚安", "py": "wǎn'ān", "pos": "động từ", "vi": "chúc ngủ ngon", "ex": "晚安，明天见！", "ex_vi": "Chúc ngủ ngon, mai gặp nhé!" }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（晚上十点，林娜接到妈妈的电话。）", "vi": "(Mười giờ tối, Linna nhận được điện thoại của mẹ.)" },
+        { "s": "妈妈", "zh": "林娜，我是妈妈。", "vi": "Linna, mẹ đây." },
+        { "s": "林娜", "zh": "妈妈，您好！您现在做什么呢？", "vi": "Mẹ ơi, chào mẹ! Bây giờ mẹ đang làm gì ạ?" },
+        { "s": "妈妈", "zh": "我刚吃完午饭，现在正和朋友一起买东西呢。你在做什么？", "vi": "Mẹ vừa ăn trưa xong, bây giờ đang đi mua sắm cùng bạn. Con đang làm gì?" },
+        { "s": "林娜", "zh": "我刚写完作业，正准备睡觉呢。", "vi": "Con vừa làm xong bài tập, đang chuẩn bị đi ngủ ạ." },
+        { "s": "妈妈", "zh": "你们那儿几点了？", "vi": "Chỗ con mấy giờ rồi?" },
+        { "s": "林娜", "zh": "我们这儿十点。", "vi": "Chỗ con mười giờ." },
+        { "s": "妈妈", "zh": "怎么这么早就睡觉？", "vi": "Sao con đi ngủ sớm thế?" },
+        { "s": "林娜", "zh": "书上说“早睡早起身体好”，我以前总是习惯晚睡，现在我喜欢早睡了。", "vi": "Sách nói “ngủ sớm dậy sớm thì khỏe”, trước đây con luôn quen ngủ muộn, bây giờ con thích ngủ sớm rồi." },
+        { "s": "妈妈", "zh": "我想告诉你，我马上就要去旅行了，两个星期以后回来。", "vi": "Mẹ muốn nói với con, mẹ sắp đi du lịch ngay đây, hai tuần nữa mới về." },
+        { "s": "林娜", "zh": "妈妈，祝您旅行愉快！", "vi": "Mẹ ơi, chúc mẹ đi du lịch vui vẻ!" },
+        { "s": "妈妈", "zh": "谢谢！晚安！", "vi": "Cảm ơn con! Ngủ ngon nhé!" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "逛街", "py": "guàng jiē", "pos": "động từ", "vi": "đi dạo phố, đi mua sắm", "ex": "周末我们去逛街。", "ex_vi": "Cuối tuần chúng tôi đi dạo phố." },
+    { "zh": "打扫", "py": "dǎsǎo", "pos": "động từ", "vi": "quét dọn, dọn dẹp", "ex": "我在打扫房间。", "ex_vi": "Tôi đang dọn phòng." },
+    { "zh": "表演", "py": "biǎoyǎn", "pos": "động từ", "vi": "biểu diễn", "ex": "他们在台上表演。", "ex_vi": "Họ đang biểu diễn trên sân khấu." }
+  ]
+}

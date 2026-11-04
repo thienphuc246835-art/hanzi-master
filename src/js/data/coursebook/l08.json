@@ -1,0 +1,88 @@
+{
+  "number": 8, "title_zh": "今天几号", "title_en": "What's the Date Today", "title_vi": "Hôm nay là ngày mấy?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "今天", "py": "jīntiān", "pos": "danh từ", "vi": "hôm nay", "ex": "今天星期几？", "ex_vi": "Hôm nay là thứ mấy?" },
+        { "zh": "月", "py": "yuè", "pos": "danh từ", "vi": "tháng", "ex": "我的生日是九月。", "ex_vi": "Sinh nhật tôi vào tháng chín." },
+        { "zh": "日", "py": "rì", "pos": "danh từ", "vi": "ngày (cách viết của 号)", "ex": "今天是九月二十八日。", "ex_vi": "Hôm nay là ngày 28 tháng 9." },
+        { "zh": "星期", "py": "xīngqī", "pos": "danh từ", "vi": "tuần, thứ", "ex": "一个星期有七天。", "ex_vi": "Một tuần có bảy ngày." },
+        { "zh": "星期一", "py": "xīngqīyī", "pos": "danh từ", "vi": "thứ hai", "ex": "星期一我有汉语课。", "ex_vi": "Thứ hai tôi có tiết tiếng Trung." },
+        { "zh": "星期二", "py": "xīngqī'èr", "pos": "danh từ", "vi": "thứ ba", "ex": "今天是星期二。", "ex_vi": "Hôm nay là thứ ba." },
+        { "zh": "星期三", "py": "xīngqīsān", "pos": "danh từ", "vi": "thứ tư", "ex": "星期三我去图书馆。", "ex_vi": "Thứ tư tôi đến thư viện." },
+        { "zh": "星期四", "py": "xīngqīsì", "pos": "danh từ", "vi": "thứ năm", "ex": "星期四没有课。", "ex_vi": "Thứ năm không có tiết." },
+        { "zh": "星期五", "py": "xīngqīwǔ", "pos": "danh từ", "vi": "thứ sáu", "ex": "星期五是我的生日。", "ex_vi": "Thứ sáu là sinh nhật tôi." },
+        { "zh": "星期六", "py": "xīngqīliù", "pos": "danh từ", "vi": "thứ bảy", "ex": "星期六我们一起去吃饭。", "ex_vi": "Thứ bảy chúng ta cùng đi ăn." },
+        { "zh": "星期日/天", "py": "xīngqīrì/tiān", "pos": "danh từ", "vi": "chủ nhật", "ex": "星期日我在家。", "ex_vi": "Chủ nhật tôi ở nhà." },
+        { "zh": "的", "py": "de", "pos": "trợ từ", "vi": "của (đứng sau định ngữ, chỉ sở hữu)", "ex": "这是我的书。", "ex_vi": "Đây là sách của tôi." },
+        { "zh": "生日", "py": "shēngrì", "pos": "danh từ", "vi": "sinh nhật", "ex": "今天是他的生日。", "ex_vi": "Hôm nay là sinh nhật của anh ấy." },
+        { "zh": "下课", "py": "xià kè", "pos": "động từ", "vi": "tan học, hết giờ học", "ex": "下课以后，我去吃饭。", "ex_vi": "Sau khi tan học, tôi đi ăn cơm." },
+        { "zh": "以后", "py": "yǐhòu", "pos": "danh từ", "vi": "sau này, sau khi", "ex": "以后我们一起学习。", "ex_vi": "Sau này chúng ta cùng học." },
+        { "zh": "准备", "py": "zhǔnbèi", "pos": "động từ", "vi": "chuẩn bị, dự định", "ex": "我准备买一本书。", "ex_vi": "Tôi dự định mua một quyển sách." },
+        { "zh": "请", "py": "qǐng", "pos": "động từ", "vi": "mời (ai làm gì, đãi ai)", "ex": "我请你吃饭。", "ex_vi": "Tôi mời bạn ăn cơm." },
+        { "zh": "吃", "py": "chī", "pos": "động từ", "vi": "ăn", "ex": "我早上吃面包。", "ex_vi": "Buổi sáng tôi ăn bánh mì." },
+        { "zh": "饭", "py": "fàn", "pos": "danh từ", "vi": "cơm, bữa ăn", "ex": "我们一起吃饭。", "ex_vi": "Chúng ta cùng ăn cơm." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "今天九月二十八日，星期二，是林娜的生日。下课以后，同学们准备一起请她吃饭。", "vi": "Hôm nay là ngày 28 tháng 9, thứ ba, là sinh nhật của Linna. Sau khi tan học, các bạn cùng lớp định cùng nhau mời cô ấy đi ăn." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "对", "py": "duì", "pos": "tính từ", "vi": "đúng", "ex": "对，你说得对。", "ex_vi": "Đúng, bạn nói đúng." },
+        { "zh": "号", "py": "hào", "pos": "danh từ", "vi": "ngày, số (thường đứng sau số đếm)", "ex": "今天几号？", "ex_vi": "Hôm nay là ngày mấy?" },
+        { "zh": "怎么样", "py": "zěnmeyàng", "pos": "đại từ", "vi": "thế nào, ra sao", "ex": "我们一起去，怎么样？", "ex_vi": "Chúng ta cùng đi, thế nào?" }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "马丁", "zh": "林娜，今天是你的生日，对吗？", "vi": "Linna, hôm nay là sinh nhật bạn, đúng không?" },
+        { "s": "林娜", "zh": "我的生日？今天几号？", "vi": "Sinh nhật tôi à? Hôm nay là ngày mấy?" },
+        { "s": "马丁", "zh": "今天九月二十八号。", "vi": "Hôm nay ngày 28 tháng 9." },
+        { "s": "林娜", "zh": "对，对，今天是我的生日。", "vi": "Đúng, đúng, hôm nay là sinh nhật tôi." },
+        { "s": "马丁", "zh": "我们请你吃饭，怎么样？", "vi": "Chúng tôi mời bạn đi ăn, thấy sao?" },
+        { "s": "林娜", "zh": "太好了！谢谢你们！", "vi": "Tuyệt quá! Cảm ơn các bạn!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "祝", "py": "zhù", "pos": "động từ", "vi": "chúc", "ex": "祝你生日快乐！", "ex_vi": "Chúc bạn sinh nhật vui vẻ!" },
+        { "zh": "快乐", "py": "kuàilè", "pos": "tính từ", "vi": "vui vẻ, hạnh phúc", "ex": "祝你快乐！", "ex_vi": "Chúc bạn vui vẻ!" },
+        { "zh": "礼物", "py": "lǐwù", "pos": "danh từ", "vi": "quà, quà tặng", "ex": "这是给你的礼物。", "ex_vi": "Đây là quà dành cho bạn." },
+        { "zh": "本", "py": "běn", "pos": "lượng từ", "vi": "quyển, cuốn (cho sách, từ điển, tạp chí…)", "ex": "我买一本书。", "ex_vi": "Tôi mua một quyển sách." },
+        { "zh": "书", "py": "shū", "pos": "danh từ", "vi": "sách", "ex": "这是一本汉语书。", "ex_vi": "Đây là một quyển sách tiếng Trung." },
+        { "zh": "支", "py": "zhī", "pos": "lượng từ", "vi": "cây, chiếc (cho vật dài, mảnh như bút)", "ex": "我有两支笔。", "ex_vi": "Tôi có hai cây bút." },
+        { "zh": "笔", "py": "bǐ", "pos": "danh từ", "vi": "bút", "ex": "我的笔在书包里。", "ex_vi": "Bút của tôi ở trong cặp." },
+        { "zh": "啊", "py": "a", "pos": "thán từ", "vi": "à, nhé, được thôi (thể hiện đồng ý, vui vẻ)", "ex": "好啊！", "ex_vi": "Được chứ!" },
+        { "zh": "时间", "py": "shíjiān", "pos": "danh từ", "vi": "thời gian, giờ rảnh", "ex": "你有时间吗？", "ex_vi": "Bạn có thời gian không?" },
+        { "zh": "没问题", "py": "méi wèntí", "pos": "cụm từ", "vi": "không vấn đề gì, được thôi", "ex": "A：你来吗？B：没问题。", "ex_vi": "A: Bạn đến chứ? B: Không vấn đề gì." },
+        { "zh": "没(有)", "py": "méi (yǒu)", "pos": "động từ", "vi": "không có, chưa", "ex": "我没有时间。", "ex_vi": "Tôi không có thời gian." },
+        { "zh": "问题", "py": "wèntí", "pos": "danh từ", "vi": "câu hỏi, vấn đề", "ex": "我有一个问题。", "ex_vi": "Tôi có một câu hỏi." }
+      ],
+      "names": [
+        { "zh": "中文", "py": "Zhōngwén", "vi": "tiếng Trung (chữ viết, ngôn ngữ)" }
+      ],
+      "lines": [
+        { "s": "马丁", "zh": "林娜，祝你生日快乐！这是我们的礼物。", "vi": "Linna, chúc bạn sinh nhật vui vẻ! Đây là quà của chúng tôi." },
+        { "s": "林娜", "zh": "谢谢。是什么礼物？", "vi": "Cảm ơn. Là quà gì vậy?" },
+        { "s": "马丁", "zh": "一本中文书和一支笔。", "vi": "Một quyển sách tiếng Trung và một cây bút." },
+        { "s": "崔浩", "zh": "十月十号是我的生日，你们都去我家，怎么样？", "vi": "Ngày 10 tháng 10 là sinh nhật tôi, các bạn đều đến nhà tôi nhé, thế nào?" },
+        { "s": "马丁", "zh": "好啊！十月十号星期几？", "vi": "Được chứ! Ngày 10 tháng 10 là thứ mấy?" },
+        { "s": "崔浩", "zh": "星期日。", "vi": "Chủ nhật." },
+        { "s": "林娜", "zh": "有时间，没问题。", "vi": "Có thời gian, không vấn đề gì." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "明天", "py": "míngtiān", "pos": "danh từ", "vi": "ngày mai", "ex": "明天星期几？", "ex_vi": "Ngày mai là thứ mấy?" },
+    { "zh": "后天", "py": "hòutiān", "pos": "danh từ", "vi": "ngày kia", "ex": "后天是我的生日。", "ex_vi": "Ngày kia là sinh nhật tôi." },
+    { "zh": "昨天", "py": "zuótiān", "pos": "danh từ", "vi": "hôm qua", "ex": "昨天是星期日。", "ex_vi": "Hôm qua là chủ nhật." },
+    { "zh": "前天", "py": "qiántiān", "pos": "danh từ", "vi": "hôm kia", "ex": "前天我去了超市。", "ex_vi": "Hôm kia tôi đã đi siêu thị." },
+    { "zh": "报纸", "py": "bàozhǐ", "pos": "danh từ", "vi": "báo (tờ báo)", "ex": "我买一份报纸。", "ex_vi": "Tôi mua một tờ báo." },
+    { "zh": "杂志", "py": "zázhì", "pos": "danh từ", "vi": "tạp chí", "ex": "这本杂志很好。", "ex_vi": "Quyển tạp chí này rất hay." },
+    { "zh": "衣服", "py": "yīfu", "pos": "danh từ", "vi": "quần áo", "ex": "这件衣服多少钱？", "ex_vi": "Bộ quần áo này bao nhiêu tiền?" }
+  ]
+}

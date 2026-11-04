@@ -1,0 +1,81 @@
+{
+  "number": 15, "title_zh": "大学生可以打工吗", "title_en": "Can College Students Have Part-time Jobs", "title_vi": "Sinh viên có thể đi làm thêm không?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "打工", "py": "dǎ gōng", "pos": "động từ", "vi": "làm thêm, làm công", "ex": "他在餐厅打工。", "ex_vi": "Anh ấy làm thêm ở nhà hàng." },
+        { "zh": "挣钱", "py": "zhèng qián", "pos": "động từ", "vi": "kiếm tiền", "ex": "他想挣钱。", "ex_vi": "Anh ấy muốn kiếm tiền." },
+        { "zh": "告诉", "py": "gàosu", "pos": "động từ", "vi": "nói cho biết, báo cho", "ex": "请告诉我你的名字。", "ex_vi": "Xin hãy cho tôi biết tên của bạn." },
+        { "zh": "要", "py": "yào", "pos": "trợ động từ", "vi": "muốn, định, sắp", "ex": "我要学习汉语。", "ex_vi": "Tôi muốn học tiếng Trung." },
+        { "zh": "会", "py": "huì", "pos": "động từ", "vi": "biết (do đã học), thành thạo", "ex": "我会说汉语。", "ex_vi": "Tôi biết nói tiếng Trung." },
+        { "zh": "当", "py": "dāng", "pos": "động từ", "vi": "làm, đảm nhiệm (nghề, vai trò)", "ex": "他想当老师。", "ex_vi": "Anh ấy muốn làm giáo viên." },
+        { "zh": "合适", "py": "héshì", "pos": "tính từ", "vi": "phù hợp, thích hợp", "ex": "这件衣服很合适。", "ex_vi": "Cái áo này rất vừa." },
+        { "zh": "可以", "py": "kěyǐ", "pos": "trợ động từ", "vi": "có thể, được phép", "ex": "我可以进来吗？", "ex_vi": "Tôi vào được không?" },
+        { "zh": "辅导", "py": "fǔdǎo", "pos": "động từ", "vi": "kèm cặp, hướng dẫn học", "ex": "老师辅导我们学习。", "ex_vi": "Thầy/cô kèm chúng tôi học." },
+        { "zh": "互相", "py": "hùxiāng", "pos": "phó từ", "vi": "lẫn nhau, với nhau", "ex": "我们互相学习。", "ex_vi": "Chúng tôi học hỏi lẫn nhau." }
+      ],
+      "names": [
+        { "zh": "汉思", "py": "Hànsī", "vi": "Hans (Hán Tư), người nước ngoài" }
+      ],
+      "lines": [
+        { "zh": "朱云这学期不太忙，她想打工挣点儿钱。林娜告诉朱云，她的朋友汉思要找一个汉语老师。汉思会英语和法语，不会汉语，他要学习汉语。林娜觉得朱云当汉思的老师很合适，她可以辅导汉思学习汉语，她和汉思也可以互相学习。", "vi": "Học kỳ này Chu Vân không bận lắm, cô ấy muốn đi làm thêm kiếm chút tiền. Linna nói với Chu Vân rằng bạn của mình là Hans đang cần tìm một thầy dạy tiếng Trung. Hans biết tiếng Anh và tiếng Pháp, không biết tiếng Trung, anh ấy muốn học tiếng Trung. Linna thấy Chu Vân làm thầy giáo của Hans rất hợp, cô ấy có thể kèm Hans học tiếng Trung, và cô ấy cùng Hans cũng có thể học hỏi lẫn nhau." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "能", "py": "néng", "pos": "trợ động từ", "vi": "có thể, có khả năng (hoặc điều kiện cho phép)", "ex": "我今天不能去。", "ex_vi": "Hôm nay tôi không thể đi." },
+        { "zh": "大学", "py": "dàxué", "pos": "danh từ", "vi": "đại học", "ex": "他在大学学习汉语。", "ex_vi": "Anh ấy học tiếng Trung ở đại học." },
+        { "zh": "餐厅", "py": "cāntīng", "pos": "danh từ", "vi": "nhà hàng, phòng ăn", "ex": "我们去餐厅吃饭。", "ex_vi": "Chúng ta đến nhà hàng ăn cơm." },
+        { "zh": "或者", "py": "huòzhě", "pos": "liên từ", "vi": "hoặc, hay là (trong câu trần thuật)", "ex": "你可以喝茶或者咖啡。", "ex_vi": "Bạn có thể uống trà hoặc cà phê." },
+        { "zh": "办公室", "py": "bàngōngshì", "pos": "danh từ", "vi": "văn phòng", "ex": "老师在办公室。", "ex_vi": "Thầy/cô ở văn phòng." },
+        { "zh": "帮忙", "py": "bāng máng", "pos": "động từ", "vi": "giúp đỡ, giúp một tay", "ex": "请你帮忙。", "ex_vi": "Nhờ bạn giúp một tay." },
+        { "zh": "放假", "py": "fàng jià", "pos": "động từ", "vi": "nghỉ lễ, nghỉ học", "ex": "我们下星期放假。", "ex_vi": "Tuần sau chúng tôi nghỉ." },
+        { "zh": "旅游", "py": "lǚyóu", "pos": "động từ", "vi": "du lịch", "ex": "我想去中国旅游。", "ex_vi": "Tôi muốn đi du lịch Trung Quốc." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "崔浩", "zh": "马丁，在美国，大学生可以打工吗？", "vi": "Martin, ở Mỹ sinh viên đại học có thể đi làm thêm không?" },
+        { "s": "马丁", "zh": "可以，很多大学生都打工。", "vi": "Được, rất nhiều sinh viên đều đi làm thêm." },
+        { "s": "崔浩", "zh": "学生一般能做什么工作？", "vi": "Sinh viên thường có thể làm công việc gì?" },
+        { "s": "马丁", "zh": "学生可以在大学的餐厅、图书馆或者办公室帮忙，可以到公司去工作，也可以去当老师。", "vi": "Sinh viên có thể giúp việc ở nhà ăn, thư viện hoặc văn phòng của trường đại học, có thể đến công ty làm việc, cũng có thể đi làm giáo viên." },
+        { "s": "崔浩", "zh": "放假的时候你也要打工吗？", "vi": "Lúc nghỉ lễ bạn cũng định đi làm thêm à?" },
+        { "s": "马丁", "zh": "我不想打工，我想去旅游。", "vi": "Tôi không muốn đi làm thêm, tôi muốn đi du lịch." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "会", "py": "huì", "pos": "trợ động từ", "vi": "biết, có thể (kỹ năng học được)", "ex": "你会开车吗？", "ex_vi": "Bạn biết lái xe không?" },
+        { "zh": "假期", "py": "jiàqī", "pos": "danh từ", "vi": "kỳ nghỉ", "ex": "假期我想回家。", "ex_vi": "Kỳ nghỉ tôi muốn về nhà." },
+        { "zh": "回", "py": "huí", "pos": "động từ", "vi": "về, trở về", "ex": "我明天回家。", "ex_vi": "Ngày mai tôi về nhà." },
+        { "zh": "开", "py": "kāi", "pos": "động từ", "vi": "lái (xe)", "ex": "他开车去公司。", "ex_vi": "Anh ấy lái xe đến công ty." },
+        { "zh": "车", "py": "chē", "pos": "danh từ", "vi": "xe, xe cộ", "ex": "路上车很多。", "ex_vi": "Trên đường có rất nhiều xe." },
+        { "zh": "陪", "py": "péi", "pos": "động từ", "vi": "đi cùng, ở bên, tiếp", "ex": "我陪你去医院。", "ex_vi": "Tôi đi cùng bạn đến bệnh viện." },
+        { "zh": "帮", "py": "bāng", "pos": "động từ", "vi": "giúp, giúp đỡ", "ex": "我帮你租房子。", "ex_vi": "Tôi giúp bạn thuê nhà." },
+        { "zh": "辆", "py": "liàng", "pos": "lượng từ", "vi": "chiếc (lượng từ cho xe cộ)", "ex": "一辆汽车。", "ex_vi": "Một chiếc ô tô." },
+        { "zh": "比较", "py": "bǐjiào", "pos": "phó từ", "vi": "tương đối, khá", "ex": "这儿比较方便。", "ex_vi": "Ở đây khá tiện." },
+        { "zh": "感谢", "py": "gǎnxiè", "pos": "động từ", "vi": "cảm ơn, biết ơn", "ex": "非常感谢你！", "ex_vi": "Vô cùng cảm ơn bạn!" }
+      ],
+      "names": [
+        { "zh": "泰语", "py": "Tàiyǔ", "vi": "tiếng Thái" }
+      ],
+      "lines": [
+        { "s": "马丁", "zh": "放假以后，我想去泰国玩儿，可是我不会说泰语，有问题吗？", "vi": "Sau khi nghỉ, tôi muốn đến Thái Lan chơi, nhưng tôi không biết nói tiếng Thái, có vấn đề gì không?" },
+        { "s": "阿明", "zh": "没问题。很多泰国人都能说一点儿英语。", "vi": "Không vấn đề gì. Rất nhiều người Thái đều có thể nói một chút tiếng Anh." },
+        { "s": "马丁", "zh": "太好了！", "vi": "Tuyệt quá!" },
+        { "s": "阿明", "zh": "假期我也回家，我可以开车陪你玩儿。", "vi": "Kỳ nghỉ tôi cũng về nhà, tôi có thể lái xe đi chơi cùng bạn." },
+        { "s": "马丁", "zh": "不用，我知道你假期还要去工作。", "vi": "Không cần đâu, tôi biết kỳ nghỉ bạn còn phải đi làm." },
+        { "s": "阿明", "zh": "你会不会开车？", "vi": "Bạn có biết lái xe không?" },
+        { "s": "马丁", "zh": "会。", "vi": "Biết." },
+        { "s": "阿明", "zh": "我可以帮你租一辆汽车，开车比较方便。", "vi": "Tôi có thể giúp bạn thuê một chiếc ô tô, lái xe sẽ tiện hơn." },
+        { "s": "马丁", "zh": "非常感谢！", "vi": "Vô cùng cảm ơn!" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "试衣服", "py": "shì yīfu", "pos": "động từ", "vi": "mặc thử quần áo", "ex": "我想试衣服。", "ex_vi": "Tôi muốn mặc thử quần áo." },
+    { "zh": "打网球", "py": "dǎ wǎngqiú", "pos": "động từ", "vi": "chơi quần vợt", "ex": "我们下午去打网球。", "ex_vi": "Chiều nay chúng ta đi chơi quần vợt." }
+  ]
+}

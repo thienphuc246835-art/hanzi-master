@@ -1,0 +1,89 @@
+{
+  "number": 12, "title_zh": "你要茶还是咖啡", "title_en": "What Would You Like, Tea or Coffee", "title_vi": "Bạn muốn trà hay cà phê?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "学期", "py": "xuéqī", "pos": "danh từ", "vi": "học kỳ", "ex": "这个学期我学习汉语。", "ex_vi": "Học kỳ này tôi học tiếng Trung." },
+        { "zh": "门", "py": "mén", "pos": "lượng từ", "vi": "môn (lượng từ cho môn học, ngành)", "ex": "我有三门课。", "ex_vi": "Tôi có ba môn học." },
+        { "zh": "兴趣", "py": "xìngqù", "pos": "danh từ", "vi": "hứng thú, sở thích", "ex": "我对汉语很有兴趣。", "ex_vi": "Tôi rất hứng thú với tiếng Trung." },
+        { "zh": "课", "py": "kè", "pos": "danh từ", "vi": "tiết học, môn học, bài học", "ex": "我们下午有课。", "ex_vi": "Buổi chiều chúng tôi có tiết học." },
+        { "zh": "对", "py": "duì", "pos": "giới từ", "vi": "đối với, về", "ex": "我对音乐感兴趣。", "ex_vi": "Tôi hứng thú với âm nhạc." },
+        { "zh": "书法", "py": "shūfǎ", "pos": "danh từ", "vi": "thư pháp", "ex": "他喜欢书法。", "ex_vi": "Anh ấy thích thư pháp." },
+        { "zh": "太极拳", "py": "tàijíquán", "pos": "danh từ", "vi": "thái cực quyền", "ex": "早上公园里有人打太极拳。", "ex_vi": "Buổi sáng trong công viên có người tập thái cực quyền." },
+        { "zh": "感兴趣", "py": "gǎn xìngqù", "pos": "động từ", "vi": "có hứng thú, quan tâm", "ex": "你对什么感兴趣？", "ex_vi": "Bạn hứng thú với điều gì?" },
+        { "zh": "可是", "py": "kěshì", "pos": "liên từ", "vi": "nhưng, tuy nhiên", "ex": "我想去，可是没有时间。", "ex_vi": "Tôi muốn đi, nhưng không có thời gian." },
+        { "zh": "一样", "py": "yíyàng", "pos": "tính từ", "vi": "giống nhau, như nhau", "ex": "我们的书一样。", "ex_vi": "Sách của chúng tôi giống nhau." },
+        { "zh": "选", "py": "xuǎn", "pos": "động từ", "vi": "chọn, lựa chọn", "ex": "我选这门课。", "ex_vi": "Tôi chọn môn học này." },
+        { "zh": "还是", "py": "háishi", "pos": "liên từ", "vi": "hay là (dùng trong câu hỏi lựa chọn)", "ex": "你喝茶还是喝咖啡？", "ex_vi": "Bạn uống trà hay cà phê?" },
+        { "zh": "下", "py": "xià", "pos": "danh từ", "vi": "tiếp theo, sau (下学期 = học kỳ sau)", "ex": "下个星期我去北京。", "ex_vi": "Tuần sau tôi đi Bắc Kinh." }
+      ],
+      "names": [
+        { "zh": "语言学院", "py": "Yǔyán Xuéyuàn", "vi": "Học viện Ngôn ngữ" }
+      ],
+      "lines": [
+        { "zh": "这学期语言学院有六门兴趣课。我对书法、太极拳很感兴趣，可是这两门课上课时间一样，我选书法还是太极拳呢？这学期我想选太极拳，下学期我再选书法吧。", "vi": "Học kỳ này Học viện Ngôn ngữ có sáu môn học theo sở thích. Tôi rất hứng thú với thư pháp và thái cực quyền, nhưng giờ học của hai môn này giống nhau, tôi chọn thư pháp hay thái cực quyền đây? Học kỳ này tôi định chọn thái cực quyền, học kỳ sau sẽ chọn thư pháp vậy." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "运动", "py": "yùndòng", "pos": "danh từ", "vi": "thể thao, vận động", "ex": "你喜欢什么运动？", "ex_vi": "Bạn thích môn thể thao nào?" },
+        { "zh": "跑步", "py": "pǎo bù", "pos": "động từ", "vi": "chạy bộ", "ex": "他早上跑步。", "ex_vi": "Anh ấy chạy bộ buổi sáng." },
+        { "zh": "身体", "py": "shēntǐ", "pos": "danh từ", "vi": "cơ thể, sức khỏe", "ex": "运动对身体很好。", "ex_vi": "Thể thao rất tốt cho sức khỏe." },
+        { "zh": "爱好", "py": "àihào", "pos": "danh từ", "vi": "sở thích", "ex": "你有什么爱好？", "ex_vi": "Bạn có sở thích gì?" },
+        { "zh": "踢", "py": "tī", "pos": "động từ", "vi": "đá", "ex": "他喜欢踢足球。", "ex_vi": "Anh ấy thích đá bóng." },
+        { "zh": "足球", "py": "zúqiú", "pos": "danh từ", "vi": "bóng đá", "ex": "我们一起踢足球吧。", "ex_vi": "Chúng ta cùng đá bóng nhé." },
+        { "zh": "打", "py": "dǎ", "pos": "động từ", "vi": "chơi (bóng), đánh", "ex": "我下午打篮球。", "ex_vi": "Buổi chiều tôi chơi bóng rổ." },
+        { "zh": "篮球", "py": "lánqiú", "pos": "danh từ", "vi": "bóng rổ", "ex": "他打篮球打得很好。", "ex_vi": "Anh ấy chơi bóng rổ rất giỏi." },
+        { "zh": "最", "py": "zuì", "pos": "phó từ", "vi": "nhất", "ex": "我最喜欢苹果。", "ex_vi": "Tôi thích táo nhất." },
+        { "zh": "骑", "py": "qí", "pos": "động từ", "vi": "cưỡi, đi (xe đạp, ngựa)", "ex": "我骑自行车去学校。", "ex_vi": "Tôi đi xe đạp đến trường." },
+        { "zh": "自行车", "py": "zìxíngchē", "pos": "danh từ", "vi": "xe đạp", "ex": "他有一辆新自行车。", "ex_vi": "Anh ấy có một chiếc xe đạp mới." },
+        { "zh": "报名", "py": "bào míng", "pos": "động từ", "vi": "đăng ký, ghi danh", "ex": "我明天去报名。", "ex_vi": "Ngày mai tôi đi đăng ký." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "崔浩", "zh": "阿明，你喜欢什么运动？", "vi": "A Minh, bạn thích môn thể thao nào?" },
+        { "s": "阿明", "zh": "我喜欢跑步。我觉得跑步对身体很好。", "vi": "Tôi thích chạy bộ. Tôi thấy chạy bộ rất tốt cho sức khỏe." },
+        { "s": "崔浩", "zh": "你早上跑步，还是晚上跑步？", "vi": "Bạn chạy bộ buổi sáng hay buổi tối?" },
+        { "s": "阿明", "zh": "我一般晚上跑步。", "vi": "Thường thì tôi chạy bộ buổi tối." },
+        { "s": "马丁", "zh": "崔浩，你有什么爱好？", "vi": "Thôi Hạo, bạn có sở thích gì?" },
+        { "s": "崔浩", "zh": "我喜欢踢足球，也喜欢打篮球。", "vi": "Tôi thích đá bóng, cũng thích chơi bóng rổ." },
+        { "s": "阿明", "zh": "马丁，你呢？", "vi": "Martin, còn bạn?" },
+        { "s": "马丁", "zh": "我最喜欢骑自行车。我还准备学习太极拳，明天我去报名。", "vi": "Tôi thích nhất là đi xe đạp. Tôi còn định học thái cực quyền, ngày mai tôi đi đăng ký." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "咖啡", "py": "kāfēi", "pos": "danh từ", "vi": "cà phê", "ex": "我早上喝咖啡。", "ex_vi": "Buổi sáng tôi uống cà phê." },
+        { "zh": "位", "py": "wèi", "pos": "lượng từ", "vi": "vị (lượng từ lịch sự cho người)", "ex": "请问几位？", "ex_vi": "Xin hỏi mấy vị ạ?" },
+        { "zh": "红茶", "py": "hóngchá", "pos": "danh từ", "vi": "trà đen (hồng trà)", "ex": "我要一杯红茶。", "ex_vi": "Tôi lấy một ly trà đen." },
+        { "zh": "绿茶", "py": "lǜchá", "pos": "danh từ", "vi": "trà xanh", "ex": "她喜欢喝绿茶。", "ex_vi": "Cô ấy thích uống trà xanh." },
+        { "zh": "杯", "py": "bēi", "pos": "lượng từ", "vi": "ly, cốc", "ex": "一杯水。", "ex_vi": "Một cốc nước." },
+        { "zh": "没错儿", "py": "méi cuòr", "pos": "cụm từ", "vi": "đúng vậy, không sai", "ex": "A：你是老师吧？B：没错儿。", "ex_vi": "A: Bạn là giáo viên đúng không? B: Đúng vậy." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（马丁和阿明在林娜的宿舍。）", "vi": "(Martin và A Minh ở ký túc xá của Linna.)" },
+        { "s": "林娜", "zh": "我有咖啡和茶，两位喝点儿什么？", "vi": "Tôi có cà phê và trà, hai bạn uống gì?" },
+        { "s": "马丁", "zh": "我喜欢喝茶。你有什么茶？", "vi": "Tôi thích uống trà. Bạn có trà gì?" },
+        { "s": "林娜", "zh": "我有红茶和绿茶。你要红茶还是绿茶？", "vi": "Tôi có trà đen và trà xanh. Bạn lấy trà đen hay trà xanh?" },
+        { "s": "马丁", "zh": "我要一杯红茶。", "vi": "Tôi lấy một ly trà đen." },
+        { "s": "林娜", "zh": "阿明，你要茶还是咖啡？", "vi": "A Minh, bạn lấy trà hay cà phê?" },
+        { "s": "阿明", "zh": "我要咖啡。", "vi": "Tôi lấy cà phê." },
+        { "s": "林娜", "zh": "你也喜欢喝咖啡吗？", "vi": "Bạn cũng thích uống cà phê à?" },
+        { "s": "阿明", "zh": "是。我听说你非常喜欢喝咖啡，对吗？", "vi": "Vâng. Tôi nghe nói bạn rất thích uống cà phê, đúng không?" },
+        { "s": "林娜", "zh": "没错儿。", "vi": "Đúng vậy." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "排球", "py": "páiqiú", "pos": "danh từ", "vi": "bóng chuyền", "ex": "他喜欢打排球。", "ex_vi": "Anh ấy thích chơi bóng chuyền." },
+    { "zh": "网球", "py": "wǎngqiú", "pos": "danh từ", "vi": "quần vợt, tennis", "ex": "我下午打网球。", "ex_vi": "Buổi chiều tôi chơi quần vợt." },
+    { "zh": "乒乓球", "py": "pīngpāngqiú", "pos": "danh từ", "vi": "bóng bàn", "ex": "他乒乓球打得很好。", "ex_vi": "Anh ấy chơi bóng bàn rất giỏi." },
+    { "zh": "羽毛球", "py": "yǔmáoqiú", "pos": "danh từ", "vi": "cầu lông", "ex": "我们周末去打羽毛球。", "ex_vi": "Cuối tuần chúng ta đi chơi cầu lông." },
+    { "zh": "唱歌", "py": "chàng gē", "pos": "động từ", "vi": "hát", "ex": "她喜欢唱歌。", "ex_vi": "Cô ấy thích hát." },
+    { "zh": "跳舞", "py": "tiào wǔ", "pos": "động từ", "vi": "nhảy múa, khiêu vũ", "ex": "我晚上去跳舞。", "ex_vi": "Buổi tối tôi đi nhảy." }
+  ]
+}

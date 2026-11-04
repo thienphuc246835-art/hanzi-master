@@ -1,0 +1,85 @@
+{
+  "number": 19, "title_zh": "暖气还没有修好", "title_en": "The Central Heating Has Not Been Fixed Yet", "title_vi": "Lò sưởi vẫn chưa sửa xong",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "暖气", "py": "nuǎnqì", "pos": "danh từ", "vi": "hệ thống sưởi, lò sưởi", "ex": "房间里有暖气。", "ex_vi": "Trong phòng có hệ thống sưởi." },
+        { "zh": "坏", "py": "huài", "pos": "động từ", "vi": "hỏng, bị hư", "ex": "我的手机坏了。", "ex_vi": "Điện thoại của tôi bị hỏng rồi." },
+        { "zh": "棉衣", "py": "miányī", "pos": "danh từ", "vi": "áo bông", "ex": "冬天我穿棉衣。", "ex_vi": "Mùa đông tôi mặc áo bông." },
+        { "zh": "戴", "py": "dài", "pos": "động từ", "vi": "đeo, đội (mũ, găng tay, kính…)", "ex": "他戴着一顶帽子。", "ex_vi": "Anh ấy đang đội một chiếc mũ." },
+        { "zh": "手套", "py": "shǒutào", "pos": "danh từ", "vi": "găng tay", "ex": "外边很冷，戴上手套吧。", "ex_vi": "Bên ngoài rất lạnh, hãy đeo găng tay vào." },
+        { "zh": "帽子", "py": "màozi", "pos": "danh từ", "vi": "mũ", "ex": "这顶帽子很漂亮。", "ex_vi": "Chiếc mũ này rất đẹp." },
+        { "zh": "后来", "py": "hòulái", "pos": "danh từ", "vi": "sau đó, về sau (nói về quá khứ)", "ex": "后来他搬家了。", "ex_vi": "Sau đó anh ấy chuyển nhà." },
+        { "zh": "只好", "py": "zhǐhǎo", "pos": "phó từ", "vi": "đành phải, chỉ còn cách", "ex": "没有车，我只好走路。", "ex_vi": "Không có xe, tôi đành đi bộ." },
+        { "zh": "打开", "py": "dǎkāi", "pos": "động từ", "vi": "mở ra, bật lên", "ex": "请打开书。", "ex_vi": "Xin hãy mở sách ra." },
+        { "zh": "空调", "py": "kōngtiáo", "pos": "danh từ", "vi": "điều hòa không khí", "ex": "我想打开空调。", "ex_vi": "Tôi muốn bật điều hòa." },
+        { "zh": "房东", "py": "fángdōng", "pos": "danh từ", "vi": "chủ nhà (cho thuê)", "ex": "我的房东很好。", "ex_vi": "Chủ nhà của tôi rất tốt." },
+        { "zh": "打(电话)", "py": "dǎ (diànhuà)", "pos": "động từ", "vi": "gọi (điện thoại)", "ex": "我给妈妈打电话。", "ex_vi": "Tôi gọi điện cho mẹ." },
+        { "zh": "修", "py": "xiū", "pos": "động từ", "vi": "sửa, sửa chữa", "ex": "请你修一下电脑。", "ex_vi": "Nhờ bạn sửa máy tính một chút." },
+        { "zh": "等", "py": "děng", "pos": "động từ", "vi": "đợi, chờ", "ex": "我等你一会儿。", "ex_vi": "Tôi đợi bạn một lát." },
+        { "zh": "看见", "py": "kànjiàn", "pos": "động từ", "vi": "nhìn thấy", "ex": "我看见他了。", "ex_vi": "Tôi nhìn thấy anh ấy rồi." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "我房间里的暖气坏了，房间里特别冷。我穿上棉衣，戴上手套、帽子，可是还觉得冷，后来我只好打开了空调。我给房东打了电话，他说找人来修。我等了两个星期，也没看见一个人来。暖气到现在还没修好，我房间里还是那么冷。", "vi": "Hệ thống sưởi trong phòng tôi bị hỏng, trong phòng đặc biệt lạnh. Tôi mặc áo bông, đeo găng tay, đội mũ nhưng vẫn thấy lạnh, sau đó tôi đành bật điều hòa. Tôi gọi điện cho chủ nhà, ông ấy nói sẽ tìm người đến sửa. Tôi đợi hai tuần mà không thấy ai đến. Đến giờ hệ thống sưởi vẫn chưa sửa xong, trong phòng tôi vẫn lạnh như vậy." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "先生", "py": "xiānsheng", "pos": "danh từ", "vi": "ông, ngài, tiên sinh", "ex": "张先生是我的老师。", "ex_vi": "Ông Trương là thầy giáo của tôi." },
+        { "zh": "天", "py": "tiān", "pos": "danh từ", "vi": "ngày", "ex": "我学了三天汉语。", "ex_vi": "Tôi đã học tiếng Trung ba ngày." },
+        { "zh": "过去", "py": "guòqu", "pos": "động từ", "vi": "trôi qua, đi qua", "ex": "两个星期过去了。", "ex_vi": "Hai tuần đã trôi qua." },
+        { "zh": "抱歉", "py": "bàoqiàn", "pos": "tính từ", "vi": "xin lỗi, áy náy", "ex": "真抱歉，我来晚了。", "ex_vi": "Thật xin lỗi, tôi đến muộn." },
+        { "zh": "保证", "py": "bǎozhèng", "pos": "động từ", "vi": "bảo đảm, cam đoan", "ex": "我保证明天来。", "ex_vi": "Tôi cam đoan ngày mai sẽ đến." },
+        { "zh": "以前", "py": "yǐqián", "pos": "danh từ", "vi": "trước đây, trước khi", "ex": "圣诞节以前我回家。", "ex_vi": "Trước lễ Giáng sinh tôi sẽ về nhà." },
+        { "zh": "要", "py": "yào", "pos": "động từ", "vi": "cần, mất (thời gian)", "ex": "走路要十分钟。", "ex_vi": "Đi bộ mất mười phút." }
+      ],
+      "names": [
+        { "zh": "张", "py": "Zhāng", "vi": "Trương (một họ phổ biến ở Trung Quốc)" },
+        { "zh": "圣诞节", "py": "Shèngdàn Jié", "vi": "lễ Giáng sinh" },
+        { "zh": "圣诞", "py": "Shèngdàn", "vi": "Giáng sinh" }
+      ],
+      "lines": [
+        { "zh": "（山田给房东张先生打电话。）", "vi": "(Yamada gọi điện cho ông Trương, chủ nhà.)" },
+        { "s": "山田", "zh": "您是张先生吗？", "vi": "Ông có phải ông Trương không ạ?" },
+        { "s": "张先生", "zh": "我是。", "vi": "Phải, là tôi." },
+        { "s": "山田", "zh": "上次您说找人来修暖气，两天就能修好。现在两个星期过去了，怎么还没来人修呢？", "vi": "Lần trước ông nói sẽ tìm người đến sửa hệ thống sưởi, hai ngày là sửa xong. Bây giờ hai tuần đã trôi qua, sao vẫn chưa có người đến sửa?" },
+        { "s": "张先生", "zh": "真的很抱歉，这次我保证圣诞节以前一定修好。", "vi": "Thật sự rất xin lỗi, lần này tôi cam đoan nhất định sẽ sửa xong trước Giáng sinh." },
+        { "s": "山田", "zh": "什么？还要一个星期呀！", "vi": "Cái gì? Còn phải một tuần nữa à!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "完", "py": "wán", "pos": "động từ", "vi": "xong, hết", "ex": "我看完这本书了。", "ex_vi": "Tôi đã đọc xong quyển sách này." },
+        { "zh": "还", "py": "huán", "pos": "động từ", "vi": "trả lại", "ex": "明天我还你书。", "ex_vi": "Ngày mai tôi trả sách cho bạn." },
+        { "zh": "认为", "py": "rènwéi", "pos": "động từ", "vi": "cho rằng, nghĩ rằng", "ex": "我认为这个办法很好。", "ex_vi": "Tôi cho rằng cách này rất hay." },
+        { "zh": "容易", "py": "róngyì", "pos": "tính từ", "vi": "dễ", "ex": "这个汉字很容易写。", "ex_vi": "Chữ Hán này rất dễ viết." },
+        { "zh": "读", "py": "dú", "pos": "động từ", "vi": "đọc", "ex": "请你读一下课文。", "ex_vi": "Mời bạn đọc bài khóa một chút." },
+        { "zh": "内容", "py": "nèiróng", "pos": "danh từ", "vi": "nội dung", "ex": "这本书的内容很有意思。", "ex_vi": "Nội dung quyển sách này rất thú vị." },
+        { "zh": "这样", "py": "zhèyàng", "pos": "đại từ", "vi": "như thế này, như vậy", "ex": "我也这样认为。", "ex_vi": "Tôi cũng nghĩ như vậy." },
+        { "zh": "遍", "py": "biàn", "pos": "lượng từ", "vi": "lần, lượt (từ đầu đến cuối)", "ex": "请再说一遍。", "ex_vi": "Xin hãy nói lại một lần nữa." },
+        { "zh": "后天", "py": "hòutiān", "pos": "danh từ", "vi": "ngày kia", "ex": "后天我去北京。", "ex_vi": "Ngày kia tôi đi Bắc Kinh." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "崔浩", "zh": "山田，我的那本书你看完了没有？", "vi": "Yamada, quyển sách đó của tôi bạn đọc xong chưa?" },
+        { "s": "山田", "zh": "已经看完了。昨天我还想，今天还给你，可是来的时候着急，忘带了。", "vi": "Đã đọc xong rồi. Hôm qua tôi còn nghĩ hôm nay trả cho bạn, nhưng lúc đến vội quá nên quên mang." },
+        { "s": "崔浩", "zh": "不是我看，是我朋友要看。你觉得那本书怎么样？", "vi": "Không phải tôi đọc, là bạn tôi muốn đọc. Bạn thấy quyển sách đó thế nào?" },
+        { "s": "山田", "zh": "我认为那本书很容易读，书的内容也非常有意思。", "vi": "Tôi cho rằng quyển sách đó rất dễ đọc, nội dung cũng rất thú vị." },
+        { "s": "崔浩", "zh": "我也这样认为。我真想再看一遍，可是现在没时间，以后有了时间，我一定再看一遍。", "vi": "Tôi cũng nghĩ vậy. Tôi thật sự muốn đọc lại một lần nữa, nhưng bây giờ không có thời gian, sau này có thời gian tôi nhất định sẽ đọc lại." },
+        { "s": "山田", "zh": "明天有人去我家修暖气，我不能来学校，后天我还给你，行吗？", "vi": "Ngày mai có người đến nhà tôi sửa hệ thống sưởi, tôi không thể đến trường, ngày kia tôi trả bạn, được không?" },
+        { "s": "崔浩", "zh": "行。", "vi": "Được." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "作业", "py": "zuòyè", "pos": "danh từ", "vi": "bài tập về nhà", "ex": "我今天的作业很多。", "ex_vi": "Hôm nay bài tập về nhà của tôi rất nhiều." },
+    { "zh": "预习", "py": "yùxí", "pos": "động từ", "vi": "chuẩn bị bài trước, xem trước bài", "ex": "上课以前我先预习。", "ex_vi": "Trước khi lên lớp tôi xem bài trước." },
+    { "zh": "复习", "py": "fùxí", "pos": "động từ", "vi": "ôn tập", "ex": "晚上我复习生词。", "ex_vi": "Buổi tối tôi ôn lại từ mới." },
+    { "zh": "考试", "py": "kǎo shì", "pos": "động từ", "vi": "thi, kiểm tra", "ex": "明天我们考试。", "ex_vi": "Ngày mai chúng tôi thi." },
+    { "zh": "护照", "py": "hùzhào", "pos": "danh từ", "vi": "hộ chiếu", "ex": "我的护照在书包里。", "ex_vi": "Hộ chiếu của tôi ở trong cặp." }
+  ]
+}

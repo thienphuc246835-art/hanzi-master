@@ -1,0 +1,92 @@
+{
+  "number": 9, "title_zh": "你今天有什么安排", "title_en": "What's Your Plan for Today", "title_vi": "Hôm nay bạn có kế hoạch gì?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "每天", "py": "měi tiān", "pos": "danh từ", "vi": "mỗi ngày, hằng ngày", "ex": "我每天学习汉语。", "ex_vi": "Mỗi ngày tôi học tiếng Trung." },
+        { "zh": "点", "py": "diǎn", "pos": "lượng từ", "vi": "giờ (đúng giờ)", "ex": "现在八点。", "ex_vi": "Bây giờ là tám giờ." },
+        { "zh": "半", "py": "bàn", "pos": "số từ", "vi": "rưỡi, một nửa", "ex": "我七点半起床。", "ex_vi": "Tôi dậy lúc bảy giờ rưỡi." },
+        { "zh": "起床", "py": "qǐ chuáng", "pos": "động từ", "vi": "ngủ dậy, thức dậy", "ex": "我每天六点起床。", "ex_vi": "Mỗi ngày tôi dậy lúc sáu giờ." },
+        { "zh": "起", "py": "qǐ", "pos": "động từ", "vi": "đứng dậy, dậy, nổi lên", "ex": "他起得很早。", "ex_vi": "Anh ấy dậy rất sớm." },
+        { "zh": "床", "py": "chuáng", "pos": "danh từ", "vi": "cái giường", "ex": "我的床很大。", "ex_vi": "Giường của tôi rất lớn." },
+        { "zh": "先", "py": "xiān", "pos": "phó từ", "vi": "trước, trước tiên", "ex": "我先吃饭，然后看书。", "ex_vi": "Tôi ăn cơm trước, sau đó đọc sách." },
+        { "zh": "洗澡", "py": "xǐ zǎo", "pos": "động từ", "vi": "tắm", "ex": "我起床以后先洗澡。", "ex_vi": "Sau khi dậy, tôi tắm trước." },
+        { "zh": "洗", "py": "xǐ", "pos": "động từ", "vi": "rửa, giặt, gội", "ex": "我洗衣服。", "ex_vi": "Tôi giặt quần áo." },
+        { "zh": "然后", "py": "ránhòu", "pos": "liên từ", "vi": "sau đó, rồi", "ex": "先上课，然后去图书馆。", "ex_vi": "Học xong trước, sau đó đến thư viện." },
+        { "zh": "早饭", "py": "zǎofàn", "pos": "danh từ", "vi": "bữa sáng", "ex": "我吃早饭了。", "ex_vi": "Tôi ăn sáng rồi." },
+        { "zh": "差", "py": "chà", "pos": "động từ", "vi": "thiếu, kém, còn thiếu (giờ)", "ex": "差五分八点。", "ex_vi": "Tám giờ kém năm phút." },
+        { "zh": "刻", "py": "kè", "pos": "lượng từ", "vi": "khắc, mười lăm phút (một phần tư giờ)", "ex": "现在两点一刻。", "ex_vi": "Bây giờ là hai giờ mười lăm." },
+        { "zh": "教室", "py": "jiàoshì", "pos": "danh từ", "vi": "lớp học, phòng học", "ex": "教室里有二十个学生。", "ex_vi": "Trong phòng học có hai mươi học sinh." },
+        { "zh": "开始", "py": "kāishǐ", "pos": "động từ", "vi": "bắt đầu", "ex": "我们八点开始上课。", "ex_vi": "Chúng tôi bắt đầu vào học lúc tám giờ." },
+        { "zh": "下午", "py": "xiàwǔ", "pos": "danh từ", "vi": "buổi chiều", "ex": "下午我去图书馆。", "ex_vi": "Buổi chiều tôi đến thư viện." },
+        { "zh": "常常", "py": "chángcháng", "pos": "phó từ", "vi": "thường, thường xuyên", "ex": "我常常看电影。", "ex_vi": "Tôi thường xem phim." },
+        { "zh": "晚上", "py": "wǎnshang", "pos": "danh từ", "vi": "buổi tối", "ex": "晚上我在家看书。", "ex_vi": "Buổi tối tôi ở nhà đọc sách." },
+        { "zh": "有时候", "py": "yǒushíhou", "pos": "phó từ", "vi": "có khi, đôi khi", "ex": "我有时候看电视。", "ex_vi": "Đôi khi tôi xem ti vi." },
+        { "zh": "电视", "py": "diànshì", "pos": "danh từ", "vi": "ti vi, truyền hình", "ex": "我喜欢看电视。", "ex_vi": "Tôi thích xem ti vi." },
+        { "zh": "上网", "py": "shàng wǎng", "pos": "động từ", "vi": "lên mạng, truy cập Internet", "ex": "晚上我上网。", "ex_vi": "Buổi tối tôi lên mạng." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "我是留学生。我每天六点半起床，起床以后先洗澡，然后吃早饭。我差一刻八点去教室上课。我们每天八点开始上课，十一点半下课。下午我常常去图书馆看书。晚上我学习汉语，有时候看电视，上网。", "vi": "Tôi là du học sinh. Mỗi ngày tôi dậy lúc sáu giờ rưỡi, sau khi dậy thì tắm trước rồi ăn sáng. Bảy giờ bốn mươi lăm tôi đến lớp học. Chúng tôi bắt đầu học lúc tám giờ mỗi ngày, mười một giờ rưỡi tan học. Buổi chiều tôi thường đến thư viện đọc sách. Buổi tối tôi học tiếng Trung, đôi khi xem ti vi, lên mạng." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "现在", "py": "xiànzài", "pos": "danh từ", "vi": "bây giờ, hiện tại", "ex": "现在几点？", "ex_vi": "Bây giờ là mấy giờ?" },
+        { "zh": "事", "py": "shì", "pos": "danh từ", "vi": "việc, chuyện", "ex": "你有事吗？", "ex_vi": "Bạn có việc gì không?" },
+        { "zh": "开", "py": "kāi", "pos": "động từ", "vi": "mở", "ex": "商店八点开门。", "ex_vi": "Cửa hàng mở cửa lúc tám giờ." },
+        { "zh": "门", "py": "mén", "pos": "danh từ", "vi": "cửa, cổng", "ex": "请关门。", "ex_vi": "Xin hãy đóng cửa." },
+        { "zh": "关", "py": "guān", "pos": "động từ", "vi": "đóng, tắt", "ex": "银行五点关门。", "ex_vi": "Ngân hàng đóng cửa lúc năm giờ." },
+        { "zh": "明天", "py": "míngtiān", "pos": "danh từ", "vi": "ngày mai", "ex": "明天我也去。", "ex_vi": "Ngày mai tôi cũng đi." }
+      ],
+      "names": [
+        { "zh": "英文", "py": "Yīngwén", "vi": "tiếng Anh (chữ viết, ngôn ngữ)" }
+      ],
+      "lines": [
+        { "s": "马丁", "zh": "现在几点？", "vi": "Bây giờ là mấy giờ?" },
+        { "s": "林娜", "zh": "一点四十。你有事吗？", "vi": "Một giờ bốn mươi. Bạn có việc à?" },
+        { "s": "马丁", "zh": "我两点去图书馆看书。", "vi": "Hai giờ tôi đến thư viện đọc sách." },
+        { "s": "林娜", "zh": "你看什么书？", "vi": "Bạn đọc sách gì?" },
+        { "s": "马丁", "zh": "我看英文书。", "vi": "Tôi đọc sách tiếng Anh." },
+        { "s": "林娜", "zh": "图书馆每天几点开门？", "vi": "Thư viện mỗi ngày mấy giờ mở cửa?" },
+        { "s": "马丁", "zh": "早上八点开门。", "vi": "Tám giờ sáng mở cửa." },
+        { "s": "林娜", "zh": "几点关门？", "vi": "Mấy giờ đóng cửa?" },
+        { "s": "马丁", "zh": "晚上八点关门。", "vi": "Tám giờ tối đóng cửa." },
+        { "s": "林娜", "zh": "太好了，明天我也去。", "vi": "Tốt quá, ngày mai tôi cũng đi." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "安排", "py": "ānpái", "pos": "danh từ", "vi": "sắp xếp, kế hoạch, lịch trình", "ex": "你今天有什么安排？", "ex_vi": "Hôm nay bạn có kế hoạch gì?" },
+        { "zh": "上午", "py": "shàngwǔ", "pos": "danh từ", "vi": "buổi sáng (từ khoảng 8–12 giờ)", "ex": "上午我有课。", "ex_vi": "Buổi sáng tôi có tiết." },
+        { "zh": "朋友", "py": "péngyou", "pos": "danh từ", "vi": "bạn bè", "ex": "他是我的朋友。", "ex_vi": "Anh ấy là bạn của tôi." },
+        { "zh": "见面", "py": "jiàn miàn", "pos": "động từ", "vi": "gặp mặt", "ex": "我们明天见面。", "ex_vi": "Ngày mai chúng ta gặp nhau." },
+        { "zh": "电影", "py": "diànyǐng", "pos": "danh từ", "vi": "phim, điện ảnh", "ex": "我想看中国电影。", "ex_vi": "Tôi muốn xem phim Trung Quốc." },
+        { "zh": "再见", "py": "zàijiàn", "pos": "động từ", "vi": "tạm biệt, hẹn gặp lại", "ex": "老师，再见！", "ex_vi": "Em chào thầy/cô ạ, tạm biệt!" }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（早上崔浩给山田打电话。）", "vi": "(Buổi sáng, Thôi Hạo gọi điện cho Yamada.)" },
+        { "s": "山田", "zh": "你好！", "vi": "Xin chào!" },
+        { "s": "崔浩", "zh": "山田，我是崔浩。你今天有什么安排？", "vi": "Yamada, tôi là Thôi Hạo. Hôm nay bạn có kế hoạch gì?" },
+        { "s": "山田", "zh": "上午九点我跟中国朋友见面，下午我有时间，你有什么事？", "vi": "Chín giờ sáng tôi gặp bạn người Trung Quốc, buổi chiều tôi rảnh, bạn có việc gì thế?" },
+        { "s": "崔浩", "zh": "我想请你看中国电影。", "vi": "Tôi muốn mời bạn xem phim Trung Quốc." },
+        { "s": "山田", "zh": "好啊。电影几点开始？", "vi": "Được chứ. Mấy giờ phim bắt đầu?" },
+        { "s": "崔浩", "zh": "下午两点半开始。我们两点一刻去吧。", "vi": "Hai giờ rưỡi chiều bắt đầu. Chúng ta đi lúc hai giờ mười lăm nhé." },
+        { "s": "山田", "zh": "好。再见！", "vi": "Được. Tạm biệt!" },
+        { "s": "崔浩", "zh": "再见！", "vi": "Tạm biệt!" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "买东西", "py": "mǎi dōngxi", "pos": "động từ", "vi": "mua đồ, đi mua sắm", "ex": "下午我去买东西。", "ex_vi": "Buổi chiều tôi đi mua đồ." },
+    { "zh": "喝咖啡", "py": "hē kāfēi", "pos": "động từ", "vi": "uống cà phê", "ex": "早上我喝咖啡。", "ex_vi": "Buổi sáng tôi uống cà phê." },
+    { "zh": "游泳", "py": "yóuyǒng", "pos": "động từ", "vi": "bơi", "ex": "我下午去游泳。", "ex_vi": "Buổi chiều tôi đi bơi." },
+    { "zh": "跑步", "py": "pǎo bù", "pos": "động từ", "vi": "chạy bộ", "ex": "他每天早上跑步。", "ex_vi": "Mỗi sáng anh ấy chạy bộ." },
+    { "zh": "睡觉", "py": "shuì jiào", "pos": "động từ", "vi": "ngủ", "ex": "我晚上十点半睡觉。", "ex_vi": "Tôi đi ngủ lúc mười giờ rưỡi tối." },
+    { "zh": "打球", "py": "dǎ qiú", "pos": "động từ", "vi": "chơi bóng (các môn dùng bóng)", "ex": "我们下午去打球。", "ex_vi": "Buổi chiều chúng tôi đi chơi bóng." }
+  ]
+}

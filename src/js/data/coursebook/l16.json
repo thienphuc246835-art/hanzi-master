@@ -1,0 +1,81 @@
+{
+  "number": 16, "title_zh": "我想送他一件礼物", "title_en": "I Want to Give Him a Gift", "title_vi": "Tôi muốn tặng anh ấy một món quà",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "结婚", "py": "jié hūn", "pos": "động từ", "vi": "kết hôn, cưới", "ex": "他们下个月结婚。", "ex_vi": "Tháng sau họ kết hôn." },
+        { "zh": "送", "py": "sòng", "pos": "động từ", "vi": "tặng, tiễn", "ex": "我送你一本书。", "ex_vi": "Tôi tặng bạn một quyển sách." },
+        { "zh": "份", "py": "fèn", "pos": "lượng từ", "vi": "phần, bộ, suất (cho quà, báo, công việc)", "ex": "我买一份报纸。", "ex_vi": "Tôi mua một tờ báo." },
+        { "zh": "少", "py": "shǎo", "pos": "tính từ", "vi": "ít (不少 = không ít, khá nhiều)", "ex": "这儿的人很少。", "ex_vi": "Ở đây người rất ít." },
+        { "zh": "应该", "py": "yīnggāi", "pos": "trợ động từ", "vi": "nên, cần phải", "ex": "你应该休息。", "ex_vi": "Bạn nên nghỉ ngơi." },
+        { "zh": "希望", "py": "xīwàng", "pos": "động từ", "vi": "hy vọng, mong", "ex": "我希望你来。", "ex_vi": "Tôi hy vọng bạn đến." },
+        { "zh": "参加", "py": "cānjiā", "pos": "động từ", "vi": "tham gia, dự", "ex": "我参加他的生日会。", "ex_vi": "Tôi dự tiệc sinh nhật của anh ấy." },
+        { "zh": "婚礼", "py": "hūnlǐ", "pos": "danh từ", "vi": "lễ cưới, đám cưới", "ex": "我们去参加婚礼。", "ex_vi": "Chúng ta đi dự đám cưới." },
+        { "zh": "重要", "py": "zhòngyào", "pos": "tính từ", "vi": "quan trọng", "ex": "这件事很重要。", "ex_vi": "Việc này rất quan trọng." },
+        { "zh": "事情", "py": "shìqing", "pos": "danh từ", "vi": "sự việc, chuyện", "ex": "我有一件事情想问你。", "ex_vi": "Tôi có một chuyện muốn hỏi bạn." },
+        { "zh": "特殊", "py": "tèshū", "pos": "tính từ", "vi": "đặc biệt, đặc thù", "ex": "这是一份特殊的礼物。", "ex_vi": "Đây là một món quà đặc biệt." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "马丁有一个中国朋友下个星期结婚，马丁想送他一份礼物，但是不知道送什么合适。他问了不少中国人，他们都说：“你应该问你朋友喜欢什么，想要什么。”马丁去问朋友，他说：“我不需要你送我礼物，我希望你来参加我的婚礼。”可是马丁觉得这么重要的事情，还是应该送一份特殊的礼物。", "vi": "Martin có một người bạn Trung Quốc sẽ kết hôn vào tuần sau, Martin muốn tặng anh ấy một món quà nhưng không biết tặng gì cho hợp. Anh hỏi khá nhiều người Trung Quốc, họ đều nói: “Bạn nên hỏi bạn của mình thích gì, muốn gì.” Martin đi hỏi người bạn, anh ấy nói: “Mình không cần bạn tặng quà, mình hy vọng bạn đến dự đám cưới của mình.” Nhưng Martin thấy một việc quan trọng thế này thì vẫn nên tặng một món quà đặc biệt." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "到时候", "py": "dào shíhou", "pos": "cụm từ", "vi": "đến lúc đó, khi ấy", "ex": "到时候我给你打电话。", "ex_vi": "Đến lúc đó tôi sẽ gọi điện cho bạn." },
+        { "zh": "照相", "py": "zhào xiàng", "pos": "động từ", "vi": "chụp ảnh", "ex": "我们在这儿照相吧。", "ex_vi": "Chúng ta chụp ảnh ở đây nhé." },
+        { "zh": "照片", "py": "zhàopiàn", "pos": "danh từ", "vi": "ảnh, bức ảnh", "ex": "这张照片很漂亮。", "ex_vi": "Bức ảnh này rất đẹp." },
+        { "zh": "有意思", "py": "yǒu yìsi", "pos": "cụm từ", "vi": "thú vị, hay", "ex": "这本书很有意思。", "ex_vi": "Quyển sách này rất thú vị." },
+        { "zh": "一定", "py": "yídìng", "pos": "phó từ", "vi": "nhất định, chắc chắn", "ex": "他一定喜欢这个礼物。", "ex_vi": "Anh ấy nhất định thích món quà này." },
+        { "zh": "亲戚", "py": "qīnqi", "pos": "danh từ", "vi": "họ hàng, người thân", "ex": "过年的时候我去看亲戚。", "ex_vi": "Dịp Tết tôi đi thăm họ hàng." },
+        { "zh": "麻烦", "py": "máfan", "pos": "tính từ", "vi": "phiền phức, rắc rối", "ex": "这件事有点儿麻烦。", "ex_vi": "Việc này hơi phiền phức." },
+        { "zh": "给", "py": "gěi", "pos": "động từ", "vi": "cho, đưa", "ex": "我给你一本书。", "ex_vi": "Tôi đưa cho bạn một quyển sách." },
+        { "zh": "简单", "py": "jiǎndān", "pos": "tính từ", "vi": "đơn giản", "ex": "这个办法很简单。", "ex_vi": "Cách này rất đơn giản." },
+        { "zh": "办法", "py": "bànfǎ", "pos": "danh từ", "vi": "cách, biện pháp", "ex": "我有一个好办法。", "ex_vi": "Tôi có một cách hay." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "崔浩", "zh": "你的中国朋友结婚，你准备了什么礼物？", "vi": "Bạn Trung Quốc của bạn kết hôn, bạn đã chuẩn bị quà gì?" },
+        { "s": "马丁", "zh": "到时候，我帮他们照相，然后送他们照片。", "vi": "Đến lúc đó, tôi sẽ chụp ảnh giúp họ rồi tặng ảnh cho họ." },
+        { "s": "崔浩", "zh": "你的礼物很有意思，你朋友一定喜欢。", "vi": "Món quà của bạn rất thú vị, bạn bạn chắc chắn sẽ thích." },
+        { "s": "马丁", "zh": "韩国人结婚的时候，你们一般送什么呢？", "vi": "Khi người Hàn Quốc kết hôn, các bạn thường tặng gì?" },
+        { "s": "崔浩", "zh": "亲戚、朋友常常送钱，他们觉得买东西太麻烦，给钱简单。", "vi": "Họ hàng, bạn bè thường tặng tiền, họ thấy mua đồ phiền phức quá, cho tiền cho đơn giản." },
+        { "s": "马丁", "zh": "这个办法也很好。", "vi": "Cách này cũng rất hay." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "节日", "py": "jiérì", "pos": "danh từ", "vi": "ngày lễ, ngày hội", "ex": "春节是中国的节日。", "ex_vi": "Tết Xuân là ngày lễ của Trung Quốc." },
+        { "zh": "过", "py": "guò", "pos": "động từ", "vi": "ăn mừng, trải qua (sinh nhật, ngày lễ)", "ex": "明天我过生日。", "ex_vi": "Ngày mai tôi tổ chức sinh nhật." },
+        { "zh": "要", "py": "yào", "pos": "trợ động từ", "vi": "phải, nên", "ex": "去朋友家要带点儿东西。", "ex_vi": "Đến nhà bạn thì nên mang chút gì đó." },
+        { "zh": "带", "py": "dài", "pos": "động từ", "vi": "mang, đem theo", "ex": "你带词典了吗？", "ex_vi": "Bạn mang từ điển chưa?" },
+        { "zh": "束", "py": "shù", "pos": "lượng từ", "vi": "bó (hoa)", "ex": "一束花。", "ex_vi": "Một bó hoa." },
+        { "zh": "好吃", "py": "hǎochī", "pos": "tính từ", "vi": "ngon", "ex": "这个菜很好吃。", "ex_vi": "Món này rất ngon." },
+        { "zh": "酒", "py": "jiǔ", "pos": "danh từ", "vi": "rượu", "ex": "他不喝酒。", "ex_vi": "Anh ấy không uống rượu." },
+        { "zh": "当然", "py": "dāngrán", "pos": "phó từ", "vi": "đương nhiên, tất nhiên", "ex": "当然可以！", "ex_vi": "Đương nhiên là được!" }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "马丁", "zh": "朱云，中国人一般什么时候送礼物？", "vi": "Chu Vân, người Trung Quốc thường tặng quà vào lúc nào?" },
+        { "s": "朱云", "zh": "节日或者亲戚、朋友过生日、结婚的时候，中国人一般都要送礼物。", "vi": "Vào các ngày lễ, hoặc khi họ hàng, bạn bè tổ chức sinh nhật, kết hôn, người Trung Quốc thường đều tặng quà." },
+        { "s": "马丁", "zh": "我现在要去朋友家，要带礼物吗？", "vi": "Bây giờ tôi sắp đến nhà bạn, có cần mang quà không?" },
+        { "s": "朱云", "zh": "不带礼物也可以。", "vi": "Không mang quà cũng được." },
+        { "s": "马丁", "zh": "我觉得还是带点儿东西比较好，我应该带什么呢？", "vi": "Tôi thấy vẫn nên mang chút gì đó thì hơn, tôi nên mang gì nhỉ?" },
+        { "s": "朱云", "zh": "你可以带一点儿水果，也可以带一束花。", "vi": "Bạn có thể mang một ít trái cây, cũng có thể mang một bó hoa." },
+        { "s": "马丁", "zh": "带好吃的东西或者酒，可以吗？", "vi": "Mang đồ ăn ngon hoặc rượu thì được không?" },
+        { "s": "朱云", "zh": "当然可以。", "vi": "Đương nhiên được." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "化妆品", "py": "huàzhuāngpǐn", "pos": "danh từ", "vi": "mỹ phẩm", "ex": "她喜欢买化妆品。", "ex_vi": "Cô ấy thích mua mỹ phẩm." },
+    { "zh": "日用品", "py": "rìyòngpǐn", "pos": "danh từ", "vi": "đồ dùng hằng ngày", "ex": "超市里有很多日用品。", "ex_vi": "Trong siêu thị có rất nhiều đồ dùng hằng ngày." },
+    { "zh": "家电", "py": "jiādiàn", "pos": "danh từ", "vi": "đồ điện gia dụng", "ex": "这家商店卖家电。", "ex_vi": "Cửa hàng này bán đồ điện gia dụng." },
+    { "zh": "冰箱", "py": "bīngxiāng", "pos": "danh từ", "vi": "tủ lạnh", "ex": "冰箱里有水果。", "ex_vi": "Trong tủ lạnh có trái cây." },
+    { "zh": "洗衣机", "py": "xǐyījī", "pos": "danh từ", "vi": "máy giặt", "ex": "我想买一台洗衣机。", "ex_vi": "Tôi muốn mua một cái máy giặt." },
+    { "zh": "巧克力", "py": "qiǎokèlì", "pos": "danh từ", "vi": "sô-cô-la", "ex": "她送我一盒巧克力。", "ex_vi": "Cô ấy tặng tôi một hộp sô-cô-la." }
+  ]
+}

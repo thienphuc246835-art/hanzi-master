@@ -1,0 +1,84 @@
+{
+  "number": 10, "title_zh": "这个星期天你忙不忙", "title_en": "Are You Busy This Sunday", "title_vi": "Chủ nhật này bạn có bận không?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "城市", "py": "chéngshì", "pos": "danh từ", "vi": "thành phố", "ex": "这个城市很大。", "ex_vi": "Thành phố này rất lớn." },
+        { "zh": "公园", "py": "gōngyuán", "pos": "danh từ", "vi": "công viên", "ex": "公园里有很多花。", "ex_vi": "Trong công viên có rất nhiều hoa." },
+        { "zh": "那里", "py": "nàli", "pos": "đại từ", "vi": "ở đó, chỗ đó", "ex": "那里有一个商店。", "ex_vi": "Ở đó có một cửa hàng." },
+        { "zh": "山", "py": "shān", "pos": "danh từ", "vi": "núi", "ex": "那座山很高。", "ex_vi": "Ngọn núi đó rất cao." },
+        { "zh": "水", "py": "shuǐ", "pos": "danh từ", "vi": "nước (sông, hồ, biển nói chung)", "ex": "我想喝水。", "ex_vi": "Tôi muốn uống nước." },
+        { "zh": "树", "py": "shù", "pos": "danh từ", "vi": "cây", "ex": "公园里有很多树。", "ex_vi": "Trong công viên có nhiều cây." },
+        { "zh": "花", "py": "huā", "pos": "danh từ", "vi": "hoa", "ex": "这些花很漂亮。", "ex_vi": "Những bông hoa này rất đẹp." },
+        { "zh": "风景", "py": "fēngjǐng", "pos": "danh từ", "vi": "phong cảnh, cảnh đẹp", "ex": "这儿的风景很好。", "ex_vi": "Phong cảnh ở đây rất đẹp." },
+        { "zh": "非常", "py": "fēicháng", "pos": "phó từ", "vi": "rất, vô cùng", "ex": "我非常高兴。", "ex_vi": "Tôi vô cùng vui." },
+        { "zh": "漂亮", "py": "piàoliang", "pos": "tính từ", "vi": "đẹp, xinh đẹp", "ex": "她的衣服很漂亮。", "ex_vi": "Quần áo của cô ấy rất đẹp." },
+        { "zh": "空气", "py": "kōngqì", "pos": "danh từ", "vi": "không khí", "ex": "山上的空气很新鲜。", "ex_vi": "Không khí trên núi rất trong lành." },
+        { "zh": "新鲜", "py": "xīnxiān", "pos": "tính từ", "vi": "tươi, trong lành, mới mẻ", "ex": "这个苹果很新鲜。", "ex_vi": "Quả táo này rất tươi." },
+        { "zh": "多", "py": "duō", "pos": "tính từ", "vi": "nhiều", "ex": "公园里人很多。", "ex_vi": "Trong công viên có rất nhiều người." },
+        { "zh": "爬山", "py": "pá shān", "pos": "động từ", "vi": "leo núi", "ex": "星期天我们去爬山。", "ex_vi": "Chủ nhật chúng tôi đi leo núi." },
+        { "zh": "爬", "py": "pá", "pos": "động từ", "vi": "leo, trèo, bò", "ex": "他爬得很快。", "ex_vi": "Anh ấy leo rất nhanh." },
+        { "zh": "呼吸", "py": "hūxī", "pos": "động từ", "vi": "hít thở, hô hấp", "ex": "我们去呼吸新鲜空气。", "ex_vi": "Chúng ta đi hít thở không khí trong lành." }
+      ],
+      "names": [
+        { "zh": "西山公园", "py": "Xīshān Gōngyuán", "vi": "công viên Tây Sơn (Xishan)" }
+      ],
+      "lines": [
+        { "zh": "这个城市西边有一个公园，叫西山公园。那里有山，有水，有树，有花，风景非常漂亮，空气也非常新鲜。每天都有很多人去那儿爬山，看风景，呼吸新鲜空气。这个星期天我们也去爬山。", "vi": "Phía tây thành phố này có một công viên tên là công viên Tây Sơn. Ở đó có núi, có nước, có cây, có hoa, phong cảnh rất đẹp, không khí cũng rất trong lành. Mỗi ngày có rất nhiều người đến đó leo núi, ngắm cảnh, hít thở không khí trong lành. Chủ nhật này chúng tôi cũng đi leo núi." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "忙", "py": "máng", "pos": "tính từ", "vi": "bận", "ex": "我今天很忙。", "ex_vi": "Hôm nay tôi rất bận." },
+        { "zh": "听说", "py": "tīngshuō", "pos": "động từ", "vi": "nghe nói", "ex": "听说他是老师。", "ex_vi": "Nghe nói anh ấy là giáo viên." },
+        { "zh": "出发", "py": "chūfā", "pos": "động từ", "vi": "xuất phát, khởi hành", "ex": "我们八点出发。", "ex_vi": "Chúng ta xuất phát lúc tám giờ." },
+        { "zh": "找", "py": "zhǎo", "pos": "động từ", "vi": "tìm, tìm gặp", "ex": "我去找朋友。", "ex_vi": "Tôi đi tìm bạn." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "马丁", "zh": "这个星期天你忙不忙？", "vi": "Chủ nhật này bạn có bận không?" },
+        { "s": "朋友", "zh": "我不忙。", "vi": "Tôi không bận." },
+        { "s": "马丁", "zh": "星期天我们去爬山，你去不去？", "vi": "Chủ nhật chúng tôi đi leo núi, bạn có đi không?" },
+        { "s": "朋友", "zh": "你们去哪儿爬山？", "vi": "Các bạn đi leo núi ở đâu?" },
+        { "s": "马丁", "zh": "去西山。", "vi": "Đi Tây Sơn." },
+        { "s": "朋友", "zh": "听说西山非常漂亮，我也想跟你们一起去。", "vi": "Nghe nói Tây Sơn rất đẹp, tôi cũng muốn đi cùng các bạn." },
+        { "s": "马丁", "zh": "太好了。我们早上八点出发。", "vi": "Tuyệt quá. Chúng tôi xuất phát lúc tám giờ sáng." },
+        { "s": "朋友", "zh": "我七点半去找你。", "vi": "Bảy giờ rưỡi tôi sẽ đến tìm bạn." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "大家", "py": "dàjiā", "pos": "đại từ", "vi": "mọi người, tất cả", "ex": "大家好！", "ex_vi": "Chào mọi người!" },
+        { "zh": "累", "py": "lèi", "pos": "tính từ", "vi": "mệt", "ex": "我今天很累。", "ex_vi": "Hôm nay tôi rất mệt." },
+        { "zh": "觉得", "py": "juéde", "pos": "động từ", "vi": "cảm thấy, thấy rằng", "ex": "我觉得汉语很有意思。", "ex_vi": "Tôi thấy tiếng Trung rất thú vị." },
+        { "zh": "休息", "py": "xiūxi", "pos": "động từ", "vi": "nghỉ ngơi", "ex": "我们休息一下吧。", "ex_vi": "Chúng ta nghỉ một lát nhé." },
+        { "zh": "一下", "py": "yíxià", "pos": "lượng từ", "vi": "một chút, một lát (đứng sau động từ)", "ex": "请你看一下。", "ex_vi": "Mời bạn xem một chút." },
+        { "zh": "小", "py": "xiǎo", "pos": "tính từ", "vi": "nhỏ, bé", "ex": "这是一个小公园。", "ex_vi": "Đây là một công viên nhỏ." },
+        { "zh": "茶馆", "py": "cháguǎn", "pos": "danh từ", "vi": "quán trà", "ex": "我们去茶馆吧。", "ex_vi": "Chúng ta đến quán trà nhé." },
+        { "zh": "茶", "py": "chá", "pos": "danh từ", "vi": "trà", "ex": "我喜欢喝茶。", "ex_vi": "Tôi thích uống trà." },
+        { "zh": "喝", "py": "hē", "pos": "động từ", "vi": "uống", "ex": "你喝什么？", "ex_vi": "Bạn uống gì?" },
+        { "zh": "一点儿", "py": "yìdiǎnr", "pos": "lượng từ", "vi": "một chút, một ít", "ex": "我喝一点儿水。", "ex_vi": "Tôi uống một chút nước." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（崔浩和朋友们一起在西山爬山。）", "vi": "(Thôi Hạo cùng các bạn leo núi ở Tây Sơn.)" },
+        { "s": "崔浩", "zh": "大家累不累？", "vi": "Mọi người có mệt không?" },
+        { "s": "林娜", "zh": "累！", "vi": "Mệt!" },
+        { "s": "马丁", "zh": "我也觉得很累，我们休息一下吧。", "vi": "Tôi cũng thấy rất mệt, chúng ta nghỉ một lát nhé." },
+        { "s": "崔浩", "zh": "前边有一个小茶馆，我们去那儿喝一点儿茶，好不好？", "vi": "Phía trước có một quán trà nhỏ, chúng ta đến đó uống chút trà, được không?" },
+        { "s": "大家", "zh": "好啊！", "vi": "Được chứ!" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "冷", "py": "lěng", "pos": "tính từ", "vi": "lạnh", "ex": "今天很冷。", "ex_vi": "Hôm nay trời rất lạnh." },
+    { "zh": "热", "py": "rè", "pos": "tính từ", "vi": "nóng", "ex": "这儿夏天很热。", "ex_vi": "Mùa hè ở đây rất nóng." },
+    { "zh": "饿", "py": "è", "pos": "tính từ", "vi": "đói", "ex": "我很饿，想吃饭。", "ex_vi": "Tôi rất đói, muốn ăn cơm." },
+    { "zh": "渴", "py": "kě", "pos": "tính từ", "vi": "khát", "ex": "我很渴，想喝水。", "ex_vi": "Tôi rất khát, muốn uống nước." },
+    { "zh": "贵", "py": "guì", "pos": "tính từ", "vi": "đắt, quý", "ex": "这本书太贵了。", "ex_vi": "Quyển sách này đắt quá." },
+    { "zh": "便宜", "py": "piányi", "pos": "tính từ", "vi": "rẻ", "ex": "苹果很便宜。", "ex_vi": "Táo rất rẻ." }
+  ]
+}

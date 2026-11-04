@@ -1,0 +1,81 @@
+{
+  "number": 25, "title_zh": "我听不懂他们说的话", "title_en": "I Don't Understand What They Said", "title_vi": "Tôi nghe không hiểu họ nói gì",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "懂", "py": "dǒng", "pos": "động từ", "vi": "hiểu", "ex": "我听不懂他的话。", "ex_vi": "Tôi nghe không hiểu lời anh ấy." },
+        { "zh": "话", "py": "huà", "pos": "danh từ", "vi": "lời nói, lời, tiếng", "ex": "他说的话我都懂。", "ex_vi": "Những gì anh ấy nói tôi đều hiểu." },
+        { "zh": "出租(汽)车", "py": "chūzū (qì) chē", "pos": "danh từ", "vi": "taxi", "ex": "我坐出租车去机场。", "ex_vi": "Tôi đi taxi ra sân bay." },
+        { "zh": "虽然", "py": "suīrán", "pos": "liên từ", "vi": "tuy, mặc dù", "ex": "虽然很贵，但是很好。", "ex_vi": "Tuy đắt nhưng rất tốt." },
+        { "zh": "司机", "py": "sījī", "pos": "danh từ", "vi": "tài xế", "ex": "司机师傅开车很快。", "ex_vi": "Bác tài lái xe rất nhanh." },
+        { "zh": "住院", "py": "zhù yuàn", "pos": "động từ", "vi": "nằm viện, nhập viện", "ex": "他生病住院了。", "ex_vi": "Anh ấy bị bệnh phải nằm viện." },
+        { "zh": "担心", "py": "dān xīn", "pos": "động từ", "vi": "lo lắng", "ex": "你别担心。", "ex_vi": "Bạn đừng lo." },
+        { "zh": "护士", "py": "hùshi", "pos": "danh từ", "vi": "y tá", "ex": "护士很热情。", "ex_vi": "Cô y tá rất nhiệt tình." },
+        { "zh": "机会", "py": "jīhuì", "pos": "danh từ", "vi": "cơ hội", "ex": "这是一个好机会。", "ex_vi": "Đây là một cơ hội tốt." },
+        { "zh": "感觉", "py": "gǎnjué", "pos": "động từ", "vi": "cảm thấy, cảm giác", "ex": "我感觉有点儿冷。", "ex_vi": "Tôi cảm thấy hơi lạnh." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "上课的时候，我能听懂老师说的话。可是到了大街上，很多中国人说的话我常常听不懂。坐出租车的时候，虽然我很喜欢跟司机聊天儿，但是他们说话太快，我常常听不懂。我生病住院的时候，也担心听不懂医生和护士说的话。可是他们知道我是外国人，跟我说话很慢，我差不多都能听懂。还有，很多中国人也喜欢跟我聊天儿。我每天能有机会跟这么多中国人练习汉语，感觉很不错。", "vi": "Lúc lên lớp, tôi nghe hiểu những lời thầy cô nói. Nhưng ra đường, nhiều người Trung Quốc nói tôi thường nghe không hiểu. Khi đi taxi, tuy tôi rất thích trò chuyện với tài xế, nhưng họ nói quá nhanh nên tôi thường nghe không hiểu. Lúc tôi bị bệnh nằm viện, tôi cũng lo là không hiểu bác sĩ và y tá nói gì. Nhưng họ biết tôi là người nước ngoài nên nói chuyện với tôi rất chậm, tôi gần như đều nghe hiểu. Hơn nữa, nhiều người Trung Quốc cũng thích trò chuyện với tôi. Mỗi ngày tôi có cơ hội luyện tiếng Trung với nhiều người Trung Quốc như vậy, cảm giác rất tuyệt." }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "早", "py": "zǎo", "pos": "tính từ", "vi": "sớm", "ex": "你起得真早。", "ex_vi": "Bạn dậy sớm thật." },
+        { "zh": "出院", "py": "chū yuàn", "pos": "động từ", "vi": "xuất viện, ra viện", "ex": "他明天出院。", "ex_vi": "Ngày mai anh ấy xuất viện." },
+        { "zh": "好好儿", "py": "hǎohāor", "pos": "phó từ", "vi": "cho thật tốt, hết sức", "ex": "你要好好儿休息。", "ex_vi": "Bạn cần nghỉ ngơi cho thật tốt." },
+        { "zh": "饿", "py": "è", "pos": "tính từ", "vi": "đói", "ex": "我饿了。", "ex_vi": "Tôi đói rồi." },
+        { "zh": "光盘", "py": "guāngpán", "pos": "danh từ", "vi": "đĩa CD, đĩa quang", "ex": "我买了一张光盘。", "ex_vi": "Tôi đã mua một cái đĩa CD." },
+        { "zh": "关心", "py": "guān xīn", "pos": "động từ", "vi": "quan tâm, lo lắng cho", "ex": "谢谢你的关心。", "ex_vi": "Cảm ơn sự quan tâm của bạn." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "（崔浩生病住院了，大家来医院看他。）", "vi": "(Thôi Hạo bị bệnh nằm viện, mọi người đến bệnh viện thăm cậu ấy.)" },
+        { "s": "李一民", "zh": "你现在感觉怎么样了？", "vi": "Bây giờ em cảm thấy thế nào rồi?" },
+        { "s": "崔浩", "zh": "好点儿了。我真想早点儿出院，回学校去。", "vi": "Đỡ hơn rồi ạ. Em thật sự muốn ra viện sớm, về trường." },
+        { "s": "李一民", "zh": "别着急，你应该好好儿休息。这是我包的饺子，你吃点儿吧。", "vi": "Đừng vội, em nên nghỉ ngơi cho thật tốt. Đây là sủi cảo thầy gói, em ăn một chút đi." },
+        { "s": "崔浩", "zh": "我真饿了。您做的饺子真好吃！", "vi": "Em đói thật rồi. Sủi cảo thầy làm ngon thật!" },
+        { "s": "林娜", "zh": "你看，这是你要的书和音乐光盘。有时间你可以听听音乐，看看书。", "vi": "Cậu xem, đây là sách và đĩa nhạc cậu cần. Có thời gian cậu có thể nghe nhạc, đọc sách." },
+        { "s": "马丁", "zh": "这是你喜欢的水果。", "vi": "Đây là trái cây cậu thích." },
+        { "s": "崔浩", "zh": "谢谢你们的关心！", "vi": "Cảm ơn sự quan tâm của mọi người!" }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "部分", "py": "bùfen", "pos": "danh từ", "vi": "phần, bộ phận", "ex": "大部分人都喜欢这个。", "ex_vi": "Phần lớn mọi người đều thích cái này." },
+        { "zh": "谈", "py": "tán", "pos": "động từ", "vi": "nói chuyện, bàn", "ex": "我们谈一谈吧。", "ex_vi": "Chúng ta nói chuyện một chút nhé." },
+        { "zh": "些", "py": "xiē", "pos": "lượng từ", "vi": "một số, một ít", "ex": "你们谈些什么？", "ex_vi": "Các bạn nói chuyện gì thế?" },
+        { "zh": "经济", "py": "jīngjì", "pos": "danh từ", "vi": "kinh tế", "ex": "中国的经济发展很快。", "ex_vi": "Kinh tế Trung Quốc phát triển rất nhanh." },
+        { "zh": "发展", "py": "fāzhǎn", "pos": "động từ", "vi": "phát triển", "ex": "这个城市发展得很快。", "ex_vi": "Thành phố này phát triển rất nhanh." },
+        { "zh": "变化", "py": "biànhuà", "pos": "danh từ", "vi": "sự thay đổi, biến đổi", "ex": "中国的变化很大。", "ex_vi": "Trung Quốc thay đổi rất lớn." },
+        { "zh": "生活", "py": "shēnghuó", "pos": "danh từ", "vi": "cuộc sống, đời sống", "ex": "我喜欢这儿的生活。", "ex_vi": "Tôi thích cuộc sống ở đây." },
+        { "zh": "比如", "py": "bǐrú", "pos": "động từ", "vi": "ví dụ như", "ex": "比如，我喜欢吃水果。", "ex_vi": "Ví dụ như tôi thích ăn trái cây." },
+        { "zh": "留学", "py": "liú xué", "pos": "động từ", "vi": "du học", "ex": "他去美国留学了。", "ex_vi": "Anh ấy đã đi Mỹ du học." },
+        { "zh": "普通", "py": "pǔtōng", "pos": "tính từ", "vi": "bình thường, phổ thông", "ex": "他是一个普通人。", "ex_vi": "Anh ấy là một người bình thường." },
+        { "zh": "像", "py": "xiàng", "pos": "động từ", "vi": "giống, như", "ex": "他长得像他爸爸。", "ex_vi": "Anh ấy trông giống bố." },
+        { "zh": "那样", "py": "nàyàng", "pos": "đại từ", "vi": "như thế, như vậy", "ex": "不要那样说。", "ex_vi": "Đừng nói như vậy." },
+        { "zh": "方法", "py": "fāngfǎ", "pos": "danh từ", "vi": "phương pháp, cách", "ex": "这是一个好方法。", "ex_vi": "Đây là một phương pháp hay." }
+      ],
+      "names": [],
+      "lines": [
+        { "s": "马丁", "zh": "你和中国人一起聊天儿，能听懂他们说的话吗？", "vi": "Cậu trò chuyện với người Trung Quốc, có nghe hiểu họ nói không?" },
+        { "s": "崔浩", "zh": "大部分能听懂，只有一小部分听不懂。", "vi": "Phần lớn nghe hiểu, chỉ có một phần nhỏ nghe không hiểu." },
+        { "s": "马丁", "zh": "你们都谈些什么呢？", "vi": "Các cậu hay nói về những gì?" },
+        { "s": "崔浩", "zh": "谈中国的经济发展，中国的变化，中国人的生活。当然也谈韩国的事情。", "vi": "Nói về sự phát triển kinh tế của Trung Quốc, những thay đổi của Trung Quốc, cuộc sống của người Trung Quốc. Đương nhiên cũng nói về chuyện ở Hàn Quốc." },
+        { "s": "马丁", "zh": "他们对什么事情感兴趣？", "vi": "Họ hứng thú với chuyện gì?" },
+        { "s": "崔浩", "zh": "比如，来中国留学的韩国人为什么那么多？普通韩国人的生活真的像电视上那样吗？", "vi": "Ví dụ, vì sao người Hàn Quốc sang Trung Quốc du học nhiều thế? Cuộc sống của người Hàn bình thường có thật sự giống như trên ti vi không?" },
+        { "s": "马丁", "zh": "这些问题很有意思。虽然你学汉语的时间不长，但是你学到的东西很多。", "vi": "Những câu hỏi này rất thú vị. Tuy thời gian cậu học tiếng Trung không dài, nhưng cậu học được rất nhiều." },
+        { "s": "崔浩", "zh": "是啊，多听、多说是练习汉语最好的方法。", "vi": "Đúng vậy, nghe nhiều, nói nhiều là cách luyện tiếng Trung tốt nhất." }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "普通话", "py": "pǔtōnghuà", "pos": "danh từ", "vi": "tiếng phổ thông (Mandarin)", "ex": "他的普通话很标准。", "ex_vi": "Tiếng phổ thông của anh ấy rất chuẩn." },
+    { "zh": "方言", "py": "fāngyán", "pos": "danh từ", "vi": "phương ngữ, tiếng địa phương", "ex": "我听不懂他的方言。", "ex_vi": "Tôi nghe không hiểu tiếng địa phương của anh ấy." },
+    { "zh": "广东话", "py": "Guǎngdōnghuà", "pos": "danh từ", "vi": "tiếng Quảng Đông", "ex": "他会说广东话。", "ex_vi": "Anh ấy biết nói tiếng Quảng Đông." },
+    { "zh": "制造", "py": "zhìzào", "pos": "động từ", "vi": "chế tạo, sản xuất", "ex": "这台电脑是中国制造的。", "ex_vi": "Chiếc máy tính này do Trung Quốc sản xuất." }
+  ]
+}

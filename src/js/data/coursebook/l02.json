@@ -1,0 +1,70 @@
+{
+  "number": 2, "title_zh": "你是哪国人", "title_en": "Which Country Are You from", "title_vi": "Bạn là người nước nào?",
+  "texts": [
+    {
+      "heading": "课文一",
+      "vocab": [
+        { "zh": "早上", "py": "zǎoshang", "pos": "danh từ", "vi": "buổi sáng, sáng sớm", "ex": "早上好！", "ex_vi": "Chào buổi sáng!" }
+      ],
+      "names": [
+        { "zh": "崔浩", "py": "Cuī Hào", "vi": "Thôi Hạo, sinh viên Hàn Quốc" }
+      ],
+      "lines": [
+        { "s": "崔浩", "zh": "早上好！", "vi": "Chào buổi sáng!" },
+        { "s": "马丁", "zh": "早上好！", "vi": "Chào buổi sáng!" }
+      ]
+    },
+    {
+      "heading": "课文二",
+      "vocab": [
+        { "zh": "是", "py": "shì", "pos": "động từ", "vi": "là", "ex": "我是学生。", "ex_vi": "Tôi là sinh viên." },
+        { "zh": "哪", "py": "nǎ", "pos": "đại từ", "vi": "nào, đâu (đại từ nghi vấn)", "ex": "你是哪国人？", "ex_vi": "Bạn là người nước nào?" },
+        { "zh": "国", "py": "guó", "pos": "danh từ", "vi": "nước, quốc gia", "ex": "这是哪国？", "ex_vi": "Đây là nước nào?" },
+        { "zh": "人", "py": "rén", "pos": "danh từ", "vi": "người", "ex": "他是中国人。", "ex_vi": "Anh ấy là người Trung Quốc." },
+        { "zh": "我", "py": "wǒ", "pos": "đại từ", "vi": "tôi, tớ, mình", "ex": "我是老师。", "ex_vi": "Tôi là giáo viên." },
+        { "zh": "呢", "py": "ne", "pos": "trợ từ", "vi": "thì sao? (đặt cuối câu để hỏi tiếp, lược bớt câu hỏi)", "ex": "我很好，你呢？", "ex_vi": "Tôi khỏe, còn bạn thì sao?" },
+        { "zh": "他", "py": "tā", "pos": "đại từ", "vi": "anh ấy, ông ấy, cậu ấy", "ex": "他是我的朋友。", "ex_vi": "Anh ấy là bạn của tôi." }
+      ],
+      "names": [
+        { "zh": "美国", "py": "Měiguó", "vi": "Mỹ, Hoa Kỳ" },
+        { "zh": "韩国", "py": "Hánguó", "vi": "Hàn Quốc" },
+        { "zh": "日本", "py": "Rìběn", "vi": "Nhật Bản" }
+      ],
+      "lines": [
+        { "s": "崔浩", "zh": "你是哪国人？", "vi": "Bạn là người nước nào?" },
+        { "s": "马丁", "zh": "我是美国人。你呢？", "vi": "Tôi là người Mỹ. Còn bạn?" },
+        { "s": "崔浩", "zh": "我是韩国人。", "vi": "Tôi là người Hàn Quốc." },
+        { "s": "马丁", "zh": "他呢？", "vi": "Còn anh ấy?" },
+        { "s": "崔浩", "zh": "他是日本人。", "vi": "Anh ấy là người Nhật." }
+      ]
+    },
+    {
+      "heading": "课文三",
+      "vocab": [
+        { "zh": "三", "py": "sān", "pos": "số từ", "vi": "ba", "ex": "三，四，十。", "ex_vi": "Ba, bốn, mười." },
+        { "zh": "四", "py": "sì", "pos": "số từ", "vi": "bốn", "ex": "三和四。", "ex_vi": "Ba và bốn." },
+        { "zh": "十", "py": "shí", "pos": "số từ", "vi": "mười", "ex": "四和十。", "ex_vi": "Bốn và mười." }
+      ],
+      "names": [],
+      "lines": [
+        { "zh": "三　四　十", "vi": "Học số: 3 · 4 · 10" }
+      ]
+    }
+  ],
+  "extra": [
+    { "zh": "中国", "py": "Zhōngguó", "pos": "danh từ", "vi": "Trung Quốc", "ex": "他是中国人。", "ex_vi": "Anh ấy là người Trung Quốc." },
+    { "zh": "德国", "py": "Déguó", "pos": "danh từ", "vi": "Đức", "ex": "她是德国人。", "ex_vi": "Cô ấy là người Đức." },
+    { "zh": "英国", "py": "Yīngguó", "pos": "danh từ", "vi": "Anh (Vương quốc Anh)", "ex": "他是英国人。", "ex_vi": "Anh ấy là người Anh." },
+    { "zh": "印度", "py": "Yìndù", "pos": "danh từ", "vi": "Ấn Độ", "ex": "我是印度人。", "ex_vi": "Tôi là người Ấn Độ." },
+    { "zh": "意大利", "py": "Yìdàlì", "pos": "danh từ", "vi": "Ý", "ex": "他是意大利人。", "ex_vi": "Anh ấy là người Ý." },
+    { "zh": "法国", "py": "Fǎguó", "pos": "danh từ", "vi": "Pháp", "ex": "林娜是法国人。", "ex_vi": "Linna là người Pháp." },
+    { "zh": "泰国", "py": "Tàiguó", "pos": "danh từ", "vi": "Thái Lan", "ex": "阿明是泰国人。", "ex_vi": "A Minh là người Thái Lan." },
+    { "zh": "中国人", "py": "Zhōngguó rén", "pos": "danh từ", "vi": "người Trung Quốc", "ex": "我是中国人。", "ex_vi": "Tôi là người Trung Quốc." },
+    { "zh": "德国人", "py": "Déguó rén", "pos": "danh từ", "vi": "người Đức", "ex": "他是德国人。", "ex_vi": "Anh ấy là người Đức." },
+    { "zh": "英国人", "py": "Yīngguó rén", "pos": "danh từ", "vi": "người Anh", "ex": "她是英国人。", "ex_vi": "Cô ấy là người Anh." },
+    { "zh": "印度人", "py": "Yìndù rén", "pos": "danh từ", "vi": "người Ấn Độ", "ex": "他是印度人。", "ex_vi": "Anh ấy là người Ấn Độ." },
+    { "zh": "意大利人", "py": "Yìdàlì rén", "pos": "danh từ", "vi": "người Ý", "ex": "她是意大利人。", "ex_vi": "Cô ấy là người Ý." },
+    { "zh": "法国人", "py": "Fǎguó rén", "pos": "danh từ", "vi": "người Pháp", "ex": "他是法国人。", "ex_vi": "Anh ấy là người Pháp." },
+    { "zh": "泰国人", "py": "Tàiguó rén", "pos": "danh từ", "vi": "người Thái Lan", "ex": "她是泰国人。", "ex_vi": "Cô ấy là người Thái Lan." }
+  ]
+}
