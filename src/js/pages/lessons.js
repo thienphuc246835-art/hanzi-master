@@ -63,7 +63,8 @@ export function render(root, { level } = {}) {
     h('nav', { class: 'level-tabs', 'aria-label': 'Chọn cấp HSK' },
       available.map((l) => h('a', {
         class: 'level-tabs__tab', href: `#/lessons/${l}`, 'aria-current': l === lvl ? 'page' : null,
-      }, levelLabel(l)))),
+      }, levelLabel(l))),
+      h('a', { class: 'level-tabs__tab', href: '#/coursebook' }, 'Giáo trình 发展汉语')),
     lvl > 3 ? h('p', { class: 'muted small' }, 'Bộ từ vựng không chia bài cho cấp này — các bài được xếp tự động theo tần suất sử dụng (từ phổ biến học trước).') : null,
     h('div', { class: 'lesson-grid' }, main.map(lessonCard)),
     extra.length ? h('h2', { class: 'mt-5', style: { marginBottom: 'var(--space-3)' } }, 'Từ vựng bổ sung') : null,

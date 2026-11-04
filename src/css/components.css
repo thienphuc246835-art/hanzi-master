@@ -535,3 +535,24 @@ details.table-view summary { cursor: pointer; color: var(--color-text-secondary)
 /* ---------- Từ trong câu ví dụ ---------- */
 .example__words { display: flex; flex-wrap: wrap; gap: var(--space-1); margin: var(--space-2) 0; }
 .example__gloss { color: var(--color-text-primary); min-height: 1.3em; }
+
+/* ---------- Giáo trình (/coursebook) ---------- */
+.cb-words { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--space-3); }
+.cb-word { display: flex; flex-direction: column; gap: var(--space-2); padding: var(--space-3) var(--space-4); background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-card); }
+.cb-word__head { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--space-2); }
+.cb-word__zh { font-size: 1.9rem; line-height: 1.2; }
+.cb-word__py { color: var(--color-accent-gold); font-size: 1.05rem; }
+.cb-word__hsk { margin-left: auto; }
+.cb-word__vi { font-weight: 500; }
+.cb-word__ex { border-top: 1px dashed var(--color-border); padding-top: var(--space-2); font-size: 0.95rem; }
+.cb-word__exp { color: var(--color-accent-gold); font-size: 0.88rem; }
+.cb-names, .cb-names li { list-style: none; margin: 0; padding: 0; }
+.cb-names { display: flex; flex-direction: column; gap: var(--space-1); }
+.cb-line { display: flex; gap: var(--space-3); padding: var(--space-2) var(--space-3); border: 1px solid transparent; border-radius: var(--radius-sm); cursor: pointer; }
+.cb-line:hover { border-color: var(--color-border); }
+.cb-line--playing { border-color: var(--color-accent-gold); background: rgba(232, 184, 109, 0.08); }
+.cb-line__who { min-width: 3.5rem; color: var(--color-accent-blue); font-weight: 600; }
+.cb-line__zh { font-size: 1.3rem; line-height: 1.7; }
+.cb-line__py { color: var(--color-accent-gold); font-size: 0.95rem; }
+.cb-line__vi { color: var(--color-text-secondary); font-size: 0.92rem; }
+.hide-pinyin .cb-line__py, .hide-vi .cb-line__vi { display: none; }

@@ -8,6 +8,7 @@
     "start": "node scripts/serve.js",
     "test": "node --test \"tests/*.test.js\"",
     "validate": "node scripts/validate-vocab.js",
+    "coursebook-index": "node scripts/build-coursebook-index.mjs",
     "import-anki": "node --no-warnings scripts/import-anki.mjs"
   },
   "engines": {

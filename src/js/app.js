@@ -16,6 +16,7 @@ import * as lessons from './pages/lessons.js';
 import * as lessonPage from './pages/lesson.js';
 import * as reading from './pages/reading.js';
 import * as writing from './pages/writing.js';
+import * as coursebook from './pages/coursebook.js';
 import { icons } from './utils/icons.js';
 import { saveSettings } from './core/store.js';
 
@@ -24,6 +25,7 @@ const ROUTES = [
   { pattern: /^\/lessons(?:\/(\d))?$/, page: lessons, title: 'Bài học', nav: '/lessons', params: (m) => ({ level: m[1] }) },
   { pattern: /^\/lesson\/([\w-]+)$/, page: lessonPage, title: 'Bài học', nav: '/lessons', params: (m) => ({ id: m[1] }) },
   { pattern: /^\/lesson\/([\w-]+)\/read$/, page: reading, title: 'Đọc & dịch', nav: '/lessons', params: (m) => ({ id: m[1] }) },
+  { pattern: /^\/coursebook(?:\/(\d+))?$/, page: coursebook, title: 'Giáo trình', nav: '/lessons', params: (m) => ({ number: m[1] }) },
   { pattern: /^\/writing$/, page: writing, title: 'Tập viết', params: (m, q) => ({ lessonId: q.get('lesson') }) },
   { pattern: /^\/study$/, page: study, title: 'Học', params: (m, q) => ({ lessonId: q.get('lesson'), segment: q.get('seg') }) },
   { pattern: /^\/browse$/, page: browse, title: 'Từ điển' },
